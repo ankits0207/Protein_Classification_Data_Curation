@@ -1,0 +1,534 @@
+PDB_ID,STRUCTURE_TITLE,RESOLUTION,MW,TYPE,RES_COUNT
+3G91,1.2 Angstrom structure of the exonuclease III homologue Mth0212,1.23,31884.27,Protein,265
+4BGV,1.8 A resolution structure of the malate dehydrogenase from Picrophilus torridus in its apo form,1.81,142126.73,Protein,1292
+4ME3,1.8 Angstrom Crystal Structure of the N-terminal Domain of an Archaeal MCM,1.79,31518.89,Protein,268
+3FZI,1.9 Angstrom structure of the thermophilic exonuclease III homologue Mth0212,1.9,31454.96,Protein,265
+1NIG,2.0 A Structure of Protein of Unknown Function from Thermoplasma acidophilum,2,17921.29,Protein,152
+4UXD,2-keto 3-deoxygluconate aldolase from Picrophilus torridus,2.5,138880.09,Protein,1188
+5B48,2-Oxoacid:Ferredoxin Oxidoreductase 1 from Sulfolobus tokodai,2.5,208825.64,Protein,1864
+5B46,2-Oxoacid:Ferredoxin Oxidoreductase 2 from Sulfolobus tokodai - ligand free form,2.1,104953.72,Protein,932
+5B47,2-Oxoacid:Ferredoxin Oxidoreductase 2 from Sulfolobus tokodai - pyruvate complex,2.2,105041.78,Protein,932
+3ZSE,3D Structure of a thermophilic family GH11 xylanase from Thermobifida fusca,1.78,22845.59,Protein,201
+3LFK,A reported archaeal mechanosensitive channel is a structural homolog of MarR-like transcriptional regulators,1.6,58915.8,Protein,516
+3ZQ6,ADP-ALF4 COMPLEX OF M. THERM. TRC40,2.11,148860.67,Protein,1296
+4Z9E,Alba from Thermoplasma volcanium,2.49,44206.35,Protein,388
+1ASS,APICAL DOMAIN OF THE CHAPERONIN FROM THERMOPLASMA ACIDOPHILUM,2.3,18130.53,Protein,159
+5D1P,Archaeal ATP-dependent RNA ligase - form 2,2.2,86986.56,Protein,756
+3AII,Archaeal non-discriminating glutamyl-tRNA synthetase from Methanothermobacter thermautotrophicus,1.65,63413.57,Protein,553
+3VPC,ArgX from Sulfolobus tokodaii complexed with ADP,1.87,127998.44,Protein,1128
+3VPB,ArgX from Sulfolobus tokodaii complexed with LysW/Glu/ADP/Mg/Zn/Sulfate,1.8,141739.8,Protein,1240
+3W07,Atomic resolution structure of orotidine 5'-monophosphate decarboxylase from Methanothermobacter thermoautotrophicus bound with UMP.,1.03,27795.68,Protein,252
+1BQC,BETA-MANNANASE FROM THERMOMONOSPORA FUSCA,1.5,33123.31,Protein,302
+4L75,Ca2+-bound D184N mutant MthK RCK domain at 2.4 Angstrom,2.39,161560.12,Protein,1452
+4L74,Ca2+-bound MthK RCK domain at 1.9 Angstrom with single ligand,1.84,53855.34,Protein,484
+4L73,Ca2+-bound MthK RCK domain at 2.5 Angstrom,2.5,54194.95,Protein,484
+2BOD,"Catalytic domain of endo-1,4-glucanase Cel6A from Thermobifida fusca in complex with methyl cellobiosyl-4-thio-beta-cellobioside",1.5,31187.51,Protein,286
+2BOE,"Catalytic domain of endo-1,4-glucanase Cel6A mutant Y73S from Thermobifida fusca",1.15,30360.7,Protein,286
+2BOF,"Catalytic domain of endo-1,4-glucanase Cel6A mutant Y73S from Thermobifida fusca in complex with cellotetrose",1.64,31081.32,Protein,286
+2BOG,"Catalytic domain of endo-1,4-glucanase Cel6A mutant Y73S from Thermobifida fusca in complex with methyl cellobiosyl-4-thio-beta- cellobioside",1.04,31111.41,Protein,286
+1PBJ,CBS domain protein,1.4,14265.86,Protein,125
+2GGQ,complex of hypothetical glucose-1-phosphate thymidylyltransferase from sulfolobus tokodaii,2,45436.24,Protein,401
+3G2D,Complex of Mth0212 and a 4 bp dsDNA with 3'-overhang,2.3,76093.34,"Protein, DNA",568
+3G0R,Complex of Mth0212 and an 8bp dsDNA with distorted ends,2.4,71922.86,"Protein, DNA",554
+2E6Y,Covalent complex of orotidine 5'-monophosphate decarboxylase (ODCase) with 6-Iodo-UMP,1.6,55775.54,Protein,504
+2ZZ3,Covalent complex of orotidine monophosphate decarboxylase D70A mutant from M. thermoautotrophicus with 6-cyano-UMP,1.8,55737.54,Protein,504
+2ZZ4,Covalent complex of orotidine monophosphate decarboxylase D75N mutant from M. thermoautotrophicum with 6-cyano-UMP,1.67,55639.41,Protein,504
+2ZZ6,Covalent complex of orotidine monophosphate decarboxylase from M. thermoautotrophicum with 6-azido-UMP,1.66,55857.57,Protein,504
+4NZY,Crystal structure (type-2) of dTMP kinase (st1543) from Sulfolobus Tokodaii Strain7,2.15,51619.39,Protein,426
+4RZX,Crystal structure (type-3) of dTMP kinase (st1543) from Sulfolobus Tokodaii Strain7,2.3,49511.6,Protein,426
+3B4X,Crystal Structure Analysis of Sulfolobus tokodaii strain7 cytochrom P450,1.94,43031.3,Protein,367
+4YZO,"Crystal Structure Analysis of Thiolase-like protein, ST0096 from Sulfolobus Tokodaii",1.7,164714.91,Protein,1492
+2PD2,Crystal structure of (ST0148) conserved hypothetical from Sulfolobus Tokodaii Strain7,2.06,24220.21,Protein,216
+2DCN,Crystal structure of 2-keto-3-deoxygluconate kinase from Sulfolobus tokodaii complexed with 2-keto-6-phosphogluconate (alpha-furanose form),2.25,424234.06,Protein,3732
+2EO5,Crystal structure of 4-aminobutyrate aminotransferase from Sulfolobus tokodaii strain7,1.9,46676.64,Protein,419
+1PVM,Crystal Structure of a Conserved CBS Domain Protein TA0289 of Unknown Function from Thermoplasma acidophilum,1.5,42261.55,Protein,368
+3CBN,Crystal structure of a conserved protein (MTH639) from Methanobacterium thermoautotrophicum,1.63,17286.07,Protein,151
+3BRC,Crystal structure of a conserved protein of unknown function from Methanobacterium thermoautotrophicum,1.6,36071.83,Protein,312
+2RFB,Crystal Structure of a Cytochrome P450 from the Thermoacidophilic Archaeon Picrophilus Torridus,2.5,121076.9,Protein,1029
+3BGU,Crystal structure of a dimeric ferredoxin-like protein of unknown function (tfu_0763) from thermobifida fusca yx at 1.50 A resolution,1.5,27024.79,Protein,232
+4G2E,Crystal structure of a dimeric PrxQ from Sulfolobus tokodaii,1.4,17816.66,Protein,157
+3OZ2,Crystal structure of a geranylgeranyl bacteriochlorophyll reductase-like (Ta0516) from Thermoplasma acidophilum at 1.60 A resolution,1.6,46387.21,Protein,397
+1I81,CRYSTAL STRUCTURE OF A HEPTAMERIC LSM PROTEIN FROM METHANOBACTERIUM THERMOAUTOTROPHICUM,2,64291.07,Protein,581
+1MGQ,CRYSTAL STRUCTURE OF A HEPTAMERIC SM-LIKE PROTEIN FROM METHANOBACTERIUM THERMOAUTOTROPHICUM,1.7,64291.07,Protein,581
+3AIK,Crystal structure of a HSL-like carboxylesterase from Sulfolobus tokodaii,1.95,145708.39,Protein,1292
+3AIL,Crystal structure of a HSL-like carboxylesterase from Sulfolobus tokodaii complexed with paraoxon,1.91,145456.78,Protein,1292
+1X25,Crystal Structure of a Member of YjgF Family from Sulfolobus Tokodaii (ST0811),2,28310.71,Protein,256
+1LOJ,Crystal structure of a Methanobacterial Sm-like archaeal protein (SmAP1) bound to uridine-5'-monophosphate (UMP),1.9,140584.19,Protein,1218
+2I1O,Crystal Structure of a Nicotinate Phosphoribosyltransferase from Thermoplasma acidophilum,2.4,44874.34,Protein,398
+2QSB,Crystal structure of a protein from uncharacterized family UPF0147 from Thermoplasma acidophilum,1.3,10259.93,Protein,89
+2PMR,Crystal structure of a protein of unknown function from Methanobacterium thermoautotrophicum,1.32,10321.73,Protein,87
+1QW2,Crystal Structure of a Protein of Unknown Function TA1206 from Thermoplasma acidophilum,1.5,11365.35,Protein,102
+3C26,Crystal structure of a putative acetyltransferase (NP_394282.1) from Thermoplasma acidophilum at 2.00 A resolution,2,31485.96,Protein,266
+4E6E,"Crystal structure of a putative cell division protein FtsZ (Tfu_1113) from Thermobifida fusca YX-ER1 at 2.22 A resolution (PSI Community Target, van Wezel G.P.)",2.12,32517.51,Protein,314
+2QGO,Crystal structure of a putative Fe-S biosynthesis protein from Lactobacillus acidophilus,2.04,15552.61,Protein,141
+2FUR,CRYSTAL STRUCTURE OF A PUTATIVE FMN-BINDING PROTEIN (TA1372) FROM THERMOPLASMA ACIDOPHILUM AT 1.80 A RESOLUTION,1.8,47775.08,Protein,418
+2GVI,Crystal structure of a putative formylmethanofuran dehydrogenase subunit e (ta1109) from thermoplasma acidophilum at 1.87 A resolution,1.87,24631.63,Protein,204
+2A9V,Crystal structure of a putative gmp synthase subunit a protein (ta0944m) from thermoplasma acidophilum at 2.45 A resolution,2.24,97372.69,Protein,848
+2RE2,CRYSTAL STRUCTURE OF A PUTATIVE IRON-MOLYBDENUM COFACTOR (FEMO-CO) DINITROGENASE (TA1041M) FROM THERMOPLASMA ACIDOPHILUM DSM 1728 AT 1.30 A RESOLUTION,1.3,30114.37,Protein,272
+2QE6,CRYSTAL STRUCTURE OF A PUTATIVE METHYLTRANSFERASE (TFU_2867) FROM THERMOBIFIDA FUSCA YX AT 1.95 A RESOLUTION,1.95,63303.04,Protein,548
+3FIX,Crystal structure of a putative n-acetyltransferase (ta0374) from thermoplasma acidophilum,2.3,87085.49,Protein,732
+3MST,Crystal structure of a Putative nitrate transport protein (TVN0104) from THERMOPLASMA VOLCANIUM at 1.35 A resolution,1.35,28415.1,Protein,244
+2ONF,Crystal structure of a putative osmotically inducible protein c (ta0195) from thermoplasma acidophilum at 1.70 A resolution,1.7,33481.6,Protein,280
+3BBJ,CRYSTAL STRUCTURE OF A PUTATIVE THIOESTERASE II (TFU_2367) FROM THERMOBIFIDA FUSCA YX AT 2.45 A RESOLUTION,2.16,60520.52,Protein,544
+4YHB,Crystal structure of a siderophore utilization protein from T. fusca,1.89,63337.23,Protein,546
+1XRO,Crystal structure of active site F1-mutant E213Q soaked with peptide Phe-Leu,1.8,33660.28,Protein,293
+1XRP,Crystal structure of active site F1-mutant E213Q soaked with peptide Pro-Leu-Gly-Gly,2.3,33986.62,Protein,297
+1XRR,Crystal structure of active site F1-mutant E245Q soaked with peptide Pro-Pro,2.4,33759.36,Protein,293
+1XRL,Crystal structure of active site F1-mutant Y205F complex with inhibitor PCK,1.82,33713.77,Protein,293
+5H70,Crystal structure of ADP bound dTMP kinase (st1543) from Sulfolobus Tokodaii Strain7,2.4,50440.29,Protein,426
+3JU3,Crystal structure of alpha chain of probable 2-oxoacid ferredoxin oxidoreductase from Thermoplasma acidophilum,1.9,13410.92,Protein,118
+1HYB,CRYSTAL STRUCTURE OF AN ACTIVE SITE MUTANT OF METHANOBACTERIUM THERMOAUTOTROPHICUM NICOTINAMIDE MONONUCLEOTIDE ADENYLYLTRANSFERASE,2,20961.02,Protein,181
+1EJE,CRYSTAL STRUCTURE OF AN FMN-BINDING PROTEIN,2.2,21569.44,Protein,192
+1VGM,Crystal Structure of an Isozyme of Citrate Synthase from Sulfolbus tokodaii strain7,2,85624.28,Protein,756
+3IJ6,CRYSTAL STRUCTURE OF AN UNCHARACTERIZED METAL-DEPENDENT HYDROLASE FROM Lactobacillus acidophilus,2,141806.75,Protein,1248
+4A15,Crystal structure of an XPD DNA complex,2.2,73346.29,"Protein, DNA",624
+1FXK,CRYSTAL STRUCTURE OF ARCHAEAL PREFOLDIN (GIMC).,2.3,39885.92,Protein,349
+3F6T,Crystal structure of aspartate aminotransferase (E.C. 2.6.1.1) (YP_194538.1) from Lactobacillus acidophilus NCFM at 2.15 A resolution,2.15,122855.67,Protein,1066
+1WYD,Crystal Structure of Aspartyl-tRNA synthetase from Sulfolobus tokodaii,2.3,99027.37,Protein,858
+3NGL,"Crystal structure of bifunctional 5,10-methylenetetrahydrofolate dehydrogenase / cyclohydrolase from Thermoplasma acidophilum",2.4,62805.37,Protein,552
+4H79,Crystal structure of CasB from Thermobifida fusca,1.9,24807.02,Protein,216
+2OHH,"Crystal Structure of coenzyme F420H2 oxidase (FprA), a diiron flavoprotein, active oxidized state",1.7,183390.53,Protein,1616
+2OHJ,"Crystal Structure of coenzyme F420H2 oxidase (FprA), a diiron flavoprotein, inactive oxidized state",2.26,183766.02,Protein,1616
+2OHI,"Crystal Structure of coenzyme F420H2 oxidase (FprA), a diiron flavoprotein, reduced state",2.3,366730.75,Protein,3232
+1NOG,Crystal Structure of Conserved Protein 0546 from Thermoplasma Acidophilum,1.55,20029.07,Protein,177
+2YZJ,Crystal structure of dCTP deaminase from Sulfolobus tokodaii,1.66,58931.46,Protein,507
+3W2X,Crystal structure of DNA uridine endonuclease Mth212,1.6,30834.19,Protein,260
+3W2Y,Crystal structure of DNA uridine endonuclease Mth212 mutant W205S,1.9,62064.64,Protein,520
+2B9U,"Crystal structure of dTDP-4-dehydrorhamnose 3,5-epimerase from sulfolobus tokodaii",2.07,246068.83,Protein,2112
+1WLT,"Crystal Structure of dTDP-4-dehydrorhamnose 3,5-epimerase homologue from Sulfolobus tokodaii",1.9,45354.21,Protein,392
+1EPZ,"CRYSTAL STRUCTURE OF DTDP-6-DEOXY-D-XYLO-4-HEXULOASE 3,5-EPIMERASE FROM METHANOBACTERIUM THERMOAUTOTROPHICUM WITH BOUND LIGAND.",1.75,22104.52,Protein,185
+2PLR,Crystal structure of dTMP kinase (st1543) from Sulfolobus Tokodaii Strain7,1.6,52908.29,Protein,426
+2ZDC,Crystal structure of dUTPase from Sulfolobus tokodaii,2,57419.52,Protein,507
+3FPG,Crystal Structure of E81Q mutant of MtNAS,2,68061.7,Protein,596
+3FPH,Crystal Structure of E81Q mutant of MtNAS in complex with L-Glutamate,1.8,68039.7,Protein,596
+3FPJ,Crystal Structure of E81Q mutant of MtNAS in complex with S-ADENOSYLMETHIONINE,1.8,69018.39,Protein,596
+2GXG,Crystal structure of EmrR homolog from hyperthermophilic archaea Sulfolobus tokodaii strain7,1.45,16879.56,Protein,146
+4JYL,Crystal structure of enoyl-CoA hydratase from Thermoplasma volcanium GSS1,2.37,177147.31,Protein,1590
+1XQX,Crystal structure of F1-mutant S105A complex with PCK,2.1,33711.75,Protein,293
+1XQW,Crystal structure of F1-mutant S105A complex with PHE-LEU,2,34106.81,Protein,293
+3EDO,Crystal structure of Flavoprotein in Complex with FMN (YP_193882.1) from Lactobacillus acidophilus NCFM at 1.20 A resolution,1.2,35974.48,Protein,302
+2ZW2,Crystal Structure of Formylglycinamide Ribonucleotide Amidotransferase III from SULFOLOBUS TOKODAII (STPURS),1.55,21710.85,Protein,184
+1UMG,"Crystal structure of fructose-1,6-bisphosphatase",1.8,40653.57,Protein,362
+3IMH,CRYSTAL STRUCTURE OF GALACTOSE 1-EPIMERASE FROM Lactobacillus acidophilus NCFM,1.76,77052.68,Protein,676
+2I3O,Crystal structure of gamma-glutamyl transferase related protein from Thermoplasma acidophilum,2.03,230315.91,Protein,2064
+5B69,CRYSTAL STRUCTURE OF GERANYLGERANYLGLYCERYL PHOSPHATE SYNTHASE COMPLEXED WITH AN G-1-P FROM THERMOPLASMA ACIDOPHILUM,2.5,53457.9,Protein,492
+3GBT,Crystal structure of gluconate kinase from Lactobacillus acidophilus,2.4,56129.61,Protein,504
+2GGO,Crystal Structure of glucose-1-phosphate thymidylyltransferase from Sulfolobus tokodaii,1.8,44573.36,Protein,401
+1LVW,"Crystal structure of glucose-1-phosphate thymidylyltransferase, RmlA, complex with dTDP",1.7,138064.08,Protein,1180
+3OJ0,Crystal structure of glutamyl-tRNA reductase from Thermoplasma volcanium (nucleotide binding domain),1.65,17176.89,Protein,144
+4ZOH,Crystal structure of glyceraldehyde oxidoreductase,2.2,130095.38,Protein,1152
+3GVX,Crystal structure of Glycerate dehydrogenase related protein from Thermoplasma acidophilum,2.2,65284.18,Protein,580
+1WU7,Crystal structure of histidyl-tRNA synthetase from Thermoplasma acidophilum,2.4,100028.69,Protein,868
+2EO0,Crystal Structure of Holliday Junction Resolvase ST1444,2.4,33481.02,Protein,294
+3ING,Crystal structure of Homoserine dehydrogenase (NP_394635.1) from THERMOPLASMA ACIDOPHILUM at 1.95 A resolution,1.95,37266,Protein,325
+3C8M,Crystal structure of homoserine dehydrogenase from Thermoplasma volcanium,1.9,37509.39,Protein,331
+2EHG,Crystal structure of hyperthermophilic archaeal RNase HI,1.6,16835.83,Protein,149
+2Z0M,Crystal structure of hypothetical ATP-dependent RNA helicase from Sulfolobus tokodaii,1.9,38399.52,Protein,337
+2GGS,crystal structure of hypothetical dTDP-4-dehydrorhamnose reductase from sulfolobus tokodaii,1.7,63492.23,Protein,546
+2EO4,Crystal structure of hypothetical histidine triad nucleotide-binding protein ST2152 from Sulfolobus tokodaii strain7,1.8,17489.34,Protein,149
+2OHD,Crystal structure of hypothetical molybdenum cofactor biosynthesis protein C from Sulfolobus tokodaii,2.2,102912.73,Protein,906
+1WY6,Crystal Structure of Hypothetical Protein [ST1625p] from Hyperthermophilic Archaeon Sulfolobus tokodaii,2.2,19413.57,Protein,172
+2RBG,Crystal structure of hypothetical protein(ST0493) from sulfolobus tokodaii,1.75,30020.03,Protein,252
+2ZG6,Crystal structure of Hypothetical protein; probable 2-haloalkanoic acid dehalogenase from Sulfolobus tokodaii,2.4,51361.92,Protein,440
+1XQV,Crystal structure of inactive F1-mutant G37A,2.3,33544.12,Protein,293
+2E5M,Crystal structure of isocitrate dehydrogenase from Sulfolobus tokodaii strain 7,2.4,94604.55,Protein,818
+2DHT,Crystal structure of isocitrate dehydrogenase from Sulfolobus tokodaii strain7,2.5,93117.74,Protein,818
+2E0C,crystal structure of isocitrate dehydrogenase from Sulfolobus tokodaii strain7 at 2.0 A resolution,2,93117.74,Protein,818
+2E0Q,Crystal structure of K53E thioredoxin from Sulfolobus tokodaii strain7,1.49,11624.18,Protein,104
+3AJR,Crystal structure of L-3-Hydroxynorvaline bound L-Threonine dehydrogenase (Y137F) from Hyperthermophilic Archaeon Thermoplasma volcanium,1.77,73573.27,Protein,634
+2E5V,Crystal structure of L-Aspartate Oxidase from hyperthermophilic archaeon Sulfolobus tokodaii,2.09,106949.28,Protein,944
+2ARU,Crystal structure of lipoate-protein ligase A bound with ATP,2.5,30446.74,Protein,262
+2ART,Crystal structure of lipoate-protein ligase A bound with lipoyl-AMP,2.4,30493.1,Protein,262
+2ARS,Crystal structure of lipoate-protein ligase A From Thermoplasma acidophilum,2.04,30549.19,Protein,262
+3A9W,Crystal structure of L-Threonine bound L-Threonine dehydrogenase (Y137F) from Hyperthermophilic Archaeon Thermoplasma volcanium,1.85,73545.22,Protein,634
+3A1N,Crystal structure of L-Threonine dehydrogenase from Hyperthermophilic Archaeon Thermoplasma volcanium,2.07,73102.63,Protein,634
+3BPX,Crystal Structure of MarR,1.95,35919.22,Protein,296
+1M8F,Crystal Structure Of Methanobacterium Thermoautotrophicum Nicotinamide Mononucleotide Adenylyltransferase Mutant R11A complexed with NAD,2.4,21142.04,Protein,181
+1M8G,Crystal Structure Of Methanobacterium Thermoautotrophicum Nicotinamide Mononucleotide Adenylyltransferase Mutant R11K complexed with NAD,2,21200.14,Protein,181
+1M8J,Crystal Structure Of Methanobacterium Thermoautotrophicum Nicotinamide Mononucleotide Adenylyltransferase Mutant R136A complexed with NAD,2.4,21238.1,Protein,181
+1EJ2,Crystal structure of methanobacterium thermoautotrophicum nicotinamide mononucleotide adenylyltransferase with bound NAD+,1.9,21379.27,Protein,181
+4YP5,Crystal structure of Methanobacterium thermoautotrophicum NMNAT in complex with NADP,2.21,63924.4,Protein,543
+1ZPS,Crystal structure of Methanobacterium thermoautotrophicum phosphoribosyl-AMP cyclohydrolase HisI,1.7,33396.84,Protein,276
+2QBU,Crystal structure of Methanothermobacter thermautotrophicus CbiL,2.1,51772.59,Protein,464
+3SSJ,Crystal structure of Methanothermobacter thermautotrophicus orotidine 5'-monophosphate decarboxylase complexed with 5-fluoro-6-amino-UMP,1.4,27245.13,Protein,247
+3THQ,Crystal structure of Methanothermobacter thermautotrophicus orotidine 5'-monophosphate decarboxylase complexed with 6-amino-UMP,1.5,54508.39,Protein,494
+3SEC,Crystal structure of Methanothermobacter thermautotrophicus orotidine 5'-monophosphate decarboxylase complexed with pyrazofurin monophosphate,1.7,27227.14,Protein,247
+3SW6,Crystal structure of Methanothermobacter thermautotrophicus orotidine 5'-monophosphate decarboxylase covalently modified by 5-fluoro-6-azido-UMP,1.5,27138.02,Protein,247
+3SGU,Crystal structure of Methanothermobacter thermautotrophicus orotidine 5'-monophosphate decarboxylase covalently modified by 5-fluoro-6-iodo-UMP,1.7,27170.02,Protein,247
+3DOU,Crystal structure of methyltransferase involved in cell division from thermoplasma volcanicum gss1,1.45,22502.81,Protein,191
+4RKP,Crystal Structure of Mevalonate-3-Kinase from Thermoplasma acidophilum (apo form),2.1,75406.48,Protein,674
+4RKZ,Crystal Structure of Mevalonate-3-Kinase from Thermoplasma acidophilum (Mevalonate 3-Phosphate/ADP Bound),2.3,75824.64,Protein,674
+4RKS,Crystal Structure of Mevalonate-3-Kinase from Thermoplasma acidophilum (Mevalonate Bound),2,75386.6,Protein,674
+1W94,"Crystal Structure of Mil (Mth680), an archaeal Imp4-like protein",2,36183.23,Protein,312
+2R47,Crystal structure of MTH_862 protein of unknown function from Methanothermobacter thermautotrophicus,1.88,86873.67,Protein,785
+4HYO,Crystal Structure of MthK Pore,1.65,82954.56,Protein,728
+2WBM,"Crystal structure of mthSBDS, the homologue of the Shwachman-Bodian- Diamond syndrome protein in the euriarchaeon Methanothermobacter thermautotrophicus",1.75,57630.94,Protein,504
+3FPF,Crystal Structure of MtNAS in complex with MTA and tNA,1.66,69154.59,Protein,596
+3FPE,Crystal Structure of MtNAS in complex with thermonicotianamine,1.7,68559.92,Protein,596
+3ROS,Crystal structure of NAD-dependent aldehyde dehydrogenase from Lactobacillus acidophilus,1.88,54114.15,Protein,484
+3EEF,Crystal structure of N-carbamoylsarcosine amidase from thermoplasma acidophilum,2.35,41718.01,Protein,364
+1WRJ,Crystal structure of O6-methylguanine methyltransferase from Sulfolobus tokodaii,2,17976.95,Protein,156
+1KM6,Crystal structure of ODCase mutant D70AK72A complexed with OMP,1.5,27061.93,Protein,247
+1KM5,Crystal structure of ODCase mutant D75N complexed with 6-azaUMP,1.5,27155.48,Protein,247
+1KM3,crystal structure of ODCase mutant K42A complexed with 6-azaUMP,1.5,27062.91,Protein,247
+1KM4,crystal structure of ODCase mutant K72A complexed with UMP,1.5,27061.93,Protein,247
+1LOR,crystal structure of orotidine 5'-monophosphate complexed with BMP,1.6,25206.84,Protein,228
+3G18,Crystal structure of orotidine 5'-monophosphate decarboxylase from Methanobacterium thermoautotrophicum,1.6,49769.39,Protein,456
+4NT0,Crystal structure of orotidine 5'-monophosphate decarboxylase from Methanobacterium thermoautotrophicum complexed with 3-deazauridine 5'-monophosphate,1.77,50602.05,Protein,456
+3G1F,"Crystal structure of orotidine 5'-monophosphate decarboxylase from Methanobacterium thermoautotrophicum complexed with 5,6-dihydroorotidine 5'-monophosphate",2.5,328313.75,Protein,2964
+3G1H,"Crystal structure of orotidine 5'-monophosphate decarboxylase from Methanobacterium thermoautotrophicum complexed with 5,6-dihydrouridine 5'-monophosphate",2.3,327741.62,Protein,2964
+4O8R,"Crystal structure of orotidine 5'-monophosphate decarboxylase from methanobacterium thermoautotrophicum complexed with 5,6-dihydrouridine 5'-monophosphate",2.29,327450.88,Protein,2964
+3G1A,Crystal structure of orotidine 5'-monophosphate decarboxylase from Methanobacterium thermoautotrophicum complexed with 6-azauridine 5'-monophosphate,1.5,50419.73,Protein,456
+4NX5,Crystal structure of orotidine 5'-monophosphate decarboxylase from methanobacterium thermoautotrophicum complexed with 6-azauridine 5'-monophosphate,1.59,50856.41,Protein,456
+4O11,Crystal structure of orotidine 5'-monophosphate decarboxylase from Methanobacterium thermoautotrophicum complexed with 6-hydroxyuridine 5'-monophosphate,1.59,50888.74,Protein,456
+3LTP,Crystal structure of orotidine 5'-monophosphate decarboxylase from Methanobacterium thermoautotrophicum complexed with inhibitor BMP,1.4,50449.76,Protein,456
+3G1D,Crystal structure of orotidine 5'-monophosphate decarboxylase from Methanobacterium thermoautotrophicum complexed with uridine 5'-monophosphate,1.5,50417.76,Protein,456
+4NUW,Crystal structure of orotidine 5'-monophosphate decarboxylase from methanobacterium thermoautotrophicum complexed with uridine 5'-monophosphate,1.59,50633.98,Protein,456
+3TFX,Crystal structure of Orotidine 5'-phosphate decarboxylase from Lactobacillus acidophilus,2.19,57735.88,Protein,518
+1DV7,CRYSTAL STRUCTURE OF OROTIDINE MONOPHOSPHATE DECARBOXYLASE,1.8,24753.5,Protein,227
+1LOL,Crystal structure of orotidine monophosphate decarboxylase complex with XMP,1.9,50900.33,Protein,458
+1DVJ,CRYSTAL STRUCTURE OF OROTIDINE MONOPHOSPHATE DECARBOXYLASE COMPLEXED WITH 6-AZAUMP,1.5,107959.27,Protein,984
+1KLZ,Crystal structure of orotidine monophosphate decarboxylase mutant D70A complexed with UMP,1.5,27147.87,Protein,247
+1KM0,Crystal structure of orotidine monophosphate decarboxylase mutant D70N complexed with 6-azaUMP,1.7,108480.12,Protein,988
+1LOS,crystal structure of orotidine monophosphate decarboxylase mutant deltaR203A complexed with 6-azaUMP,1.9,99169.61,Protein,896
+1KM2,crystal structure of orotidine monophosphate mutant Q185A with 6-azaUMP,1.5,27063.97,Protein,247
+2OPJ,Crystal structure of O-succinylbenzoate synthase,1.6,35495.92,Protein,327
+2QVH,Crystal structure of O-succinylbenzoate synthase complexed with O-succinyl benzoate (OSB),1.76,71484.84,Protein,654
+4YDR,Crystal structure of oxidized homoserine dehydrogenase of Sulfolobus tokodaii,1.6,66845.98,Protein,608
+3K9U,Crystal structure of paia acetyltransferase (ta0374) from thermoplasma acidophilum,2.3,39481.76,Protein,318
+3NE7,Crystal structure of paia n-acetyltransferase from thermoplasma acidophilum in complex with coenzyme a,2.3,20120.16,Protein,159
+3HS3,Crystal structure of periplasmic binding ribose operon repressor protein from Lactobacillus acidophilus,1.6,62531.07,Protein,554
+2YWN,Crystal structure of peroxiredoxin-like protein from Sulfolobus tokodaii,1.6,17816.66,Protein,157
+3BDI,Crystal structure of predicted CIB-like hydrolase (NP_393672.1) from Thermoplasma acidophilum at 1.45 A resolution,1.45,23834.99,Protein,207
+1UD9,Crystal Structure of Proliferating Cell Nuclear Antigen (PCNA) Homolog From Sulfolobus tokodaii,1.68,110521.22,Protein,980
+2PTF,Crystal structure of protein MTH_863 from Methanobacterium thermoautotrophicum bound to FMN,2.35,53758.76,Protein,466
+2I52,"Crystal structure of protein PTO0218 from Picrophilus torridus, Pfam DUF372",2.08,83526.08,Protein,726
+2NTK,Crystal structure of PurO/IMP from Methanothermobacter thermoautotrophicus,2.03,97515.97,Protein,888
+3DTZ,Crystal structure of Putative Chlorite dismutase TA0507,1.81,144309.31,Protein,1220
+3F7W,Crystal structure of putative fructosamine-3-kinase (YP_290396.1) from THERMOBIFIDA FUSCA YX-ER1 at 1.85 A resolution,1.85,32291.57,Protein,288
+3F44,Crystal structure of putative monooxygenase (YP_193413.1) from Lactobacillus acidophilus NCFM at 1.55 A resolution,1.55,25400.98,Protein,220
+3BF5,Crystal structure of putative ribokinase (10640157) from Thermoplasma acidophilum at 1.91 A resolution,1.91,71921.86,Protein,612
+3ELK,Crystal structure of putative transcriptional regulator TA0346 from Thermoplasma acidophilum,1.7,27329.06,Protein,234
+3A4V,Crystal structure of pyruvate bound L-Threonine dehydrogenase from Hyperthermophilic Archaeon Thermoplasma volcanium,1.78,73515.1,Protein,634
+3GK5,"Crystal structure of rhodanese-related protein (TVG0868615) from Thermoplasma volcanium, Northeast Structural Genomics Consortium Target TvR109A",2.4,12374.96,Protein,108
+3CTA,Crystal structure of riboflavin kinase from Thermoplasma acidophilum,2.2,26245.07,Protein,230
+3ALY,Crystal Structure of RNase HI from Sulfolobus tokodaii with C-terminal deletion,1.66,32470.11,Protein,286
+3AJE,Crystal structure of S. tokodaii Sua5 complexed with L-threonine and AMPPNP,1.8,39845.54,Protein,352
+2PN6,Crystal Structure of S32A of ST1022-Gln complex from Sulfolobus tokodaii,1.44,17652.92,Protein,150
+2EFN,Crystal Structure of Ser 32 to Ala of ST1022 from Sulfolobus tokodaii 7,1.98,17506.78,Protein,150
+1WSC,"Crystal structure of ST0229, function unknown protein from Sulfolobus tokodaii",2.45,51903.9,Protein,460
+1WOL,"Crystal Structure of ST0689, an archaeal HEPN homologue",1.62,14331.28,Protein,122
+3GFI,Crystal structure of ST1710 complexed with its promoter DNA,2.1,40776.78,"Protein, DNA",315
+2D1H,Crystal structure of ST1889 protein from thermoacidophilic archaeon Sulfolobus tokodaii,2.05,25478.96,Protein,218
+2EF7,"Crystal structure of ST2348, a hypothetical protein with CBS domains from Sulfolobus tokodaii strain7",2.1,30293,Protein,266
+2ZBC,"Crystal structure of STS042, a stand-alone RAM module protein, from hyperthermophilic archaeon Sulfolobus tokodaii strain7.",1.9,76492.57,Protein,664
+2E2P,Crystal structure of Sulfolobus tokodaii hexokinase in complex with ADP,2,65695.09,Protein,598
+2E2O,Crystal structure of Sulfolobus tokodaii hexokinase in complex with glucose,1.65,32337.26,Protein,299
+2E2Q,"Crystal structure of Sulfolobus tokodaii hexokinase in complex with xylose, Mg2+, and ADP",2,65343.04,Protein,598
+2E2N,Crystal structure of Sulfolobus tokodaii hexokinase in the apo form,1.9,64840.7,Protein,598
+3HJE,Crystal structure of sulfolobus tokodaii hypothetical maltooligosyl trehalose synthase,1.9,84097.96,Protein,704
+4O5V,Crystal structure of T. acidophilum IdeR,2.1,27622.96,Protein,239
+3LL5,Crystal structure of T. acidophilum isopentenyl phosphate kinase product complex,1.99,115123.06,Protein,996
+3CTY,Crystal structure of T. acidophilum thioredoxin reductase,2.35,70148.69,Protein,638
+2YX4,Crystal Structure of T134A of ST1022 from Sulfolobus tokodaii,2,17638.9,Protein,150
+2FSJ,"Crystal structure of Ta0583, an archaeal actin homolog, native data",1.9,37176.27,Protein,346
+2FSK,"Crystal structure of Ta0583, an archaeal actin homolog, SeMet data",2.1,74824.87,Protein,692
+1XPP,"Crystal Structure of TA1416,DNA-directed RNA polymerase subunit L, from Thermoplasma acidophilum",1.6,54257.74,Protein,460
+4JSB,"Crystal structure of Tfu_1878, a putative enoyl-CoA hydratase from Thermobifida fusca YX",1.87,31976.66,Protein,296
+4OMR,"Crystal structure of Tfu_1878, a putative enoyl-CoA hydratase from Thermobifida fusca YX in complex with acetoacetyl-CoA",1.85,32967.39,Protein,297
+4JVT,"Crystal structure of Tfu_1878, a putative enoyl-CoA hydratase fromThermobifida fusca YX in complex with CoA",1.65,32831.24,Protein,297
+3KBG,Crystal structure of the 30S ribosomal protein S4e from Thermoplasma acidophilum. Northeast Structural Genomics Consortium Target TaR28.,1.75,24084.7,Protein,213
+3RPT,Crystal structure of the anti-HIV b12 scaffold protein,1.3,59747.73,Protein,564
+4FZO,Crystal Structure of the apo-form uranyl binding protein,1.3,19085.37,Protein,164
+1G5C,CRYSTAL STRUCTURE OF THE 'CAB' TYPE BETA CLASS CARBONIC ANHYDRASE FROM METHANOBACTERIUM THERMOAUTOTROPHICUM,2.1,114566.2,Protein,1020
+1X0U,Crystal Structure of the carboxyl transferase subunit of putative PCC of Sulfolobus tokodaii,2.2,343736.31,Protein,3132
+1TML,CRYSTAL STRUCTURE OF THE CATALYTIC DOMAIN OF A THERMOPHILIC ENDOCELLULASE,1.8,30532.86,Protein,286
+1T57,Crystal Structure of the Conserved Protein MTH1675 from Methanobacterium thermoautotrophicum,2.3,69387.7,Protein,618
+3FET,Crystal Structure of the Electron Transfer Flavoprotein Subunit Alpha related Protein Ta0212 from Thermoplasma acidophilum,2.05,72889.04,Protein,664
+3GEZ,Crystal Structure of the hypothetical egulator from Sulfolobus tokodaii 7,2,16919.64,Protein,146
+2EJX,Crystal structure of the hypothetical protein STK_08120 from Sulfolobus tokodaii,1.79,16015.57,Protein,139
+2YR2,Crystal Structure of the Hypothetical regulator from Sulfolobus tokodaii,2.01,33824.54,Protein,292
+2EB7,Crystal structure of the hypothetical regulator from Sulfolobus tokodaii 7,1.8,16879.56,Protein,146
+3GF2,Crystal structure of the hypothetical regulator ST1710 complexed with sodium salicylate,1.8,17017.69,Protein,146
+2EQA,Crystal Structure of the hypothetical Sua5 protein from Sulfolobus tokodaii,1.8,39454.2,Protein,352
+3LKK,Crystal structure of the isopentenyl phosphate kinase substrate complex,2,56436.05,Protein,498
+3GLV,Crystal structure of the lipopolysaccharide core biosynthesis protein from Thermoplasma volcanium GSS1,1.99,32722.92,Protein,286
+2E7W,Crystal structure of the Lrp/AsnC like transcriptional regulators from Sulfolobus tokodaii 7,1.82,17668.92,Protein,150
+1K3R,Crystal Structure of the Methyltransferase with a Knot from Methanobacterium thermoautotrophicum,2.3,60470.05,Protein,536
+3KXD,Crystal structure of the mthk rck in complex with cadmium,2.2,50132.18,Protein,448
+3G1S,Crystal structure of the mutant D70G of orotidine 5'-monophosphate decarboxylase from Methanobacterium thermoautotrophicum,1.4,49653.32,Protein,456
+3G1V,Crystal structure of the mutant D70G of orotidine 5'-monophosphate decarboxylase from Methanobacterium thermoautotrophicum complexed with 5-fluorouridine 5'-monophosphate,1.3,50408.57,Protein,456
+3G1X,Crystal structure of the mutant D70G of orotidine 5'-monophosphate decarboxylase from Methanobacterium thermoautotrophicum complexed with uridine 5'-monophosphate,1.55,50372.59,Protein,456
+3G24,Crystal structure of the mutant D70N of orotidine 5'-monophosphate decarboxylase from Methanobacterium thermoautotrophicum complexed with 6-azauridine 5'-monophosphate,1.5,50417.77,Protein,456
+3G1Y,Crystal structure of the mutant D70N of orotidine 5'-monophosphate decarboxylase from Methanobacterium thermoautotrophicum complexed with sulfate,1.4,49959.55,Protein,456
+3G22,Crystal structure of the mutant D70N of orotidine 5'-monophosphate decarboxylase from Methanobacterium thermoautotrophicum complexed with uridine 5'-monophosphate,1.5,50415.79,Protein,456
+3NQA,Crystal structure of the mutant F100A of orotidine 5'-monophosphate decarboxylase from Methanobacterium thermoautotrophicum complexed with inhibitor BMP,1.39,50297.56,Protein,456
+3NQ7,Crystal structure of the mutant F71A of orotidine 5'-monophosphate decarboxylase from Methanobacterium thermoautotrophicum complexed with inhibitor BMP,1.44,50389.66,Protein,456
+4LC8,Crystal structure of the mutant H128N of orotidine 5'-monophosphate decarboxylase from Methanobacterium thermoautotrophicum complexed with the inhibitor BMP,1.32,50689.61,Protein,456
+4LC6,Crystal structure of the mutant H128Q of orotidine 5'-monophosphate decarboxylase from Methanobacterium thermoautotrophicum complexed with the inhibitor BMP,1.32,50561.24,Protein,456
+4LW7,Crystal structure of the mutant H128S of orotidine 5'-monophosphate decarboxylase from Methanobacterium thermoautotrophicum complexed with the inhibitor BMP,1.42,50347.62,Protein,456
+3M43,Crystal structure of the mutant I199A of orotidine 5'-monophosphate decarboxylase from Methanobacterium thermoautotrophicum,1.3,49961.52,Protein,456
+3LHY,Crystal structure of the mutant I199A of orotidine 5'-monophosphate decarboxylase from Methanobacterium thermoautotrophicum complexed with inhibitor BMP,1.4,50365.6,Protein,456
+3LV5,Crystal structure of the mutant I199E of orotidine 5'-monophosphate decarboxylase from Methanobacterium thermoautotrophicum complexed with inhibitor BMP,1.44,50481.66,Protein,456
+3LHU,Crystal structure of the mutant I199F of orotidine 5'-monophosphate decarboxylase from Methanobacterium thermoautotrophicum complexed with inhibitor BMP,1.6,50517.79,Protein,456
+3M47,Crystal structure of the mutant I218A of orotidine 5'-monophosphate decarboxylase from Methanobacterium thermoautotrophicum,1.2,50237.8,Protein,456
+3LI1,Crystal structure of the mutant I218A of orotidine 5'-monophosphate decarboxylase from Methanobacterium thermoautotrophicum complexed with inhibitor BMP,1.35,50365.6,Protein,456
+3LV6,Crystal structure of the mutant I218F of orotidine 5'-monophosphate decarboxylase from Methanobacterium thermoautotrophicum complexed with inhibitor BMP,1.45,50517.79,Protein,456
+3PBU,Crystal structure of the mutant I96S of orotidine 5'-monophosphate decarboxylase from Methanobacterium thermoautotrophicum complexed with 6-azauridine 5'-monophosphate,1.3,50367.57,Protein,456
+3NQC,Crystal structure of the mutant I96S of orotidine 5'-monophosphate decarboxylase from Methanobacterium thermoautotrophicum complexed with inhibitor BMP,1.53,50397.6,Protein,456
+3PBV,Crystal structure of the mutant I96T of orotidine 5'-monophosphate decarboxylase from Methanobacterium thermoautotrophicum complexed with 6-azauridine 5'-monophosphate,1.3,50487.72,Protein,456
+3NQD,Crystal structure of the mutant I96T of orotidine 5'-monophosphate decarboxylase from Methanobacterium thermoautotrophicum complexed with inhibitor BMP,1.42,50517.74,Protein,456
+3RLU,Crystal structure of the mutant K82A of orotidine 5'-monophosphate decarboxylase from Methanobacterium thermoautotrophicum complexed with the inhibitor BMP,1.49,50425.64,Protein,456
+3PBW,Crystal structure of the mutant L123N of orotidine 5'-monophosphate decarboxylase from Methanobacterium thermoautotrophicum complexed with 6-azauridine 5'-monophosphate,1.3,50421.62,Protein,456
+3NQE,Crystal structure of the mutant L123N of orotidine 5'-monophosphate decarboxylase from Methanobacterium thermoautotrophicum complexed with inhibitor BMP,1.42,50635.84,Protein,456
+3PBY,Crystal structure of the mutant L123S of orotidine 5'-monophosphate decarboxylase from Methanobacterium thermoautotrophicum complexed with 6-azauridine 5'-monophosphate,1.3,50459.66,Protein,456
+3NQF,Crystal structure of the mutant L123S of orotidine 5'-monophosphate decarboxylase from Methanobacterium thermoautotrophicum complexed with inhibitor BMP,1.31,50489.69,Protein,456
+3NQ6,Crystal structure of the mutant P180A of orotidine 5'-monophosphate decarboxylase from Methanobacterium thermoautotrophicum complexed with inhibitor 6-azaUMP,1.49,50459.75,Protein,456
+3V1P,Crystal structure of the mutant Q185A of orotidine 5'-monophosphate decarboxylase from Methanobacterium thermoautotrophicum complexed with the inhibitor BMP,1.37,50527.78,Protein,456
+4FX8,Crystal structure of the mutant Q185A.R203A of orotidine 5'-monophosphate decarboxylase from Methanobacterium thermoautotrophicum complexed with inhibitor BMP,1.94,50355.55,Protein,456
+3P61,Crystal structure of the mutant R160A of orotidine 5'-monophosphate decarboxylase from Methanobacterium thermoautotrophicum complexed with inhibitor BMP,1.4,50277.53,Protein,456
+3QMR,"Crystal structure of the mutant R160A,V182A of orotidine 5'-monophosphate decarboxylase from Methanobacterium thermoautotrophicum complexed with the inhibitor BMP",1.32,50221.42,Protein,456
+4GC4,Crystal structure of the mutant R160A.R203A of orotidine 5'-monophosphate decarboxylase from Methanobacterium thermoautotrophicum complexed with inhibitor BMP,1.42,50105.3,Protein,456
+3SJ3,Crystal structure of the mutant R160A.Y206F of orotidine 5'-monophosphate decarboxylase from Methanobacterium thermoautotrophicum complexed with the inhibitor BMP,1.26,50245.53,Protein,456
+3LI0,Crystal structure of the mutant R203A of orotidine 5'-monophosphate decarboxylase from Methanobacterium thermoautotrophicum complexed with inhibitor BMP,1.5,50277.53,Protein,456
+3SY5,Crystal structure of the mutant S127A of orotidine 5'-monophosphate decarboxylase from Methanobacterium thermoautotrophicum complexed with the inhibitor 6azaUMP,1.32,50387.73,Protein,456
+3SIZ,Crystal structure of the mutant S127A of orotidine 5'-monophosphate decarboxylase from Methanobacterium thermoautotrophicum complexed with the inhibitor BMP,1.32,50601.95,Protein,456
+3LLD,Crystal structure of the mutant S127G of orotidine 5'-monophosphate decarboxylase from Methanobacterium thermoautotrophicum complexed with 6-azauridine 5'-monophosphate,1.45,50359.68,Protein,456
+3LLF,Crystal structure of the mutant S127P of orotidine 5'-monophosphate decarboxylase from Methanobacterium thermoautotrophicum complexed with 6-azauridine 5'-monophosphate,1.3,50439.8,Protein,456
+3P5Y,Crystal structure of the mutant T159A of orotidine 5'-monophosphate decarboxylase from Methanobacterium thermoautotrophicum complexed with inhibitor BMP,1.6,50481.8,Protein,456
+3P5Z,Crystal structure of the mutant T159S of orotidine 5'-monophosphate decarboxylase from Methanobacterium thermoautotrophicum complexed with inhibitor BMP,1.3,51002.37,Protein,456
+3P60,Crystal structure of the mutant T159V of orotidine 5'-monophosphate decarboxylase from Methanobacterium thermoautotrophicum complexed with inhibitor BMP,1.4,50445.81,Protein,456
+3QEZ,"Crystal structure of the mutant T159V,V182A of orotidine 5'-monophosphate decarboxylase from Methanobacterium thermoautotrophicum complexed with the inhibitor BMP",1.54,50481.8,Protein,456
+3QMS,"Crystal structure of the mutant T159V,V182A,Y206F of orotidine 5'-monophosphate decarboxylase from Methanobacterium thermoautotrophicum complexed with the inhibitor BMP",1.32,50449.8,Protein,456
+3QF0,"Crystal structure of the mutant T159V,Y206F of orotidine 5'-monophosphate decarboxylase from Methanobacterium thermoautotrophicum complexed with the inhibitor BMP",1.34,50505.91,Protein,456
+4FXR,Crystal structure of the mutant T159V.R203A of orotidine 5'-monophosphate decarboxylase from Methanobacterium thermoautotrophicum complexed with inhibitor BMP,1.71,50273.58,Protein,456
+3NQG,Crystal structure of the mutant V155D of orotidine 5'-monophosphate decarboxylase from Methanobacterium thermoautotrophicum complexed with inhibitor BMP,1.42,50573.77,Protein,456
+3PC0,Crystal structure of the mutant V155S of orotidine 5'-monophosphate decarboxylase from Methanobacterium thermoautotrophicum complexed with 6-azauridine 5'-monophosphate,1.3,50487.72,Protein,456
+3NQM,Crystal structure of the mutant V155S of orotidine 5'-monophosphate decarboxylase from Methanobacterium thermoautotrophicum complexed with inhibitor BMP,1.32,50701.93,Protein,456
+3M41,Crystal structure of the mutant V182A of orotidine 5'-monophosphate decarboxylase from Methanobacterium thermoautotrophicum,1.4,50173.76,Protein,456
+3LHW,Crystal structure of the mutant V182A of orotidine 5'-monophosphate decarboxylase from Methanobacterium thermoautotrophicum complexed with inhibitor BMP,1.35,50393.65,Protein,456
+3M5X,"Crystal structure of the mutant V182A,I199A of orotidine 5'-monophosphate decarboxylase from Methanobacterium thermoautotrophicum",1.4,49629.13,Protein,456
+3LTS,"Crystal structure of the mutant V182A,I199A of orotidine 5'-monophosphate decarboxylase from Methanobacterium thermoautotrophicum complexed with inhibitor BMP",1.43,50309.49,Protein,456
+3M5Z,"Crystal structure of the mutant V182A,I218A of orotidine 5'-monophosphate decarboxylase from Methanobacterium thermoautotrophicum",1.35,49821.25,Protein,456
+3LTY,"Crystal structure of the mutant V182A,I218A of orotidine 5'-monophosphate decarboxylase from Methanobacterium thermoautotrophicum complexed with inhibitor BMP",1.5,50309.49,Protein,456
+3M5Y,"Crystal structure of the mutant V182A,V201A of orotidine 5'-monophosphate decarboxylase from Methanobacterium thermoautotrophicum",1.46,49887.4,Protein,456
+3QMT,"Crystal structure of the mutant V182A,Y206F of orotidine 5'-monophosphate decarboxylase from Methanobacterium thermoautotrophicum complexed with the inhibitor BMP",1.32,50453.75,Protein,456
+3LHV,Crystal structure of the mutant V182A.I199A.V201A of orotidine 5'-monophosphate decarboxylase from Methanobacterium thermoautotrophicum complexed with inhibitor BMP,1.35,100506.77,Protein,912
+4FX6,Crystal structure of the mutant V182A.R203A of orotidine 5'-monophosphate decarboxylase from Methanobacterium thermoautotrophicum complexed with inhibitor BMP,1.53,50589.8,Protein,456
+3M1Z,Crystal structure of the mutant V182A.V201A of orotidine 5'-monophosphate decarboxylase from Methanobacterium thermoautotrophicum complexed with inhibitor BMP,1.42,50337.55,Protein,456
+3M44,Crystal structure of the mutant V201A of orotidine 5'-monophosphate decarboxylase from Methanobacterium thermoautotrophicum,1.4,49805.38,Protein,456
+3LHZ,Crystal structure of the mutant V201A of orotidine 5'-monophosphate decarboxylase from Methanobacterium thermoautotrophicum complexed with inhibitor BMP,1.4,50393.65,Protein,456
+3LHT,Crystal structure of the mutant V201F of orotidine 5'-monophosphate decarboxylase from Methanobacterium thermoautotrophicum complexed with inhibitor BMP,1.35,50545.84,Protein,456
+3RLV,Crystal structure of the mutant Y206F of orotidine 5'-monophosphate decarboxylase from Methanobacterium thermoautotrophicum complexed with the inhibitor BMP,1.42,50509.85,Protein,456
+3LRT,Crystal structure of the phosphoribosyl pyrophosphate (PRPP) synthetase from Thermoplasma volcanium in complex with ADP.,1.53,65681.54,Protein,572
+3NAG,Crystal structure of the phosphoribosylpyrophosphate (PRPP) synthetase from Thermoplasma Volcanium in complex with ADP,1.75,65470.77,Protein,572
+3MBI,Crystal structure of the phosphoribosylpyrophosphate (PRPP) synthetase from Thermoplasma volcanium in complex with ADP-Mg2+ and ribose 5-phosphate,1.8,131499.02,Protein,1148
+3LPN,Crystal structure of the phosphoribosylpyrophosphate (PRPP) synthetase from Thermoplasma volcanium in complex with an ATP analog (AMPCPP).,1.8,65933.61,Protein,572
+3BEY,Crystal structure of the protein O27018 from Methanobacterium thermoautotrophicum. Northeast Structural Genomics Consortium target TT217,2.4,62619.03,Protein,576
+5AVO,Crystal structure of the reduced form of homoserine dehydrogenase from Sulfolobus tokodaii.,1.8,66822.99,Protein,608
+3GFM,Crystal structure of the ST1710 mutant (K91A) protein,2.1,16861.54,Protein,146
+3GFJ,Crystal structure of the ST1710 mutant (R89A) protein,2.2,16833.53,Protein,146
+3GFL,Crystal structure of the ST1710 mutant (R90A) protein,1.9,16833.53,Protein,146
+5M86,Crystal Structure of the Thermoplasma acidophilum Protein Ta1207,2.4,395688.72,Protein,3330
+1MTZ,Crystal Structure of the Tricorn Interacting Factor F1,1.8,33530.09,Protein,293
+1MU0,Crystal Structure of the Tricorn Interacting Factor F1 Complex with PCK,2.4,33729.77,Protein,293
+1MT3,Crystal Structure of the Tricorn Interacting Factor Selenomethionine-F1,2,34147.38,Protein,293
+1K32,Crystal structure of the tricorn protease,2,712080.31,Protein,6270
+4FZP,Crystal Structure of the uranyl binding protein complexed with uranyl,1.29,19625.43,Protein,164
+3W9K,Crystal structure of thermoacidophile-specific protein STK_08120 complexed with myristic acid,1.8,16243.95,Protein,139
+2PFE,Crystal Structure of Thermobifida fusca Protease A (TFPA),1.44,38658.36,Protein,372
+1L6R,Crystal Structure of Thermoplasma acidophilum 0175 (APC0014),1.4,51452.41,Protein,454
+1KYT,Crystal Structure of Thermoplasma acidophilum 0175 (APC014),1.7,52290.57,Protein,454
+1NE2,Crystal Structure of Thermoplasma acidophilum 1320 (APC5513),1.75,45409.68,Protein,400
+2PMH,Crystal structure of Thr132Ala of ST1022 from Sulfolobus tokodaii,1.9,17707.87,Protein,150
+2EFQ,Crystal Structure of Thr134 to Ala of ST1022-Glutamine Complex from Sulfolobus tokodaii 7,2.3,17638.9,Protein,150
+3DCF,Crystal structure of transcriptional regulator of the TetR/AcrR family (YP_290855.1) from THERMOBIFIDA FUSCA YX-ER1 at 2.50 A resolution,2.5,50187.18,Protein,436
+1U02,Crystal structure of trehalose-6-phosphate phosphatase related protein,1.92,27773.74,Protein,239
+5CSR,Crystal structure of triosephosphate isomerase from Thermoplasma acidophilium,1.94,101293.67,Protein,904
+5CSS,Crystal structure of triosephosphate isomerase from Thermoplasma acidophilum with glycerol 3-phosphate,2.17,101613.59,Protein,904
+2EFO,Crystal structure of Tyr77 to Ala of ST1022 from Sulfolobus tokodaii 7,2.4,17430.68,Protein,150
+2EFP,Crystal Structure of Tyr77 to Ala of ST1022-Glutamine Complex from Sulolobus tokodaii 7,2.2,17722.97,Protein,150
+1WOZ,Crystal structure of uncharacterized protein ST1454 from Sulfolobus tokodaii,1.94,21032.65,Protein,177
+1VE0,Crystal structure of uncharacterized protein ST2072 from Sulfolobus tokodaii,2,15238.42,Protein,134
+1WVT,Crystal structure of uncharacterized protein ST2180 from Sulfolobus tokodaii,2.3,57977.6,Protein,516
+5HXY,Crystal structure of XerA recombinase,2.5,223703.03,Protein,1902
+2AEF,Crystal Structures of the MthK RCK Domain in Ca2+ bound form,1.7,51909.32,Protein,468
+2AEJ,Crystal Structures of the MthK RCK Domain in no Ca2+ bound form,2.1,51829.17,Protein,468
+1Z5H,Crystal structures of the Tricorn interacting Factor F3 from Thermoplasma acidophilum,2.3,180749.34,Protein,1560
+4O6J,Crystal sturucture of T. acidophilum IdeR,2.3,27294.69,Protein,239
+2YX7,Crystals structure of T132A mutant of St1022 from sulfolobus tokodaii 7,2.05,17638.9,Protein,150
+3O31,E81Q mutant of MtNAS in complex with a reaction intermediate,1.7,68182.8,Protein,592
+1TF4,ENDO/EXOCELLULASE FROM THERMOMONOSPORA,1.9,134593.81,Protein,1210
+1JS4,ENDO/EXOCELLULASE:CELLOBIOSE FROM THERMOMONOSPORA,2,135674.75,Protein,1210
+4TF4,ENDO/EXOCELLULASE:CELLOPENTAOSE FROM THERMOMONOSPORA,2,136755.69,Protein,1210
+3TF4,ENDO/EXOCELLULASE:CELLOTRIOSE FROM THERMOMONOSPORA,2.2,136035.06,Protein,1210
+5N2I,F420:NADPH oxidoreductase from Thermobifida fusca with NADP+ bound,1.8,100949.61,Protein,928
+4ZBX,"Family 4 uracil-DNA glycosylase from Sulfolobus tokodaii (free form, X-ray wavelength=0.9000)",1.7,22906.91,Protein,194
+4ZBZ,"Family 4 uracil-DNA glycosylase from Sulfolobus tokodaii (free form, X-ray wavelength=1.5418)",1.9,22999.01,Protein,194
+4ZBY,Family 4 uracil-DNA glycosylase from Sulfolobus tokodaii (uracil complex form),1.7,23019,Protein,194
+1JBM,"Heptameric crystal structure of Mth649, an Sm-like archaeal protein from Methanobacterium thermautotrophicum",1.85,68000.99,Protein,602
+1EP0,"HIGH RESOLUTION CRYSTAL STRUCTURE OF DTDP-6-DEOXY-D-XYLO-4-HEXULOSE 3,5-EPIMERASE FROM METHANOBACTERIUM THERMOAUTOTROPHICUM",1.5,21702.33,Protein,185
+3LDC,High resolution open MthK pore structure crystallized in 100 mM K+,1.45,9230.07,Protein,82
+3LDE,High resolution open MthK pore structure crystallized in 100 mM K+ and further soaked in 100 mM Na+.,2.21,9126.54,Protein,82
+3LDD,High resolution open MthK pore structure crystallized in 100 mM K+ and further soaked in 99 mM Na+/1 mM K+.,1.45,9249.12,Protein,82
+3JSA,Homoserine dehydrogenase from Thermoplasma volcanium complexed with NAD,1.95,37612.36,Protein,328
+4IA5,Hydratase from Lactobacillus acidophilus - SeMet derivative (apo LAH),2.22,138534.56,Protein,1182
+4IA6,Hydratase from lactobacillus acidophilus in a ligand bound form (LA LAH),1.8,138576.86,Protein,1182
+1YA7,Implications for interactions of proteasome with PAN and PA700 from the 1.9 A structure of a proteasome-11S activator complex,2.3,534072.44,Protein,4809
+3MAN,MANNOHEXAOSE COMPLEX OF THERMOMONOSPORA FUSCA BETA-MANNANASE,1.6,33663.78,Protein,302
+2MAN,MANNOTRIOSE COMPLEX OF THERMOMONOSPORA FUSCA BETA-MANNANASE,1.9,33483.62,Protein,302
+1HBN,METHYL-COENZYME M REDUCTASE,1.16,277246.94,Protein,2478
+1HBM,METHYL-COENZYME M REDUCTASE ENZYME PRODUCT COMPLEX,1.8,276899.91,Protein,2478
+1HBO,METHYL-COENZYME M REDUCTASE MCR-RED1-SILENT,1.78,276676.5,Protein,2478
+1L3I,"MT0146, THE PRECORRIN-6Y METHYLTRANSFERASE (CBIT) HOMOLOG FROM M. THERMOAUTOTROPHICUM, ADOHCY BINARY COMPLEX",1.95,128979.25,Protein,1152
+1L3C,"MT0146, THE PRECORRIN-6Y METHYLTRANSFERASE (CBIT) HOMOLOG FROM M. THERMOAUTOTROPHICUM, C2 SPACEGROUP WITH SHORT CELL",2.31,84448.52,Protein,768
+1IHN,MT938,2.2,25859.58,Protein,226
+3G00,Mth0212 in complex with a 9bp blunt end dsDNA at 1.7 Angstrom,1.74,69199.44,"Protein, DNA",548
+3G2C,Mth0212 in complex with a short ssDNA (CGTA),2.3,65030.31,"Protein, DNA",534
+3G3Y,Mth0212 in complex with ssDNA in space group P32,2.5,66011.13,"Protein, DNA",539
+3GA6,Mth0212 in complex with two DNA helices,1.9,79481.54,"Protein, DNA",578
+3R65,MthK channel pore E92Q mutant,1.8,9189.99,Protein,82
+3OUS,MthK channel pore T59A mutant,1.75,9200.05,Protein,82
+4HZ3,MthK pore crystallized in presence of TBSb,1.7,83899.95,Protein,728
+5J77,Mutant glyceraldehyde dehydrogenase (F34M+S405N) from Thermoplasma acidophilum,2.1,226112.08,Protein,2032
+4QE9,Open MthK pore structure soaked in 10 mM Ba2+/100 mM K+,2.15,9383.27,Protein,83
+4QE7,Open MthK pore structure soaked in 10 mM Ba2+/100 mM Na+,2.4,9347.43,Protein,81
+1X1Z,Orotidine 5'-monophosphate decarboxylase (odcase) complexed with BMP (produced from 6-cyanoump),1.45,55807.54,Protein,504
+3WJZ,Orotidine 5'-monophosphate decarboxylase D75N mutant from M. thermoautotrophicus complexed with 6-amino-UMP,1.39,27937.26,Protein,252
+3WJY,Orotidine 5'-monophosphate decarboxylase K72A mutant from M. thermoautotrophicus complexed with 6-amino-UMP,1.72,27752.59,Protein,252
+3WK3,Orotidine 5'-monophosphate decarboxylase K72A mutant from M. thermoautotrophicus complexed with orotidine 5'-monophosphate ethyl ester,1.26,27901.73,Protein,252
+3WK2,Orotidine 5'-monophosphate decarboxylase K72A mutant from M. thermoautotrophicus complexed with orotidine 5'-monophosphate methyl ester,1.69,27887.7,Protein,252
+2ZZ5,Orotidine Monophosphate Deacarboxylase D70A/K72A double mutant from M. thermoautotrophicum complexed with 6- cyano-UMP,1.56,55252.96,Protein,504
+1KLY,Orotidine monophosphate decarboxylase D70G mutant complexed with 6-azaUMP,1.5,27063.93,Protein,247
+2ZZ7,Orotidine Monophosphate Decarboxylase K72A mutant complexed with BMP (produced from 6-Iodo-UMP),1.58,27845.67,Protein,252
+2ZZ2,Orotidine Monophosphate Decarboxylase K72A mutant from M. thermoautotrophicum complexed with 6-cyano-UMP,1.53,55709.36,Protein,504
+1KM1,Orotidine monophosphate decarboxylase mutant S127A crystal structure,1.6,54210.04,Protein,494
+1W4X,"Phenylacetone Monooxygenase, a Baeyer-Villiger Monooxygenase",1.7,62073.06,Protein,542
+4OVI,Phenylacetone monooxygenase: oxidised enzyme in complex with APADP,1.87,63053.16,Protein,542
+4C74,Phenylacetone monooxygenase: Reduced enzyme in complex with APADP,1.97,62998.72,Protein,542
+5B19,Picrophilus torridus aspartate racemase,1.85,52068.03,Protein,464
+1OU0,precorrin-8X methylmutase related protein,2.1,91383.56,Protein,828
+3AIM,R267E mutant of a HSL-like carboxylesterase from Sulfolobus tokodaii,2.3,145596.06,Protein,1292
+3AIN,R267G mutant of a HSL-like carboxylesterase from Sulfolobus tokodaii,1.65,145544.16,Protein,1292
+3AIO,R267K mutant of a HSL-like carboxylesterase from Sulfolobus tokodaii,1.7,146305.38,Protein,1292
+4E1B,Re-refinement of PDB entry 2EQA - SUA5 protein from Sulfolobus tokodaii with bound threonylcarbamoyladenylate,1.8,39599.31,Protein,352
+3NDH,Restriction endonuclease in complex with substrate DNA,1.3,60538.85,"Protein, DNA",472
+3VQL,Small heat shock protein hsp14.0 of C-terminal deletion variant,1.9,26470.51,Protein,230
+3AAB,Small heat shock protein hsp14.0 with the mutations of I120F and I122F in the form I crystal,1.85,28600.9,Protein,246
+3AAC,Small heat shock protein hsp14.0 with the mutations of I120F and I122F in the form II crystal,2.4,28264.52,Protein,246
+2ZZ1,Snapshot of the reaction from 6-CN-UMP to BMP catalyzed by Orotidine Monophosphate Deacarboxylase from M. thermoautotrophicum,1.57,56505.93,Protein,504
+2YM1,SNAPSHOTS OF ENZYMATIC BAEYER-VILLIGER CATALYSIS: OXYGEN ACTIVATION AND INTERMEDIATE STABILIZATION: Arg337Lys MUTANT IN COMPLEX WITH NADP,2.28,63174.91,Protein,542
+2YLX,SNAPSHOTS OF ENZYMATIC BAEYER-VILLIGER CATALYSIS: OXYGEN ACTIVATION AND INTERMEDIATE STABILIZATION: Asp66Ala MUTANT IN COMPLEX WITH NADP AND MES,2.2,62871.62,Protein,542
+2YLR,SNAPSHOTS OF ENZYMATIC BAEYER-VILLIGER CATALYSIS: OXYGEN ACTIVATION AND INTERMEDIATE STABILIZATION: COMPLEX WITH NADP,2.26,62720.4,Protein,542
+2YLZ,SNAPSHOTS OF ENZYMATIC BAEYER-VILLIGER CATALYSIS: OXYGEN ACTIVATION AND INTERMEDIATE STABILIZATION: Met446Gly MUTANT,2,62094.98,Protein,542
+2YLS,SNAPSHOTS OF ENZYMATIC BAEYER-VILLIGER CATALYSIS: OXYGEN ACTIVATION AND INTERMEDIATE STABILIZATION: REDUCED ENZYME BOUND TO NADP,2.26,62720.4,Protein,542
+4MN7,Structural and biochemical analysis of type II free methionine-R-sulfoxide reductase from Thermoplasma acidophilum,2,34161.77,Protein,298
+4CG2,Structural and functional studies on a thermostable polyethylene terephthalate degrading hydrolase from Thermobifida fusca,1.44,31191.65,Protein,282
+4CG3,Structural and functional studies on a thermostable polyethylene therephtalate degrading hydrolase from Thermobifida fusca,1.55,33886.03,Protein,313
+2OHC,structural and mutational analysis of tRNA-intron splicing endonuclease from Thermoplasma acidophilum DSM1728,2.5,66513.27,Protein,578
+2EP5,Structural study of Project ID ST1242 from Sulfolobus tokodaii strain7,2.4,154976.78,Protein,1400
+2EER,Structural study of Project ID ST2577 from Sulfolobus tokodaii strain7,2.1,76688.46,Protein,694
+1V4N,Structure of 5'-deoxy-5'-methylthioadenosine phosphorylase homologue from Sulfolobus tokodaii,2.45,94747.93,Protein,843
+1RLH,Structure of a conserved protein from Thermoplasma acidophilum,1.8,19139.73,Protein,173
+1Q7H,Structure of a Conserved PUA Domain Protein from Thermoplasma acidophilum,2.1,17297.98,Protein,153
+3WIE,Structure of a glucose dehydrogenase T277F mutant in complex with D-glucose and NAADP,2.33,169877.91,Protein,1476
+3WID,Structure of a glucose dehydrogenase T277F mutant in complex with NADP,2.25,171102.31,Protein,1476
+1YB2,Structure of a putative methyltransferase from Thermoplasma acidophilum.,2.01,31194.89,Protein,275
+3F0A,Structure of a putative n-acetyltransferase (ta0374) in complex with acetyl-coa from thermoplasma acidophilum,2.5,20125.49,Protein,162
+2RFM,Structure of a Thermophilic Ankyrin Repeat Protein,1.65,45155.41,Protein,384
+1SNG,Structure of a Thermophilic Serpin in the Native State,1.76,40619.07,Protein,370
+1KEA,STRUCTURE OF A THERMOSTABLE THYMINE-DNA GLYCOSYLASE,2,26167.94,Protein,221
+2XN2,Structure of alpha-galactosidase from Lactobacillus acidophilus NCFM with galactose,1.58,87171.57,Protein,732
+2XN1,Structure of alpha-galactosidase from Lactobacillus acidophilus NCFM with TRIS,2.3,340774.47,Protein,2928
+2XN0,"Structure of alpha-galactosidase from Lactobacillus acidophilus NCFM, PtCl4 derivative",2.5,173689.5,Protein,1464
+3RU8,Structure of an HIV epitope scaffold in complex with neutralizing antibody b12 Fab,2.07,79057.9,Protein,727
+1YAR,Structure of Archeabacterial 20S proteasome mutant D9S- PA26 complex,1.9,533876.38,Protein,4809
+1YAU,Structure of Archeabacterial 20S proteasome- PA26 complex,2.4,533307.62,Protein,4809
+3R1M,"Structure of bifunctional fructose 1,6-bisphosphate aldolase/phosphatase (aldolase form)",1.5,43121.12,Protein,385
+4YBO,Structure of Citrate Synthase from the Thermoacidophilic Euryarchaeon Thermolasma acidophilum,2.18,179070.05,Protein,1596
+1F07,STRUCTURE OF COENZYME F420 DEPENDENT TETRAHYDROMETHANOPTERIN REDUCTASE FROM METHANOBACTERIUM THERMOAUTOTROPHICUM,2,135453.95,Protein,1284
+1I36,Structure of Conserved Protein MTH1747 of Unknown Function Reveals Structural Similarity with 3-Hydroxyacid Dehydrogenases,2,59525.41,Protein,528
+1RLK,Structure of Conserved Protein of Unknown Function TA0108 from Thermoplasma acidophilum,1.95,13378.61,Protein,117
+1XER,STRUCTURE OF FERREDOXIN,2,11683.58,Protein,103
+4AIE,"Structure of glucan-1,6-alpha-glucosidase from Lactobacillus acidophilus NCFM",2.05,65671.17,Protein,549
+3IWT,Structure of hypothetical molybdenum cofactor biosynthesis protein B from Sulfolobus tokodaii,1.9,60292.54,Protein,534
+5J9G,Structure of Lactobacillus acidophilus glyceraldehyde-3-phosphate dehydrogenase at 2.21 angstrom resolution,2.21,73068.81,Protein,676
+2W43,Structure of L-haloacid dehalogenase from S. tokodaii,1.66,47662.39,Protein,402
+4DPK,Structure of malonyl-coenzyme A reductase from crenarchaeota,2.05,159578.56,Protein,1436
+4DPM,Structure of malonyl-coenzyme A reductase from crenarchaeota in complex with CoA,2.3,242409.39,Protein,2154
+4DPL,Structure of malonyl-coenzyme A reductase from crenarchaeota in complex with NadP,1.9,161412.53,Protein,1436
+1KJN,Structure of MT0777,2.2,34958.73,Protein,314
+3TOE,Structure of Mth10b,2.2,19966.79,Protein,182
+2WNY,"Structure of Mth689, a DUF54 protein from Methanothermobacter thermautotrophicus",1.95,33107.87,Protein,282
+1L1S,Structure of Protein of Unknown Function MTH1491 from Methanobacterium thermoautotrophicum,2.3,12753.67,Protein,113
+2C8M,"Structure of protein Ta0514, putative lipoate protein ligase from T. acidophilum with bound lipoic acid",1.89,120486.31,Protein,1048
+2C7I,"Structure of protein Ta0514, putative lipoate protein ligase from T. acidophilum.",2.1,119661.01,Protein,1048
+5TRD,Structure of RbkR (Riboflavin Kinase) from Thermoplasma acidophilum determined in complex with CTP and its cognate DNA operator,1.85,65148.04,"Protein, DNA",498
+2VL7,Structure of S. tokodaii Xpd4,2.25,62421.45,Protein,540
+2EKL,Structure of ST1218 protein from Sulfolobus tokodaii,1.77,35370.21,Protein,313
+2EKM,Structure of ST1219 protein from Sulfolobus tokodaii,2.06,54324.61,Protein,486
+5UIZ,Structure of T.fusca AA10A,2,54573.13,Protein,444
+4GBO,Structure of T.fusca E7,2,54469.22,Protein,444
+2QH1,"Structure of TA289, a CBS-rubredoxin-like protein, in its Fe+2-bound state",2,45043.37,Protein,396
+4D03,Structure of the Cys65Asp mutant of phenylacetone monooxygenase: oxidised state,1.81,63579.34,Protein,542
+4D04,Structure of the Cys65Asp mutant of phenylacetone monooxygenase: reduced state,1.75,63297,Protein,542
+2W11,Structure of the L-2-haloacid dehalogenase from Sulfolobus tokodaii,1.9,48145.36,Protein,412
+2E7X,Structure of the Lrp/AsnC like transcriptional regulator from Sulfolobus tokodaii 7 complexed with its cognate ligand,1.8,17815.07,Protein,150
+3M4R,Structure of the N-terminal Class II Aldolase domain of a conserved protein from Thermoplasma acidophilum,2,24843.92,Protein,222
+5DH0,Structure of the siderophore periplasmic binding protein from the fuscachelin gene cluster of Thermobifida fusca in P41,2.44,67470.27,Protein,618
+5FW4,Structure of Thermobifida fusca DyP-type Peroxidase and Activity towards Kraft Lignin and Lignin Model Compounds,1.8,93261.85,Protein,860
+2DTX,Structure of Thermoplasma acidophilum aldohexose dehydrogenase (AldT) in complex with D-mannose,1.6,58620.72,Protein,528
+2DTE,Structure of Thermoplasma acidophilum aldohexose dehydrogenase (AldT) in complex with NADH,1.65,59399.17,Protein,528
+2DTD,Structure of Thermoplasma acidophilum aldohexose dehydrogenase (AldT) in ligand-free form,2.1,58548.6,Protein,528
+3VTZ,Structure of Thermoplasma volcanium aldohexose dehydrogenase,2.3,116985.59,Protein,1076
+3DF8,The crystal structure of a possible HxlR family transcriptional factor from Thermoplasma volcanium GSS1,1.65,12637.8,Protein,111
+2D36,The Crystal Structure of Flavin Reductase HpaC,2.3,20613.48,Protein,176
+2D37,The Crystal Structure of Flavin Reductase HpaC complexed with NAD+,1.7,21276.91,Protein,176
+2D38,The Crystal Structure of Flavin Reductase HpaC complexed with NADP+,2.05,21356.89,Protein,176
+3LL3,The crystal structure of ligand bound xylulose kinase from Lactobacillus acidophilus,2,113771.95,Protein,1008
+2PJZ,"The crystal structure of putative Cobalt transport ATP-binding protein (cbiO-2), ST1066",1.9,29876.45,Protein,263
+1J30,"The crystal structure of sulerythrin, a rubrerythrin-like protein from a strictly aerobic and thermoacidiphilic archaeon",1.7,32502.66,Protein,288
+3KBQ,The crystal structure of the protein CinA with unknown function from Thermoplasma acidophilum,2,37201.24,Protein,344
+3ADR,The first crystal structure of an archaeal metallo-beta-lactamase superfamily protein; ST1585 from Sulfolobus tokodaii,1.8,60771.19,Protein,522
+3G8V,The rationally designed catalytically inactive mutant Mth0212(D151N),2.4,31900.17,Protein,265
+2VD3,The structure of histidine inhibited HisG from Methanobacterium thermoautotrophicum,2.45,64444.43,Protein,578
+4JJJ,The structure of T. fusca GH48 D224N mutant,1.6,75441.18,Protein,642
+2R9E,The structure of the binary complex of citryl dethia COA and citrate synthase from the thermophilic archaeonthermoplasma acidophilum,1.95,176211.58,Protein,1540
+2IFC,The Structure of the Binary Complex of Oxalateacetate with Citrate Synthase from the Thermophilic Archaeon Thermolasma acidophilum,1.7,173033.34,Protein,1540
+2R26,The Structure of the Ternary Complex of Carboxymethyl Coenzyme A and Oxalateacetate with Citrate Synthase from the Thermophilic Archaeonthermoplasma Acidophilum,2.5,175810.84,Protein,1536
+5NZD,The structure of the thermobifida fusca guanidine III riboswitch in space group P212121.,2.01,27304.44,RNA,82
+5O62,The structure of the thermobifida fusca guanidine III riboswitch with 1-Ethylguanidine.,2.12,27033.05,RNA,82
+5O69,The structure of the thermobifida fusca guanidine III riboswitch with agmatine.,2.32,27036.1,RNA,82
+5NY8,The structure of the thermobifida fusca guanidine III riboswitch with aminoguanidine,2.04,26933.82,RNA,82
+5NWQ,The structure of the thermobifida fusca guanidine III riboswitch with guanidine.,1.91,27177.9,RNA,82
+5NZ3,The structure of the thermobifida fusca guanidine III riboswitch with methylguanidine,2.06,27208.21,RNA,82
+1MTP,The X-ray crystal structure of a serpin from a thermophilic prokaryote,1.5,39764.5,Protein,366
+4B4F,Thermobifida fusca Cel6B(E3) co-crystallized with cellobiose,2.2,92869.3,Protein,840
+4AVN,Thermobifida fusca cellobiohydrolase Cel6B catalytic mutant D226A- S232A cocrystallized with cellobiose,2,46354.6,Protein,420
+4AVO,Thermobifida fusca cellobiohydrolase Cel6B catalytic mutant D274A cocrystallized with cellobiose,1.8,46609.8,Protein,420
+4B4H,Thermobifida fusca cellobiohydrolase Cel6B(E3) catalytic domain,1.5,90947.5,Protein,840
+3S1U,Transaldolase from Thermoplasma acidophilum in complex with D-erythrose 4-phosphate,1.9,123508.6,Protein,1115
+3S1V,Transaldolase from Thermoplasma acidophilum in complex with D-fructose 6-phosphate Schiff-base intermediate,1.8,124049.69,Protein,1115
+3S1X,Transaldolase from Thermoplasma acidophilum in complex with D-sedoheptulose 7-phosphate Schiff-base intermediate,1.65,123923.53,Protein,1115
+4XZ9,Transaldolase variant E60Q/F132Y from T. acidophilum in complex with DHA Schiff base and G3P,1.8,123740.79,Protein,1115
+3S1W,Transaldolase variant Lys86Ala from Thermoplasma acidophilum in complex with glycerol and citrate,1.8,123588.17,Protein,1115
+3S0C,Transaldolase wt of Thermoplasma acidophilum,1.78,122564.82,Protein,1115
+5IZD,Wild-type glyceraldehyde dehydrogenase from Thermoplasma acidophilum in complex with NADP,2.05,456852.22,Protein,4064
+3WJX,Wild-type orotidine 5'-monophosphate decarboxylase from M. thermoautotrophicus complexed with 6-amino-UMP,1.23,27902.79,Protein,252
+3WJW,Wild-type orotidine 5'-monophosphate decarboxylase from M. thermoautotrophicus complexed with 6-methyl-UMP,1.59,27717.61,Protein,252
+3WK1,Wild-type orotidine 5'-monophosphate decarboxylase from M. thermoautotrophicus complexed with orotidine 5'-monophosphate ethyl ester,1.6,27959.83,Protein,252
+3WK0,Wild-type orotidine 5'-monophosphate decarboxylase from M. thermoautotrophicus complexed with orotidine 5'-monophosphate methyl ester,1.41,27945.81,Protein,252
+5H8W,XPD mechanism,2.2,70397.91,"Protein, DNA",602
+3CRV,XPD_Helicase,2,65139.88,Protein,551
+3Q69,"X-ray crystal structure of a MucBP domain of the protein LBA1460 from Lactobacillus acidophilus, Northeast structural genomics consortium target LaR80A",2.4,14093.36,Protein,122
+2CKS,X-RAY CRYSTAL STRUCTURE OF THE CATALYTIC DOMAIN OF THERMOBIFIDA FUSCA ENDOGLUCANASE CEL5A (E5),1.6,69209.47,Protein,612
+2CKR,X-RAY CRYSTAL STRUCTURE OF THE CATALYTIC DOMAIN OF THERMOBIFIDA FUSCA ENDOGLUCANASE CEL5A (E5) E355Q IN COMPLEX WITH CELLOTETRAOSE,1.77,70037.3,Protein,612
+1F38,"X-RAY CRYSTALLOGRAPHIC STRUCTURE OF PRECORRIN 8W DECARBOXYLASE, THE PRODUCT OF GENE MT0146 IN THE METHANOBACTERIUM THERMOAUTOTROPHICUM GENOME",2.4,84448.52,Protein,768
+2BMM,X-ray structure of a novel thermostable hemoglobin from the actinobacterium Thermobifida fusca,2.48,15318.17,Protein,123
+2ECE,"X-ray structure of hypothetical selenium-binding protein from Sulfolobus tokodaii, ST0059",2,52597.94,Protein,462
+1LXN,X-RAY STRUCTURE OF MTH1187 NORTHEAST STRUCTURAL GENOMICS CONSORTIUM TARGET TT272,2.3,44388.48,Protein,396
+3DCD,X-ray structure of the galactose mutarotase related enzyme Q5FKD7 from Lactobacillus acidophilus at the resolution 1.9A. Northeast Structural Genomics consortium target LaR33.,1.9,72351.79,Protein,614
+1G7R,X-RAY STRUCTURE OF TRANSLATION INITIATION FACTOR IF2/EIF5B,2.2,67231.41,Protein,594
+1G7S,X-RAY STRUCTURE OF TRANSLATION INITIATION FACTOR IF2/EIF5B COMPLEXED WITH GDP,2,66783.59,Protein,594
+1G7T,X-RAY STRUCTURE OF TRANSLATION INITIATION FACTOR IF2/EIF5B COMPLEXED WITH GDPNP,2,66886.89,Protein,594
+3LL9,X-ray structures of isopentenyl phosphate kinase,2.15,60320.18,Protein,538

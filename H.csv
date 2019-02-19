@@ -1,0 +1,843 @@
+PDB_ID,STRUCTURE_TITLE,RESOLUTION,MW,TYPE,RES_COUNT
+5IJA,[NiFe] hydrogenase maturation protease HybD from Thermococcus kodakarensis,1.82,32668.23,Protein,296
+4X9C,1.4A crystal structure of Hfq from Methanococcus jannaschii,1.4,51652.84,Protein,426
+1TUA,1.5 A Crystal Structure of a Protein of Unknown Function APE0754 from Aeropyrum pernix,1.5,21770.5,Protein,191
+4JBG,1.75A resolution structure of a thermostable alcohol dehydrogenase from Pyrobaculum aerophilum,1.75,155406.08,Protein,1480
+1R4V,1.9A crystal structure of protein AQ328 from Aquifex aeolicus,1.9,20484.22,Protein,171
+2PZZ,2.2 A resolution crystal structure of UPF0201 protein from Methanococcus jannaschii,2.2,67584.09,Protein,588
+4JBH,2.2A resolution structure of cobalt and zinc bound thermostable alcohol dehydrogenase from Pyrobaculum aerophilum,2.2,155356.91,Protein,1480
+4JBI,2.35A resolution structure of NADPH bound thermostable alcohol dehydrogenase from Pyrobaculum aerophilum,2.35,631985.94,Protein,5920
+1PVW,"3,4-dihydroxy-2-butanone 4-phosphate synthase from M. jannaschii",2.45,77763.73,Protein,681
+1PVY,"3,4-dihydroxy-2-butanone 4-phosphate synthase from M. jannaschii in complex with ribulose 5-phosphate",1.7,52379.86,Protein,454
+1SNN,"3,4-dihydroxy-2-butanone 4-phosphate synthase from Methanococcus jannaschii",1.55,52379.86,Protein,454
+1IK6,3D structure of the E1beta subunit of pyruvate dehydrogenase from the archeon Pyrobaculum aerophilum,2,39932.84,Protein,369
+3HYV,3-D X-Ray structure of the sulfide:quinone oxidoreductase from the hyperthermophilic bacterium Aquifex aeolicus,2.3,298463.56,Protein,2580
+3HYW,3-D X-Ray structure of the sulfide:quinone oxidoreductase of the hyperthermophilic bacterium Aquifex aeolicus in complex with decylubiquinone,2,299675.69,Protein,2580
+3G8Q,A cytidine deaminase edits C-to-U in transfer RNAs in archaea,2.4,123054.23,Protein,1112
+4JL5,A high resolution structure of Aquifex Adenylate kinase with 2 ADP's,1.24,47674.43,Protein,406
+4JL8,A various kinds of ADP conformations in the Adenylate kinase active site,1.79,47674.43,Protein,406
+5TVA,A. aeolicus BioW with AMP and CoA,2.25,56353.74,Protein,480
+5TV6,A. aeolicus BioW with pimelate,2.46,55681.05,Protein,480
+1ZHA,A. aeolicus KDO8PS R106G mutant in complex with PEP and R5P,1.74,60234.52,Protein,534
+4OZE,A.aolicus LpxC in complex with native product,1.61,66499.95,Protein,564
+3C9U,AaThiL complexed with ADP and TPP,1.48,78887.94,Protein,684
+3C9S,AaThiL complexed with AMPPCP,2.2,78096.11,Protein,684
+3C9R,AaThiL complexed with ATP,2.3,78148.66,Protein,684
+4RE5,Acylaminoacyl peptidase complexed with a chloromethylketone inhibitor,1.9,127561.95,Protein,1164
+5H56,ADP and dTDP bound Crystal structure of thymidylate kinase (aq_969) from Aquifex Aeolicus VF5,1.7,46927.04,Protein,390
+5XB3,ADP-dTMP bound Crystal structure of thymidylate kinase (aq_969) from Aquifex Aeolicus VF5,1.77,46304.74,Protein,390
+5XB2,ADP-Mg-F-dTMP bound Crystal structure of thymidylate kinase (aq_969) from Aquifex Aeolicus VF5,2.16,46386.04,Protein,390
+2QR5,"Aeropyrum pernix acylaminoacyl peptidase, H367A mutant",2.2,126082.96,Protein,1164
+4GQF,Aeropyrum pernix Peroxiredoxin Q Enzyme in the Locally Unfolded Conformation,2.3,38719.33,Protein,328
+4S35,AMPPCP and TMP bound Crystal structure of thymidylate kinase (aq_969) from Aquifex Aeolicus VF5,1.55,46717.56,Protein,390
+3QE4,An evolved aminoacyl-tRNA Synthetase with atypical polysubstrate specificity,2.3,71908.01,Protein,624
+4BG8,Apo form of a putative sugar kinase MK0840 from Methanopyrus kandleri (monoclinic space group),1.96,78376.29,Protein,722
+4BG9,Apo form of a putative sugar kinase MK0840 from Methanopyrus kandleri (orthorhombic space group),1.9,39188.14,Protein,361
+3FJP,Apo structure of Biotin protein ligase from Aquifex aeolicus,2.3,53694.31,Protein,466
+1TZ7,Aquifex aeolicus amylomaltase,2.15,120751.57,Protein,1010
+2R6R,Aquifex aeolicus FtsZ,1.7,37272.42,Protein,338
+2R75,Aquifex aeolicus FtsZ with 8-morpholino-GTP,1.4,37461.81,Protein,338
+2VF3,Aquifex aeolicus IspE in complex with ligand,2.2,61746.09,Protein,542
+1FX6,AQUIFEX AEOLICUS KDO8P SYNTHASE,2.06,59738.75,Protein,534
+1LRN,Aquifex aeolicus KDO8P synthase H185G mutant in complex with Cadmium,2.1,59991.33,Protein,534
+1LRO,Aquifex aeolicus KDO8P synthase H185G mutant in complex with PEP and Cadmium,1.8,60137.47,Protein,534
+1LRQ,"Aquifex aeolicus KDO8P synthase H185G mutant in complex with PEP, A5P and Cadmium",1.8,60201.55,Protein,534
+1JCX,Aquifex aeolicus KDO8P synthase in complex with API and Cadmium,1.8,60604.09,Protein,534
+1FXP,AQUIFEX AEOLICUS KDO8P SYNTHASE IN COMPLEX WITH CADMIUM,1.8,60153.52,Protein,534
+1FY6,AQUIFEX AEOLICUS KDO8P SYNTHASE IN COMPLEX WITH CADMIUM AND A5P,1.89,60290.67,Protein,534
+1FWN,AQUIFEX AEOLICUS KDO8P SYNTHASE IN COMPLEX WITH PEP,1.94,60074.84,Protein,534
+1FXQ,AQUIFEX AEOLICUS KDO8P SYNTHASE IN COMPLEX WITH PEP AND A5P,1.8,60349.15,Protein,534
+1FWS,AQUIFEX AEOLICUS KDO8P SYNTHASE IN COMPLEX WITH PEP AND CADMIUM,1.9,60299.66,Protein,534
+1FWW,"AQUIFEX AEOLICUS KDO8P SYNTHASE IN COMPLEX WITH PEP, A5P AND CADMIUM",1.85,60436.82,Protein,534
+1FWT,"AQUIFEX AEOLICUS KDO8P SYNTHASE IN COMPLEX WITH PEP, E4P AND CADMIUM",1.9,60404.77,Protein,534
+1JCY,"Aquifex aeolicus KDO8P synthase in complex with R5P, PEP and Cadmium",1.9,60434.8,Protein,534
+1PE1,Aquifex aeolicus KDO8PS in complex with cadmium and 2-PGA,1.74,60335.69,Protein,534
+1PCW,"Aquifex aeolicus KDO8PS in complex with cadmium and APP, a bisubstrate inhibitor",1.85,60483.98,Protein,534
+2A2I,"Aquifex aeolicus KDO8PS in complex with PEP, A5P, Zn2+",1.95,60479.96,Protein,534
+2A21,"Aquifex aeolicus KDO8PS in complex with PEP, PO4, and Zn2+",1.8,60205.66,Protein,534
+1PCK,Aquifex aeolicus KDO8PS in complex with Z-methyl-PEP,1.8,60331.74,Protein,534
+1ZJI,Aquifex aeolicus KDO8PS R106G mutant in complex with 2PGA and R5P,2.25,60270.55,Protein,534
+3SWG,AQUIFEX AEOLICUS MurA in complex with UDP-N-acetylmuramic acid and covalent adduct of PEP with Cys124,1.81,49797.79,Protein,425
+3NO0,Aquifex aeolicus type IIA topoisomerase C-terminal domain,1.3,93185.2,Protein,828
+3VMF,Archaeal protein,2.3,91666.26,Protein,813
+1B8A,ASPARTYL-TRNA SYNTHETASE,1.9,103304.79,Protein,876
+3NEL,Aspartyl-tRNA synthetase complexed with aspartic acid,1.95,102091.93,Protein,876
+3NEM,Aspartyl-tRNA synthetase complexed with aspartyl adenylate,1.89,103001.23,Protein,876
+5H5K,ATP and CMP bound Crystal structure of thymidylate kinase (aq_969) from Aquifex Aeolicus VF5,2.3,46701.49,Protein,390
+2HXD,"Bifunctional dCTP deaminase-dUTPase mutant enzyme variant E145A from Methanocaldococcus jannaschii in complex with alpha,beta-imido dUTP and magnesium",2.3,23895.28,Protein,204
+5K2M,Bifunctional LysX/ArgX from Thermococcus kodakarensis with LysW-gamma-AAA,2.18,284650.81,Protein,2502
+2HU8,Binding of inhibitors by Acylaminoacyl peptidase,2.4,126939.88,Protein,1164
+2HU5,Binding of inhibitors by Acylaminoacyl-peptidase,2,127158.09,Protein,1164
+3EFS,Biotin protein ligase from Aquifex aeolicus in complex with biotin and ATP,2.3,55293.36,Protein,466
+5TV5,BioW from Aquifex aeoulicus,2.5,54891.76,Protein,480
+2RIH,CBS domain protein PAE2072 from Pyrobaculum aerophilum,2.1,31354.22,Protein,282
+2RIF,CBS domain protein PAE2072 from Pyrobaculum aerophilum complexed with AMP,2.35,65483.17,Protein,564
+5H5B,Citrate ion bound crystal structure of thymidylate kinase (aq_969) from Aquifex Aeolicus VF5,2.05,45184.12,Protein,390
+4JKY,Cobalt between two ADP's in the active site of adenylate kinase,2.37,47792.3,Protein,406
+1RP3,"Cocrystal structure of the flagellar sigma/anti-sigma complex, Sigma-28/FlgM",2.3,151971.44,Protein,1308
+1QV9,Coenzyme F420-dependent methylenetetrahydromethanopterin dehydrogenase (Mtd) from Methanopyrus kandleri: A methanogenic enzyme with an unusual quarternary structure,1.54,96736.52,Protein,849
+3AXT,Complex structure of tRNA methyltransferase Trm1 from Aquifex aeolicus with S-adenosyl-L-Methionine,2.49,46396.33,Protein,392
+3AXS,Complex structure of tRNA methyltransferase Trm1 from Aquifex aeolicus with sinefungin,2.16,46475.34,Protein,392
+3F8T,Crystal structure analysis of a full-length MCM homolog from Methanopyrus kandleri,1.9,56633.64,Protein,506
+1XQI,Crystal Structure Analysis of an NDP kinase from Pyrobaculum aerophilum,2.5,66906.02,Protein,585
+2QEI,"Crystal structure analysis of LeuT complexed with L-alanine, sodium, and clomipramine",1.85,60304.06,Protein,519
+2QB4,"Crystal Structure Analysis of LeuT complexed with L-leucine, sodium and desipramine",1.9,60249.2,Protein,519
+2Q6H,"Crystal Structure Analysis of LeuT complexed with L-leucine, sodium, and clomipramine",1.85,60346.14,Protein,519
+2Q72,"Crystal Structure Analysis of LeuT complexed with L-leucine, sodium, and imipramine",1.7,60277.25,Protein,519
+1HQK,CRYSTAL STRUCTURE ANALYSIS OF LUMAZINE SYNTHASE FROM AQUIFEX AEOLICUS,1.6,83636.01,Protein,770
+1F9A,CRYSTAL STRUCTURE ANALYSIS OF NMN ADENYLYLTRANSFERASE FROM METHANOCOCCUS JANNASCHII,2,120919.1,Protein,1008
+3LX2,Crystal Structure analysis of PCNA from Thermococcus kodakaraensis tk0582,2.4,88499.97,Protein,777
+3LX1,Crystal Structure analysis of PCNA1 from Thermococcus kodakaraensis tk0535,2,29387.5,Protein,255
+1M2D,Crystal structure at 1.05 Angstroms resolution of the Cys59Ser variant of the thioredoxin-like [2Fe-2S] ferredoxin from Aquifex aeolicus,1.05,24731.82,Protein,220
+1M2B,Crystal structure at 1.25 Angstroms resolution of the Cys55Ser variant of the thioredoxin-like [2Fe-2S] ferredoxin from Aquifex aeolicus,1.25,24731.82,Protein,220
+1M2A,Crystal structure at 1.5 Angstroms resolution of the wild type thioredoxin-like [2Fe-2S] ferredoxin from Aquifex aeolicus,1.5,25121.65,Protein,220
+3VX3,Crystal structure of [NiFe] hydrogenase maturation protein HypB from Thermococcus kodakarensis KOD1,2.1,56470.9,Protein,496
+2Z1D,"Crystal structure of [NiFe] hydrogenase maturation protein, HypD from Thermococcus kodakaraensis",2.07,84618.65,Protein,744
+3RF2,Crystal Structure of 30S Ribosomal Protein S8 from Aquifex Aeolicus,2.16,19975.27,Protein,168
+1VS1,Crystal structure of 3-deoxy-D-arabino-heptulosonate-7-phosphate synthase (DAHP synthase) from Aeropyrum pernix in complex with Mn2+ and PEP,2.3,121042.8,Protein,1104
+2PKP,Crystal structure of 3-isopropylmalate dehydratase (leuD)from Methhanocaldococcus Jannaschii DSM2661 (MJ1271),2.1,18865.26,Protein,170
+4NDA,Crystal structure of 3-nitro-tyrosine tRNA synthetase (5B) bound to 3-nitro-tyrosine,1.7,36521.23,Protein,314
+2EBD,Crystal structure of 3-oxoacyl-[acyl-carrier-protein] synthase III from Aquifex aeolicus VF5,2.1,67736.41,Protein,618
+3D6U,Crystal structure of 4-(trifluoromethyldiazirinyl)phenylalanyl-tRNA synthetase,2.2,36445.34,Protein,314
+3WDL,Crystal structure of 4-phosphopantoate-beta-alanine ligase complexed with ATP,2.4,121643.73,Protein,1044
+3WDK,Crystal structure of 4-phosphopantoate-beta-alanine ligase complexed with reaction intermediate,2.3,122363.07,Protein,1044
+3WDM,Crystal structure of 4-phosphopantoate-beta-alanine ligase from Thermococcus kodakarensis,2,120635.37,Protein,1044
+1WTA,Crystal Structure of 5'-Deoxy-5'-methylthioadenosine from Aeropyrum pernix (R32 form),1.78,31007.43,Protein,275
+1XQP,"Crystal structure of 8-oxoguanosine complexed Pa-AGOG, 8-oxoguanine DNA glycosylase from Pyrobaculum aerophilum",1.69,30077.93,Protein,256
+2CX4,Crystal structure of a bacterioferritin comigratory protein peroxiredoxin from the Aeropyrum pernix K1 (form-2 crystal),2.3,150682.31,Protein,1312
+2PXH,Crystal structure of a bipyridylalanyl-tRNA synthetase,1.97,36283.96,Protein,314
+3D3H,Crystal structure of a complex of the peptidoglycan glycosyltransferase domain from Aquifex aeolicus and neryl moenomycin A,2.31,24194.58,Protein,200
+1LFP,Crystal Structure of a Conserved Hypothetical Protein Aq1575 from Aquifex Aeolicus,1.72,28040.4,Protein,249
+3Q4O,Crystal Structure of a deletion mutant(11-185) of hypothetical protein MJ0754 determined to 1.34A,1.34,23240.44,Protein,196
+3Q4Q,Crystal Structure of a deletion mutant(11-185) of hypothetical protein MJ0754 with Mn2+,1.75,23326.02,Protein,196
+3Q4R,Crystal Structure of a deletion mutant(11-185) of hypothetical protein MJ0754 with Zn2+,1.6,23346.96,Protein,196
+1NH9,Crystal Structure of a DNA Binding Protein Mja10b from the hyperthermophile Methanococcus jannaschii,2,9690.53,Protein,87
+3DM3,"Crystal structure of a domain of a Replication factor A protein, from Methanocaldococcus jannaschii. NorthEast Structural Genomics target MjR118E",2.4,35295.77,Protein,315
+1FBN,"CRYSTAL STRUCTURE OF A FIBRILLARIN HOMOLOGUE FROM METHANOCOCCUS JANNASCHII, A HYPERTHERMOPHILE, AT 1.6 A",1.6,26239.73,Protein,230
+2QTF,Crystal structure of a GTP-binding protein from the hyperthermophilic archaeon Sulfolobus solfataricus,2,42387.43,Protein,364
+2QTH,Crystal structure of a GTP-binding protein from the hyperthermophilic archaeon Sulfolobus solfataricus in complex with GDP,2,42758.88,Protein,364
+2E8C,Crystal structure of a hypothetical protein (Aq_1549) from Aquifex aeolicus VF5,2.1,15037.62,Protein,132
+2E8F,Crystal Structure of a hypothetical protein (Aq_1549) from Aquifex aeolicus VF5 (Oxidised form),1.8,15037.62,Protein,132
+2E8E,Crystal Structure of a hypothetical protein (Aq_1549) from Aquifex aeolicus VF5 (Reduced form),1.7,15191.87,Protein,132
+2EGI,Crystal Structure of a Hypothetical Protein(AQ1494) from Aquifex aeolicus,2.3,122561.55,Protein,1024
+2EFV,Crystal Structure of a Hypothetical Protein(MJ0366) from Methanocaldococcus jannaschii,1.9,10968.69,Protein,92
+3NEK,Crystal structure of a nitrogen repressor-like protein MJ0159 from Methanococcus jannaschii,2.5,54689.71,Protein,476
+1M5Q,Crystal structure of a novel Sm-like archaeal protein from Pyrobaculum aerophilum,2,425487.59,Protein,3640
+1GAJ,CRYSTAL STRUCTURE OF A NUCLEOTIDE-FREE ATP-BINDING CASSETTE FROM AN ABC TRANSPORTER,2.5,29630.26,Protein,257
+1K2E,crystal structure of a nudix protein from Pyrobaculum aerophilum,1.8,36609.32,Protein,312
+1JRK,Crystal Structure of a Nudix Protein from Pyrobaculum aerophilum Reveals a Dimer with Intertwined Beta Sheets,2.4,71963.32,Protein,624
+4IKE,Crystal Structure of a partly open ATP-lid of liganded Adenylate kinase,1.48,48086.96,Protein,412
+2HGZ,Crystal structure of a p-benzoyl-L-phenylalanyl-tRNA synthetase,2.5,35197.96,Protein,306
+2OQO,Crystal structure of a peptidoglycan glycosyltransferase from a class A PBP: insight into bacterial cell wall synthesis,2.1,23765.61,Protein,200
+2ARH,Crystal Structure of a Protein of Unknown Function AQ1966 from Aquifex aeolicus VF5,2.46,72567.48,Protein,609
+3GMI,Crystal structure of a protein of unknown function from Methanocaldococcus jannaschii,1.91,41689.66,Protein,357
+2CX0,Crystal structure of a PUA domain (APE0525) from the Aeropyrum pernix K1 (sulfate complex),1.8,21142.15,Protein,187
+2CX1,Crystal structure of a PUA domain (APE0525) from the Aeropyrum pernix K1 (tartrate complex),1.8,21196.18,Protein,187
+2QTD,Crystal structure of a putative dinitrogenase (mj0327) from methanocaldococcus jannaschii dsm at 1.70 A resolution,1.7,13594.08,Protein,105
+2PG4,Crystal structure of a putative dna binding protein (ape_0880a) from aeropyrum pernix k1 at 2.21 A resolution,2.21,22694.13,Protein,190
+2EIU,Crystal Structure of a Putative protein (AQ1627) from Aquifex aeolicus,2,82361.34,Protein,756
+2B8M,Crystal structure of a rmlc-like cupin family protein with a double-stranded beta-helix fold (mj0764) from methanocaldococcus jannaschii at 1.70 A resolution,1.7,14343.27,Protein,117
+2OSO,Crystal structure of a vinyl-4-reductase family protein (mj_1460) from methanocaldococcus jannaschii dsm at 1.90 A resolution,1.9,19545.66,Protein,163
+2OSD,Crystal structure of a vinyl-4-reductase family protein (mj_1460) from methanocaldococcus jannaschii dsm at 2.40 A resolution,2.3,19568.79,Protein,163
+3FTD,Crystal structure of A. aeolicus KsgA at 1.44-Angstrom resolution,1.44,28484.36,Protein,249
+3FTC,Crystal structure of A. aeolicus KsgA at 1.72-Angstrom resolution,1.68,28484.36,Protein,249
+4G3V,Crystal structure of A. Aeolicus nlh2 gaf domain in an inactive state,1.7,38957.01,Protein,344
+4L5E,Crystal structure of A. aeolicus NtrC1 DNA binding domain,1.34,5657.69,Protein,46
+1ZJR,Crystal Structure of A. aeolicus TrmH/SpoU tRNA modifying enzyme,1.85,24897.78,Protein,211
+2PCJ,Crystal structure of ABC transporter (aq_297) From Aquifex Aeolicus VF5,1.7,49926.15,Protein,448
+2PCL,Crystal structure of ABC transporter with complex (aq_297) from aquifex aeolicus VF5,1.7,25834.07,Protein,224
+3EAF,"Crystal structure of ABC transporter, substrate binding protein Aeropyrum pernix",2,43528.22,Protein,391
+2EH6,Crystal structure of acetylornithine aminotransferase from Aquifex aeolicus VF5,1.9,84370.6,Protein,750
+2EHS,Crystal structure of acyl carrier protein from Aquifex aeolicus (form 1),1.3,9068.47,Protein,77
+2EHT,Crystal structure of acyl carrier protein from Aquifex aeolicus (form 2),1.4,9080.93,Protein,77
+2RGX,Crystal Structure of Adenylate Kinase from Aquifex Aeolicus in complex with Ap5A,1.9,24447.06,Protein,206
+4CF7,Crystal structure of adenylate kinase from Aquifex aeolicus with MgADP bound,1.59,48618.45,Protein,412
+4JL6,Crystal Structure of Adenylate kinase with 2 ADP's,1.65,47674.43,Protein,406
+4JLA,Crystal Structure of Adenylate kinase with 2 ADP's in the active site,2.12,47674.43,Protein,406
+4DF3,Crystal Structure of Aeropyrum pernix fibrillarin in complex with natively bound S-adenosyl-L-methionine at 1.7A,1.73,54194.54,Protein,466
+4GQC,Crystal Structure of Aeropyrum pernix Peroxiredoxin Q Enzyme in Fully-Folded and Locally-Unfolded Conformations,2,78337.12,Protein,656
+4MO0,Crystal structure of aIF1 from Methanocaldococcus jannaschii,2.1,11621.79,Protein,102
+1YFR,crystal structure of alanyl-tRNA synthetase in complex with ATP and magnesium,2.15,108704.69,Protein,930
+3U6Y,Crystal structure of ALBA2-DNA complex,2,25891.39,"Protein, DNA",214
+4GA6,Crystal structure of AMP phosphorylase C-terminal deletion mutant in complex with substrates,2.21,110698.72,Protein,1026
+1VE6,Crystal structure of an acylpeptide hydrolase/esterase from Aeropyrum pernix K1,2.1,126986.03,Protein,1164
+2B98,Crystal Structure of an archaeal pentameric riboflavin synthase,2.3,87622.95,Protein,780
+2B99,Crystal Structure of an archaeal pentameric riboflavin synthase Complex with a Substrate analog inhibitor,2.22,90925.46,Protein,780
+2CV4,Crystal Structure of an Archaeal Peroxiredoxin from the Aerobic Hyperthermophilic Crenarchaeon Aeropyrum pernix K1,2.3,291196.25,Protein,2500
+1C3S,CRYSTAL STRUCTURE OF AN HDAC HOMOLOG COMPLEXED WITH SAHA,2.5,43031.38,Protein,375
+1C3R,CRYSTAL STRUCTURE OF AN HDAC HOMOLOG COMPLEXED WITH TRICHOSTATIN A,2,86138.84,Protein,750
+1C3P,CRYSTAL STRUCTURE OF AN HDAC HOMOLOG FROM AQUIFEX AEOLICUS,1.8,42733.78,Protein,375
+2QTX,Crystal structure of an Hfq-like protein from Methanococcus jannaschii,2.5,99717.25,Protein,852
+2PBZ,Crystal structure of an IMP biosynthesis protein PurP from Thermococcus kodakaraensis,2.5,111276.49,Protein,960
+3M7D,Crystal structure of an N-terminal 44 kDA fragment of topoisomerase V in the presence of dioxane,1.82,44232.01,Protein,380
+3M6Z,Crystal structure of an N-terminal 44 kDa fragment of topoisomerase V in the presence of guanidium hydrochloride,1.4,89449.85,Protein,760
+2ZAU,Crystal structure of an N-terminally truncated selenophosphate synthetase from Aquifex aeolicus,2,103075.04,Protein,933
+2QYA,Crystal structure of an uncharacterized conserved protein from Methanopyrus kandleri,2.17,55018.57,Protein,496
+3R2C,Crystal Structure of Antitermination Factors NusB and NusE in complex with BoxA RNA,1.9,62075.93,"Protein, RNA",486
+3R2D,Crystal Structure of Antitermination Factors NusB and NusE in complex with dsRNA,2.2,61803.73,"Protein, RNA",490
+3I7U,Crystal structure of AP4A hydrolase (aq_158) from Aquifex aeolicus VF5,1.8,65255.69,Protein,536
+3I7V,Crystal structure of AP4A hydrolase complexed with AP4A (ATP) (aq_158) from Aquifex aeolicus Vf5,1.95,34040.3,Protein,268
+3GIA,Crystal Structure of ApcT Transporter,2.32,49347.08,Protein,444
+3GI9,Crystal Structure of ApcT Transporter Bound to 7F11 Monoclonal Fab Fragment,2.48,96599.73,Protein,887
+2Z1N,Crystal structure of APE0912 from Aeropyrum pernix K1,1.8,55762.4,Protein,520
+2YVU,Crystal structure of APE1195,2.1,42246.73,Protein,372
+2CY1,Crystal structure of APE1850,2.3,16069.72,Protein,144
+4PSN,Crystal structure of apeThermo-DBP-RP2,2.05,107671.1,Protein,948
+4ND7,Crystal structure of apo 3-nitro-tyrosine tRNA synthetase (5B) in the closed form,2,36188.99,Protein,314
+4ND6,Crystal structure of apo 3-nitro-tyrosine tRNA synthetase (5B) in the open form,2,36165.94,Protein,314
+4ITM,Crystal structure of 'apo' form LpxK from Aquifex aeolicus in complex with ATP at 2.2 angstrom resolution,2.2,37553.48,Protein,315
+4HK4,Crystal structure of apo Tyrosine-tRNA ligase mutant protein,2.3,35849.54,Protein,312
+2EH3,"Crystal structure of aq_1058, a transcriptional regulator (TerR/AcrR family) from Aquifex aeolicus VF5",1.55,21735.82,Protein,179
+1OZ9,"Crystal structure of AQ_1354, a hypothetical protein from Aquifex aeolicus",1.89,17372.02,Protein,150
+2P68,Crystal Structure of aq_1716 from Aquifex Aeolicus VF5,1.84,53792.05,Protein,496
+2YVT,Crystal structure of aq_1956,1.6,30022.46,Protein,260
+2P3E,Crystal structure of AQ1208 from Aquifex aeolicus,1.99,94053.84,Protein,840
+2P9J,Crystal structure of AQ2171 from Aquifex aeolicus,2.4,147152.02,Protein,1296
+4JLO,Crystal structure of Aquifex adenylate kinase R150K mutant,1.73,47618.41,Protein,406
+5SZD,Crystal structure of Aquifex aeolicus Hfq at 1.5A,1.49,118075.05,Protein,996
+5SZE,Crystal structure of Aquifex aeolicus Hfq-RNA complex at 1.5A,1.5,11514.29,"Protein, RNA",89
+2Z7E,Crystal structure of Aquifex aeolicus IscU with bound [2Fe-2S] cluster,2.3,53071.46,Protein,471
+2GO3,Crystal structure of Aquifex aeolicus LpxC complexed with imidazole.,2,62733.58,Protein,534
+1P42,Crystal structure of Aquifex aeolicus LpxC Deacetylase (Zinc-Inhibited Form),2,62631.23,Protein,540
+1YHC,Crystal structure of Aquifex aeolicus LpxC deacetylase complexed with cacodylate,2.1,63217.05,Protein,540
+1NPR,CRYSTAL STRUCTURE OF AQUIFEX AEOLICUS NUSG IN C222(1),2.21,28041.7,Protein,248
+1NPP,CRYSTAL STRUCTURE OF AQUIFEX AEOLICUS NUSG IN P2(1),2,112287,Protein,992
+1M1H,"Crystal structure of Aquifex aeolicus N-utilization substance G (NusG), Space group I222",1.95,28041.7,Protein,248
+1M1G,"Crystal Structure of Aquifex aeolicus N-utilization substance G (NusG), Space Group P2(1)",2,112166.81,Protein,992
+3VN5,Crystal structure of Aquifex aeolicus RNase H3,1.98,29584.56,Protein,257
+2EZ6,Crystal structure of Aquifex aeolicus RNase III (D44N) complexed with product of double-stranded RNA processing,2.05,70302.13,"Protein, RNA",498
+2.00E+89,"Crystal structure of Aquifex aeolicus TilS in a complex with ATP, Magnesium ion, and L-lysine",2.5,151758.38,Protein,1268
+1PYB,Crystal Structure of Aquifex aeolicus Trbp111: a Structure-Specific tRNA Binding Protein,2.5,48448.53,Protein,444
+3D6N,Crystal Structure of Aquifex Dihydroorotase Activated by Aspartate Transcarbamoylase,2.3,80490.88,Protein,713
+5AYV,Crystal structure of archaeal ketopantoate reductase complexed with coenzyme A and 2-oxopantoate,1.65,70366.31,Protein,618
+3A4L,Crystal structure of archaeal O-phosphoseryl-tRNA(Sec) kinase,1.8,63581.36,Protein,520
+3WXM,Crystal structure of archaeal Pelota and GTP-bound EF1 alpha complex,2.3,366722.59,Protein,3292
+2E2G,"Crystal structure of archaeal peroxiredoxin, thioredoxin peroxidase from Aeropyrum pernix K1 (pre-oxidation form)",2.4,287279.56,Protein,2500
+2NVL,"Crystal structure of archaeal peroxiredoxin, thioredoxin peroxidase from Aeropyrum pernix K1 (sulfonic acid form)",2.36,287759.53,Protein,2500
+2CXC,Crystal structure of archaeal transcription termination factor NusA,2,16069.72,Protein,144
+3AGK,"Crystal structure of archaeal translation termination factor, aRF1",2.1,42005.9,Protein,373
+1J1U,Crystal structure of archaeal tyrosyl-tRNA synthetase complexed with tRNA(Tyr) and L-tyrosine,1.95,60185.98,"Protein, RNA",383
+2Z2U,Crystal structure of archaeal TYW1,2.4,36770.83,Protein,311
+2X7M,Crystal structure of Archaemetzincin (amzA) from Methanopyrus kandleri at 1.5 A resolution,1.5,22162.25,Protein,195
+2YWW,Crystal structure of aspartate carbamoyltransferase regulatory chain from Methanocaldococcus jannaschii,2,36164.86,Protein,298
+3AJD,Crystal structure of ATRM4,1.27,31687.31,Protein,274
+3A4T,Crystal structure of aTrm4 from M.jannaschii with sinefungin,2.3,63833.02,Protein,548
+2Z2Y,Crystal structure of autoprocessed form of Tk-subtilisin,1.89,80923.41,Protein,766
+5HN3,Crystal structure of beta-decarboxylating dehydrogenase (TK0280) from Thermococcus kodakarensis (apo form),1.7,38799.11,Protein,353
+5HN6,Crystal structure of beta-decarboxylating dehydrogenase (TK0280) from Thermococcus kodakarensis complexed with Mn and 3-isopropylmalate,2.5,38987.23,Protein,353
+2EAY,Crystal Structure Of Biotin Protein Ligase From Aquifex Aeolicus,1.95,53581.66,Protein,466
+2EJ9,Crystal Structure Of Biotin Protein Ligase From Methanococcus jannaschii,2,27465.93,Protein,237
+2NWR,Crystal structure of C11N mutant of KDO8P Synthase in complex with PEP,1.5,60096.76,Protein,534
+2ZWO,Crystal structure of Ca2 site mutant of Pro-S324A,2.07,124686.19,Protein,1194
+2ZWP,Crystal structure of Ca3 site mutant of Pro-S324A,2.4,83137.48,Protein,796
+3D7I,Crystal structure of carboxymuconolactone decarboxylase family protein possibly involved in oxygen detoxification (1591455) from METHANOCOCCUS JANNASCHII at 1.75 A resolution,1.75,35994.28,Protein,315
+1FNN,CRYSTAL STRUCTURE OF CDC6P FROM PYROBACULUM AEROPHILUM,2,89428.63,Protein,778
+2OYN,"Crystal structure of CDP-bound protein MJ0056 from Methanococcus jannaschii, Pfam DUF120",1.85,17350.97,Protein,146
+5DHD,Crystal structure of ChBD2 from Thermococcus kodakarensis KOD1,1.27,14931.64,Protein,100
+5DHE,Crystal structure of ChBD3 from Thermococcus kodakarensis KOD1,1.6,22476.86,Protein,200
+1Q1L,Crystal Structure of Chorismate Synthase,2.05,179724.78,Protein,1604
+2IBP,Crystal Structure of Citrate Synthase from Pyrobaculum aerophilum,1.6,93049.13,Protein,818
+1EKE,CRYSTAL STRUCTURE OF CLASS II RIBONUCLEASE H (RNASE HII) WITH MES LIGAND,2,53777.69,Protein,460
+2YXD,Crystal Structure of Cobalamin biosynthesis precorrin 8W decarboxylase (cbiT),2.3,41828.68,Protein,366
+4ITN,Crystal structure of 'compact P-loop' LpxK from Aquifex aeolicus in complex with chloride at 2.2 angstrom resolution,2.19,37239.86,Protein,315
+3A3P,Crystal structure of complex between E201A/SA-subtilisin and Tk-propeptide,1.9,41698.31,Protein,398
+3A3O,Crystal structure of complex between SA-subtilisin and Tk-propeptide with deletion of the five C-terminal residues,1.9,41231.69,Protein,393
+3A3N,Crystal structure of complex between SA-subtilisin and Tk-propeptide with deletion of the two C-terminal residues,2.2,41660.85,Protein,396
+2Z30,Crystal structure of complex form between mat-Tk-subtilisin and Tk-propeptide,1.65,40487,Protein,385
+3VV2,Crystal structure of complex form between S324A-subtilisin and mutant Tkpro,1.83,41775.76,Protein,398
+4L4U,"Crystal structure of construct containing A. aeolicus NtrC1 receiver, central and DNA binding domains",2.2,51229.65,Protein,447
+1X9I,Crystal structure of Crystal structure of phosphoglucose/phosphomannose phosphoglucose/phosphomannoseisomerase from Pyrobaculum aerophilum in complex with glucose 6-phosphate,1.16,67886.23,Protein,604
+2ZXY,Crystal Structure of Cytochrome c555 from Aquifex aeolicus,1.15,9883.31,Protein,87
+4NX2,Crystal structure of DCYRS complexed with DCY,2,35956.65,Protein,313
+1TUF,Crystal structure of Diaminopimelate Decarboxylase from m. jannaschi,2.4,97748.51,Protein,868
+1TWI,Crystal structure of Diaminopimelate Decarboxylase from m. jannaschii in co-complex with L-lysine,2,195663.78,Protein,1736
+2EHH,Crystal structure of dihydrodipicolinate synthase from aquifex aeolicus,1.9,131028.66,Protein,1176
+2YXG,Crystal structure of Dihyrodipicolinate Synthase (dapA),2.2,126453.74,Protein,1156
+3FYC,"Crystal Structure of Dim1 from the thermophilic archeon, Methanocaldococcus jannaschi",2.15,62003.59,Protein,530
+3KB6,Crystal structure of D-Lactate dehydrogenase from aquifex aeolicus complexed with NAD and Lactic acid,2.12,161199.17,Protein,1336
+3AI9,Crystal structure of DUF358 protein reveals a putative SPOUT-class rRNA methyltransferase,1.55,25094.54,Protein,211
+3AIA,Crystal structure of DUF358 reveals a putative SPOUT-class methltransferase,1.4,49693.2,Protein,422
+2P91,Crystal structure of Enoyl-[acyl-carrier-protein] reductase (NADH) from Aquifex aeolicus VF5,2,126145.48,Protein,1140
+3R9W,Crystal structure of Era in complex with MgGDPNP and nucleotides 1506-1542 of 16S ribosomal RNA,2.05,46788.71,"Protein, RNA",341
+3IEV,Crystal Structure of ERA in Complex with MgGNP and the 3' End of 16S rRNA,1.9,39157.88,"Protein, RNA",320
+4HJR,Crystal structure of F2YRS,2.5,72103.55,Protein,628
+2R7N,Crystal structure of FAICAR synthetase (PurP) from M. jannaschii complexed with ADP and FAICAR,2.4,41798.92,Protein,361
+2R7M,Crystal structure of FAICAR synthetase (PurP) from M. jannaschii complexed with AMP,2.3,41735.39,Protein,361
+2R7K,Crystal structure of FAICAR synthetase (PurP) from M. jannaschii complexed with AMPPCP and AICAR,2.1,41884.37,Protein,361
+2R7L,Crystal structure of FAICAR synthetase (PurP) from M. jannaschii complexed with ATP and AICAR,2.1,41886.34,Protein,361
+4WIA,Crystal structure of flagellar accessory protein FlaH from Methanocaldococcus jannaschii,2.2,80447.42,Protein,699
+2FHJ,Crystal structure of formylmethanofuran: tetrahydromethanopterin formyltransferase in complex with its coenzymes,2,133840.88,Protein,1184
+4RFL,Crystal structure of G1PDH with NADPH from Methanocaldococcus jannaschii,2.2,170204.56,Protein,1484
+2Z57,Crystal structure of G56E-propeptide:S324A-subtilisin complex,1.8,40370.89,Protein,383
+2Z56,Crystal structure of G56S-propeptide:S324A-subtilisin complex,1.9,40328.85,Protein,383
+2Z58,Crystal structure of G56W-propeptide:S324A-subtilisin complex,1.88,40542.09,Protein,384
+2YYA,Crystal structure of GAR synthetase from Aquifex aeolicus,2.4,95000.96,Protein,848
+2YW2,Crystal structure of GAR synthetase from Aquifex aeolicus in complex with ATP,1.8,96205.27,Protein,848
+2YWR,Crystal structure of GAR transformylase from Aquifex aeolicus,1.77,24581,Protein,216
+5FG3,Crystal structure of GDP-bound aIF5B from Aeropyrum pernix,1.9,69898.92,Protein,623
+2YWH,Crystal structure of GDP-bound LepA from Aquifex aeolicus,2.24,68218.62,Protein,600
+2Z1M,Crystal Structure of GDP-D-Mannose Dehydratase from Aquifex aeolicus VF5,2,159925.62,Protein,1380
+2EPJ,"Crystal structure of glutamate-1-semialdehyde 2,1-aminomutase from Aeropyrum pernix",1.7,46777.58,Protein,434
+2ZSM,"Crystal structure of glutamate-1-semialdehyde 2,1-aminomutase from Aeropyrum pernix, hexagonal form",2.3,140439.11,Protein,1302
+2YWM,Crystal structure of glutaredoxin-like protein from Aquifex aeolicus,2.3,103412.23,Protein,916
+2YYY,Crystal structure of Glyceraldehyde-3-phosphate dehydrogenase,1.85,77786.47,Protein,686
+3PQA,Crystal structure of glyceraldehyde-3-phosphate dehydrogenase GapN from Methanocaldococcus jannaschii DSM 2661,1.5,217178.8,Protein,1944
+3RHD,Crystal structure of glyceraldehyde-3-phosphate dehydrogenase GapN from Methanocaldococcus jannaschii DSM 2661 complexed with NADP,2.2,219479.98,Protein,1944
+4OEC,Crystal structure of glycerophosphodiester phosphodiesterase from Thermococcus kodakarensis KOD1,1.9,114321,Protein,992
+2YWF,Crystal structure of GMPPNP-bound LepA from Aquifex aeolicus,2.24,68297.61,Protein,600
+2ZF5,Crystal Structure of highly thermostable glycerol kinase from a hyperthermophilic archaeon,2.4,111938.95,Protein,994
+4KP2,Crystal structure of homoaconitase large subunit from methanococcus jannaschii (MJ1003),2.5,96855.22,Protein,882
+1FWL,CRYSTAL STRUCTURE OF HOMOSERINE KINASE,2.25,129197.48,Protein,1184
+1FWK,CRYSTAL STRUCTURE OF HOMOSERINE KINASE COMPLEXED WITH ADP,2.1,130930.59,Protein,1184
+1H72,CRYSTAL STRUCTURE OF HOMOSERINE KINASE COMPLEXED WITH HSE,1.8,33046.83,Protein,296
+1H74,CRYSTAL STRUCTURE OF HOMOSERINE KINASE COMPLEXED WITH ILE,1.9,131647.38,Protein,1184
+1H73,CRYSTAL STRUCTURE OF HOMOSERINE KINASE COMPLEXED WITH THREONINE,2,32924.69,Protein,296
+3A43,Crystal structure of HypA,2.3,31610.79,Protein,278
+2HF9,Crystal structure of HypB from Methanocaldococcus jannaschii in the triphosphate form,1.9,50765.83,Protein,452
+2HF8,"Crystal structure of HypB from Methanocaldococcus jannaschii in the triphosphate form, in complex with zinc",2.1,51365.6,Protein,452
+2Z1C,Crystal structure of HypC from Thermococcus kodakaraensis KOD1,1.8,25080.34,Protein,225
+2Z1F,Crystal structure of HypE from Thermococcus kodakaraensis (inward form),1.7,35954.43,Protein,338
+2Z1E,Crystal structure of HypE from Thermococcus kodakaraensis (outward form),1.55,35954.43,Protein,338
+3WJR,crystal structure of HypE in complex with a nucleotide,1.86,37394.96,Protein,338
+2EGT,Crystal Structure of Hypothetical protein (AQ1549) from Aquifex aeolicus,2,15037.62,Protein,132
+2P6H,Crystal structure of hypothetical protein APE1520 from Aeropyrum pernix K1,1.95,30208.31,Protein,268
+1WDV,Crystal structure of hypothetical protein APE2540,1.7,32961.63,Protein,304
+2P6C,Crystal structure of hypothetical protein aq_2013 from Aquifex aeolicus VF5.,2,32594.4,Protein,274
+2DVK,Crystal Structure of Hypothetical protein from Aeropyrum pernix,1.8,21023.3,Protein,188
+2EKY,Crystal Structure of hypothetical protein MJ1052 from Methanocaldococcus jannaschii (Form 1),1.8,89945.62,Protein,800
+2EGJ,Crystal Structure of Hypothetical Protein(AQ1494) from Aquifex aeolicus,1.8,30617.37,Protein,256
+2CW8,Crystal structure of intein homing endonuclease II,2.5,63843.5,Protein,537
+4KP1,Crystal structure of IPM isomerase large subunit from methanococcus jannaschii (MJ0499),1.8,49847.14,Protein,445
+1V94,Crystal structure of isocitrate dehydrogenase from Aeropyrum pernix,2.28,95965.83,Protein,870
+1WY5,Crystal structure of isoluecyl-tRNA lysidine synthetase,2.42,74779.08,Protein,634
+3K56,Crystal Structure of Isopentenyl Phosphate Kinase from M. jannaschii in complex with IPP beta-S,2.34,60932.09,Protein,532
+3K4O,Crystal Structure of Isopentenyl Phosphate Kinase from Methanocaldococcus jannaschii,2.05,61093.11,Protein,532
+5HWS,Crystal structure of ketopantoate reductase from Thermococcus kodakarensis complexed with NADP+,2.3,139200.7,Protein,1236
+1I2A,CRYSTAL STRUCTURE OF L1 RIBOSOMAL PROTEIN FROM METHANOCOCCUS JANNASCHII WITH 1.85A RESOLUTION.,1.85,24928.63,Protein,219
+1ZH0,Crystal Structure of L-3-(2-napthyl)alanine-tRNA synthetase in complex with L-3-(2-napthyl)alanine,1.9,36402.27,Protein,314
+3CPQ,Crystal Structure of L30e a ribosomal protein from Methanocaldococcus jannaschii DSM2661 (MJ1044),1.9,24308.5,Protein,220
+2YWE,Crystal structure of LepA from Aquifex aeolicus,2.05,67751.11,Protein,600
+4MMD,Crystal structure of LeuBAT (delta6 mutant) in complex with (S)-duloxetine,2.3,117700.68,Protein,1038
+4MMC,Crystal structure of LeuBAT (delta6 mutant) in complex with desvenlafaxine,2.3,59225.86,Protein,519
+4MME,Crystal structure of LeuBAT (delta6 mutant) in complex with mazindol,2.5,118260.07,Protein,1038
+4MMB,Crystal structure of LeuBAT (delta6 mutant) in complex with sertraline,2.25,59005.34,Protein,519
+3F3C,Crystal structure of LeuT bound to 4-Fluoro-L-Phenylalanine and sodium,2.1,59768.44,Protein,519
+3F4J,Crystal structure of LeuT bound to glycine and sodium,2.15,59367.96,Protein,519
+3F48,Crystal structure of LeuT bound to L-alanine and sodium,1.9,59966.73,Protein,519
+3F3E,Crystal structure of LeuT bound to L-leucine (30 mM) and sodium,1.8,60301.18,Protein,519
+3USG,Crystal structure of LeuT bound to L-leucine in space group C2 from lipid bicelles,2.5,58760.21,Protein,519
+3F3D,Crystal structure of LeuT bound to L-Methionine and sodium,2.3,59734.47,Protein,519
+3F4I,Crystal Structure of LeuT bound to L-selenomethionine and sodium,1.95,59781.37,Protein,519
+3F3A,Crystal Structure of LeuT bound to L-Tryptophan and Sodium,2,61185.29,Protein,519
+3USP,Crystal structure of LeuT in heptyl-beta-D-Selenoglucoside,2.1,61361.77,Protein,519
+3GJD,Crystal Structure of LeuT with bound OG,2,59577.66,Protein,515
+2A65,"Crystal structure of LEUTAA, a bacterial homolog of Na+/Cl--dependent neurotransmitter transporters",1.65,59751.89,Protein,519
+2YXE,Crystal structure of L-isoaspartyl protein carboxyl methyltranferase,2,47701.87,Protein,430
+4EHX,Crystal structure of LpxK from Aquifex aeolicus at 1.9 angstrom resolution,1.9,37809.14,Protein,315
+4EHW,Crystal structure of LpxK from Aquifex aeolicus at 2.3 angstrom resolution,2.3,37848.22,Protein,317
+4EHY,Crystal structure of LpxK from Aquifex aeolicus in complex with ADP/Mg2+ at 2.2 angstrom resolution,2.2,37360.97,Protein,315
+4ITL,Crystal structure of LpxK from Aquifex aeolicus in complex with AMP-PCP at 2.1 angstrom resolution,2.09,37379.22,Protein,315
+3F9T,Crystal structure of L-tyrosine decarboxylase MfnA (EC 4.1.1.25) (NP_247014.1) from METHANOCOCCUS JANNASCHII at 2.11 A resolution,2.11,92041.43,Protein,794
+1NQX,Crystal Structure of Lumazine Synthase from Aquifex aeolicus in Complex with Inhibitor: 3-(7-hydroxy-8-ribityllumazine-6-yl)propionic acid,1.82,86042.43,Protein,770
+1NQW,"Crystal Structure of Lumazine Synthase from Aquifex aeolicus in Complex with Inhibitor: 5-(6-D-ribitylamino-2,4(1H,3H)pyrimidinedione-5-yl)-1-pentyl-phosphonic acid",2.2,85692.73,Protein,770
+1NQV,"Crystal Structure of Lumazine Synthase from Aquifex aeolicus in Complex with Inhibitor: 5-nitroso-6-ribityl-amino-2,4(1H,3H)pyrimidinedione",2.05,85562.01,Protein,770
+1NQU,"Crystal Structure of Lumazine Synthase from Aquifex aeolicus in Complex with Inhibitor: 6,7-dioxo-5H-8-ribitylaminolumazine",1.75,85762.12,Protein,770
+1XHK,Crystal structure of M. jannaschii Lon proteolytic domain,1.9,40683.63,Protein,374
+3CFZ,Crystal structure of M. jannaschii periplasmic binding protein ModA/WtpA with bound tungstate,1.7,33812.54,Protein,292
+3A27,Crystal structure of M. jannaschii TYW2 in complex with AdoMet,2.01,32310.68,Protein,272
+1G61,CRYSTAL STRUCTURE OF M.JANNASCHII EIF6,1.3,48962.23,Protein,456
+2YX1,Crystal structure of M.jannaschii tRNA m1G37 methyltransferase,2.2,79935.92,Protein,672
+2Z2X,Crystal structure of mature form of Tk-subtilisin,1.7,33287.04,Protein,318
+3FHF,Crystal structure of Methanocaldococcus jannaschii 8-oxoguanine DNA glycosylase (MjOgg),2,25825.53,Protein,214
+4QHG,Crystal structure of Methanocaldococcus jannaschii dimeric selecase,2.2,13353.14,Protein,110
+5DNI,Crystal structure of Methanocaldococcus jannaschii Fumarate hydratase beta subunit,2.3,40738.49,Protein,358
+4QHF,Crystal structure of Methanocaldococcus jannaschii monomeric selecase,2.1,13254.33,Protein,110
+2C49,Crystal Structure of Methanocaldococcus jannaschii Nucleoside Kinase - An Archaeal Member of the Ribokinase Family,1.92,69569.32,Protein,604
+2YX5,"Crystal Structure of Methanocaldococcus jannaschii PurS, One of the Subunits of Formylglycinamide Ribonucleotide Amidotransferase in the Purine Biosynthetic Pathway",2.3,9711.43,Protein,83
+4QHJ,Crystal structure of Methanocaldococcus jannaschii selecase mutant I100F+H107F,1.75,26811.31,Protein,220
+4QHI,Crystal structure of Methanocaldococcus jannaschii selecase mutant R36W,2.3,53195.71,Protein,440
+4NES,Crystal structure of Methanocaldococcus jannaschii UDP-GlcNAc 2-epimerase in complex with UDP-GlcNAc and UDP,1.42,44150.37,Protein,374
+1QWG,Crystal structure of Methanococcus jannaschii phosphosulfolactate synthase,1.6,28695.56,Protein,251
+2EB0,Crystal structure of Methanococcus jannaschii putative family II inorganic pyrophosphatase,2.2,68532.67,Protein,614
+3VBA,Crystal structure of methanogen 3-isopropylmalate isomerase small subunit,2,116829.27,Protein,1056
+1RC5,CRYSTAL STRUCTURE OF MG(II)-COMPLEX OF RNASE III ENDONUCLEASE DOMAIN FROM AQUIFEX AEOLICUS AT 2.30 ANGSTROM RESOLUTION,2.3,72749.27,Protein,616
+1G0I,"CRYSTAL STRUCTURE OF MJ0109 GENE PRODUCT INOSITOL MONOPHOSPHATASE-FRUCTOSE 1,6 BISPHOSPHATASE",2.4,58103.56,Protein,504
+2PA6,Crystal structure of MJ0232 from Methanococcus jannaschii,1.85,93744.39,Protein,854
+2Z61,Crystal structure of MJ0684 from Methanococcus jannaschii reveals its similarity in the active site to kynurenine aminotransferases,2.2,42624.57,Protein,370
+2P5D,Crystal structure of MJECL36 from Methanocaldococcus jannaschii DSM 2661,1.7,17574.72,Protein,147
+4ZN3,Crystal Structure of MjSpt4:Spt5 complex conformation B,2.3,24595.53,Protein,219
+1JFZ,Crystal Structure of MN(II)-Complex of RNAse III Endonuclease Domain from Aquifex Aeolicus at 2.10 Angstrom Resolution,2.1,72871.8,Protein,616
+3VYW,Crystal structure of MNMC2 from Aquifex Aeolicus,2.49,146587.62,Protein,1232
+2PBQ,Crystal structure of molybdenum cofactor biosynthesis (aq_061) From aquifex aeolicus VF5,1.7,57895.74,Protein,534
+3MCI,Crystal structure of molybdenum cofactor biosynthesis (AQ_061) from aquifex aeolicus VF5,1.7,58480.39,Protein,534
+2QQ1,Crystal Structure Of Molybdenum Cofactor Biosynthesis (aq_061) Other Form From Aquifex Aeolicus Vf5,1.9,115791.48,Protein,1068
+3MCJ,Crystal structure of molybdenum cofactor biosynthesis (AQ_061) other form from aquifex aeolicus VF5,1.9,115853.55,Protein,1068
+2OMD,Crystal structure of molybdopterin converting factor subunit 2 (aq_2181) from aquifex aeolicus VF5,2,35692.39,Protein,308
+4LQ4,crystal structure of mutant ribosomal protein L1 from Methanococcus jannaschii with deletion of 8 residues from C-terminus,1.75,24183.77,Protein,211
+5B1Y,Crystal structure of NADPH bound carbonyl reductase from Aeropyrum pernix,2.09,59653.46,Protein,540
+1XQO,"Crystal structure of native Pa-AGOG, 8-oxoguanine DNA glycosylase from Pyrobaculum aerophilum",1.03,29511.45,Protein,256
+1TZB,Crystal structure of native phosphoglucose/phosphomannose isomerase from Pyrobaculum aerophilum,1.16,68134.47,Protein,604
+2YYH,Crystal structure of Nudix family protein from Aquifex aeolicus,1.8,63219.36,Protein,556
+2HEK,"Crystal structure of O67745, a hypothetical protein from Aquifex aeolicus at 2.0 A resolution.",2,90764.41,Protein,742
+1MGT,CRYSTAL STRUCTURE OF O6-METHYLGUANINE-DNA METHYLTRANSFERASE FROM HYPERTHERMOPHILIC ARCHAEON PYROCOCCUS KODAKARAENSIS STRAIN KOD1,1.8,19833.8,Protein,174
+5B3A,Crystal Structure of O-Phoshoserine Sulfhydrylase from Aeropyrum pernix in Complexed with the alpha-Aminoacrylate Intermediate,2.14,84920.47,Protein,778
+1WKV,Crystal structure of O-phosphoserine sulfhydrylase,2,84664.08,Protein,778
+3VSA,Crystal Structure of O-phosphoserine sulfhydrylase without acetate,2.07,84664.17,Protein,778
+3AM1,Crystal structure of O-Phosphoseryl-tRNA kinase complexed with anticodon-stem/loop truncated tRNA(Sec),2.4,57732.16,"Protein, RNA",341
+2YZK,Crystal structure of orotate phosphoribosyltransferase from Aeropyrum pernix,1.8,76011.46,Protein,712
+4LUI,Crystal structure of Orotidine 5'-monophosphate decarboxylase from methanocaldococcus jannaschii,1.6,51633.84,Protein,466
+4LUJ,Crystal structure of Orotidine 5'-monophosphate decarboxylase from methanocaldococcus jannaschii complexed with inhibitor BMP,1.6,52278.74,Protein,466
+1ZH6,Crystal Structure of p-acetylphenylalanine-tRNA synthetase in complex with p-acetylphenylalanine,2.5,36463.41,Protein,314
+2FE1,Crystal Structure of PAE0151 from Pyrobaculum aerophilum,2.2,17876.47,Protein,156
+2AG6,Crystal structure of p-bromo-l-phenylalanine-tRNA sythetase in complex with p-bromo-l-phenylalanine,1.9,36323.97,Protein,314
+2YZH,Crystal structure of peroxiredoxin-like protein from Aquifex aeolicus,1.85,75535.15,Protein,684
+2EJB,Crystal Structure Of Phenylacrylic Acid Decarboxylase from Aquifex aeolicus,2.15,21285.93,Protein,189
+1TZC,Crystal structure of phosphoglucose/phosphomannose isomerase from Pyrobaculum aerophilum in complex with 5-phosphoarabinonate,1.45,68338.49,Protein,604
+1X9H,Crystal structure of phosphoglucose/phosphomannose isomerase from Pyrobaculum aerophilum in complex with fructose 6-phosphate,1.5,68550.73,Protein,604
+2Z04,Crystal structure of phosphoribosylaminoimidazole carboxylase ATPase subunit from Aquifex aeolicus,2.35,84770.79,Protein,730
+2YWX,Crystal structure of phosphoribosylaminoimidazole carboxylase catalytic subunit from Methanocaldococcus jannaschii,2.31,16974.03,Protein,157
+2Z02,Crystal structure of phosphoribosylaminoimidazolesuccinocarboxamide synthase wit ATP from Methanocaldococcus jannaschii,2.03,57101.14,Protein,484
+2YZL,Crystal structure of phosphoribosylaminoimidazole-succinocarboxamide synthase with ADP from Methanocaldococcus jannaschii,2.2,28422.56,Protein,242
+1F5S,CRYSTAL STRUCTURE OF PHOSPHOSERINE PHOSPHATASE FROM METHANOCOCCUS JANNASCHII,1.8,47697.81,Protein,422
+1L7O,CRYSTAL STRUCTURE OF PHOSPHOSERINE PHOSPHATASE IN APO FORM,2.2,47865.05,Protein,422
+3A9G,Crystal Structure of PQQ-dependent sugar dehydrogenase apo-form,2.39,39096.27,Protein,354
+3A9H,Crystal Structure of PQQ-dependent sugar dehydrogenase holo-form,2.5,39426.48,Protein,354
+3GGP,Crystal structure of prephenate dehydrogenase from A. aeolicus in complex with hydroxyphenyl propionate and NAD+,2.25,144112.05,Protein,1256
+3GGO,Crystal structure of prephenate dehydrogenase from A. aeolicus with HPP and NADH,2.15,144077.17,Protein,1256
+2G5C,Crystal Structure of Prephenate Dehydrogenase from Aquifex aeolicus,1.9,130572.55,Protein,1124
+2CXH,Crystal structure of probable ribosomal biogenesis protein from Aeropyrum pernix K1,1.8,23774.68,Protein,217
+4JP8,Crystal structure of Pro-F17H/S324A,2.21,41623.76,Protein,398
+2E9Y,Crystal structure of project APE1968 from Aeropyrum pernix K1,1.8,67415.13,Protein,632
+2ZV3,Crystal structure of project MJ0051 from Methanocaldococcus jannaschii DSM 2661,2.1,114236.06,Protein,1035
+3AFG,Crystal structure of ProN-Tk-SP from Thermococcus kodakaraensis,2,113970.7,Protein,1078
+3WIV,Crystal structure of Pro-S324A/D356A,1.9,124766.34,Protein,1194
+3WIU,Crystal structure of Pro-S324A/L349A,1.8,124772.13,Protein,1194
+2NS9,"Crystal structure of protein APE2225 from Aeropyrum pernix K1, Pfam COXG",1.8,34148.35,Protein,314
+2OGF,"Crystal structure of protein MJ0408 from Methanococcus jannaschii, Pfam DUF372",1.89,58693.88,Protein,488
+2B0A,Crystal structure of protein MJ0783 from Methanococcus jannaschii,1.45,21122.63,Protein,186
+3KH5,"Crystal Structure of Protein MJ1225 from Methanocaldococcus jannaschii, a putative archaeal homolog of g-AMPK.",2.1,33833.99,Protein,280
+2F4N,"Crystal structure of protein MJ1651 from Methanococcus jannaschii DSM 2661, Pfam DUF62",2.5,94966.46,Protein,819
+3C19,Crystal structure of protein MK0293 from Methanopyrus kandleri AV19,2.5,20978.46,Protein,186
+2E1P,Crystal structure of pro-Tk-subtilisin,2.3,41632.79,Protein,398
+3LHK,Crystal structure of putative DNA binding protein from Methanocaldococcus jannaschii.,2.2,72962.9,Protein,616
+3ME8,Crystal structure of putative electron transfer protein aq_2194 from Aquifex aeolicus VF5,1.5,38812.89,Protein,340
+3ME7,Crystal structure of putative electron transport protein aq_2194 from Aquifex aeolicus VF5,1.5,39005.02,Protein,340
+3A32,Crystal structure of putative threonyl-tRNA synthetase ThrRS-1 from Aeropyrum pernix,2.3,53739.72,Protein,471
+3A31,Crystal structure of putative threonyl-tRNA synthetase ThrRS-1 from Aeropyrum pernix (selenomethionine derivative),2.5,54014.27,Protein,471
+2YZR,Crystal structure of pyridoxine biosynthesis protein from Methanocaldococcus jannaschii,2.3,108011.39,Protein,990
+3QTG,Crystal structure of pyruvate kinase from Pyrobaculum aerophilum,2.2,100931.64,Protein,922
+5XBH,Crystal structure of R145E mutant of thymidylate kinase (aq_969) from Aquifex Aeolicus VF5,2.23,44749.76,Protein,390
+4JLP,Crystal structure of R150K aquifex adenylate kinase mutant,1.43,47618.41,Protein,406
+5XB5,Crystal structure of R90A mutant of thymidylate kinase (aq_969) from Aquifex Aeolicus VF5,2.23,44823.63,Protein,390
+3BPQ,Crystal Structure of RelB-RelE antitoxin-toxin complex from Methanococcus jannaschii,2.2,33677.57,Protein,280
+3A11,"Crystal structure of ribose-1,5-bisphosphate isomerase from Thermococcus kodakaraensis KOD1",2.5,231003.28,Protein,2028
+3QOY,Crystal structure of ribosomal protein L1 from Aquifex aeolicus,2.1,27327.86,Protein,242
+1CJS,CRYSTAL STRUCTURE OF RIBOSOMAL PROTEIN L1 FROM METHANOCOCCUS JANNASCHII,2.3,24842.5,Protein,219
+4M30,Crystal structure of RNASE III complexed with double-stranded RNA AND AMP (TYPE II CLEAVAGE),2.5,70628.44,"Protein, RNA",496
+1I4S,CRYSTAL STRUCTURE OF RNASE III ENDONUCLEASE DOMAIN FROM AQUIFEX AEOLICUS AT 2.15 ANGSTROM RESOLUTION,2.15,34554.16,Protein,294
+1YYK,Crystal structure of RNase III from Aquifex Aeolicus complexed with double-stranded RNA at 2.5-angstrom resolution,2.5,67726.25,"Protein, RNA",490
+2NUG,Crystal structure of RNase III from Aquifex aeolicus complexed with ds-RNA at 1.7-Angstrom Resolution,1.7,66769.06,"Protein, RNA",486
+2NUF,Crystal structure of RNase III from Aquifex aeolicus complexed with ds-RNA at 2.5-Angstrom Resolution,2.5,70509.99,"Protein, RNA",498
+1RC7,Crystal structure of RNase III Mutant E110K from Aquifex Aeolicus complexed with ds-RNA at 2.15 Angstrom Resolution,2.15,38968.4,"Protein, RNA",260
+1YZ9,Crystal structure of RNase III mutant E110Q from Aquifex aeolicus complexed with double stranded RNA at 2.1-Angstrom Resolution,2.1,66893.75,"Protein, RNA",486
+2EGV,Crystal structure of rRNA methyltransferase with SAM ligand,1.45,54249.11,Protein,458
+3WQP,Crystal structure of Rubisco T289D mutant from Thermococcus kodakarensis,2.25,502759.53,Protein,4440
+2ZRQ,Crystal structure of S324A-subtilisin,2.16,34178.11,Protein,329
+2ZOD,Crystal structure of selenophosphate synthetase from Aquifex aeolicus,1.98,75586.74,Protein,690
+2YYE,Crystal structure of selenophosphate synthetase from Aquifex aeolicus complexed with AMPCPP,2.1,77089.34,Protein,690
+1NVT,Crystal structure of Shikimate Dehydrogenase (AROE or MJ1084) in complex with NADP+,2.35,64272.68,Protein,574
+2HK8,Crystal structure of shikimate dehydrogenase from aquifex aeolicus at 2.35 angstrom resolution,2.35,240905.16,Protein,2152
+2HK7,Crystal structure of shikimate dehydrogenase from aquifex aeolicus in complex with mercury at 2.5 angstrom resolution,2.5,61429.83,Protein,538
+2HK9,Crystal structure of shikimate dehydrogenase from aquifex aeolicus in complex with shikimate and NADP+ at 2.2 angstrom resolution,2.2,127202.11,Protein,1100
+2PT5,Crystal Structure Of Shikimate Kinase (aq_2177) From Aquifex Aeolicus vf5,2.1,77163.32,Protein,672
+1NY5,Crystal structure of sigm54 activator (AAA+ ATPase) in the inactive state,2.4,90047.76,Protein,774
+3DZD,Crystal structure of sigma54 activator NTRC4 in the inactive state,2.4,84773.41,Protein,736
+3E7L,Crystal structure of sigma54 activator NtrC4's DNA binding domain,2.25,30933.39,Protein,252
+3LPE,Crystal structure of Spt4/5NGN heterodimer complex from Methanococcus jannaschii,1.9,66354.97,Protein,604
+2YV2,Crystal Structure of Succinyl-CoA Synthetase Alpha Chain from Aeropyrum pernix K1,2.2,31508.4,Protein,297
+2YV1,Crystal Structure of Succinyl-CoA Synthetase Alpha Chain from Methanocaldococcus jannaschii DSM 2661,1.7,30962.96,Protein,294
+1P7G,Crystal structure of superoxide dismutase from Pyrobaculum aerophilum,1.8,617701.19,Protein,5328
+2WQK,Crystal Structure of Sure Protein from Aquifex aeolicus,1.5,56632.58,Protein,502
+2CZR,Crystal structure of TBP-interacting protein (Tk-TIP26) and implications for its inhibition mechanism of the interaction between TBP and TATA-DNA,2.3,26155.79,Protein,226
+2EGZ,Crystal structure of the 3-dehydroquinate dehydratase from Aquifex aeolicus VF5,1.75,50309.74,Protein,438
+2YSW,Crystal Structure of the 3-dehydroquinate dehydratase from Aquifex aeolicus VF5,2.25,75014.35,Protein,657
+2III,Crystal structure of the adenosylmethionine decarboxylase (aq_254) from aquifex aeolicus vf5,2.3,15379.41,Protein,135
+1G6H,"CRYSTAL STRUCTURE OF THE ADP CONFORMATION OF MJ1267, AN ATP-BINDING CASSETTE OF AN ABC TRANSPORTER",1.6,29685.85,Protein,257
+1H2B,Crystal Structure of the Alcohol Dehydrogenase from the Hyperthermophilic Archaeon Aeropyrum pernix at 1.65A Resolution,1.62,81183.81,Protein,718
+3P3C,Crystal Structure of the Aquifex aeolicus LpxC/LPC-009 complex,1.25,31844.57,Protein,274
+2AU3,Crystal Structure of the Aquifex aeolicus primase (Zinc Binding and RNA Polymerase Domains),2,46756.92,Protein,407
+4BJH,"Crystal Structure of the Aquifex Reactor Complex Formed by Dihydroorotase (H180A, H232A) with Dihydroorotate and Aspartate Transcarbamoylase with N-(phosphonacetyl)-L-aspartate (PALA)",2.2,89175.7,Protein,778
+2H9U,Crystal structure of the archaea specific DNA binding protein,2,11769.61,Protein,102
+5.00E+71,Crystal structure of the archaeal tRNA m2G/m22G10 methyltransferase (aTrm11) from Thermococcus kodakarensis,1.7,39300.13,Protein,346
+5.00E+72,Crystal structure of the archaeal tRNA m2G/m22G10 methyltransferase (aTrm11) in complex with S-adenosyl-L-methionine (SAM) from Thermococcus kodakarensis,1.74,39698.57,Protein,346
+2GKS,"Crystal Structure of the Bi-functional ATP Sulfurylase-APS Kinase from Aquifex aeolicus, a Chemolithotrophic Thermophile",2.31,127478.83,Protein,1092
+1ULZ,Crystal structure of the biotin carboxylase subunit of pyruvate carboxylase,2.2,50716.11,Protein,451
+5XNH,Crystal structure of the branched-chain polyamine synthase (BpsA) in complex with spermidine,1.95,85238.22,Protein,742
+3VHQ,Crystal structure of the Ca6 site mutant of Pro-SA-subtilisin,2.15,41548.7,Protein,398
+3G98,Crystal Structure of the C-Ala domain from Aquifex aeolicus alanyl-tRNA synthetase,1.85,24323.99,Protein,222
+1YGB,Crystal Structure of the catalytic fragment of alanyl-tRNA synthetase in complex with L-serine,2.48,53877.34,Protein,465
+3HTZ,Crystal Structure of the catalytic fragment of alanyl-tRNA synthetase in complex with L-serine: Re-refined,2.5,53641.05,Protein,464
+3KPC,Crystal Structure of the CBS domain pair of protein MJ0100 in complex with 5 -methylthioadenosine and S-adenosyl-L-methionine,1.79,14441.81,Protein,124
+3KPB,Crystal Structure of the CBS domain pair of protein MJ0100 in complex with 5 -methylthioadenosine and S-adenosyl-L-methionine.,1.6,55798.84,Protein,488
+3P1Y,Crystal structure of the chimeric Archaeoglobus fulgidus RNA splicing endonuclease with the broadest substrate specificity,2.05,148325.72,Protein,1260
+3GRV,Crystal Structure of the Complex between Adenosine and Methanocaldococcus jannaschi Dim1,1.9,34336.67,Protein,295
+3GRU,Crystal Structure of the Complex between AMP and Methanocaldococcus jannaschi Dim1,1.6,34608.78,Protein,295
+3GRR,Crystal Structure of the complex between S-Adenosyl Homocysteine and Methanocaldococcus jannaschi Dim1.,1.8,34261.71,Protein,295
+3GRY,Crystal Structure of the complex between S-Adenosyl Methionine and Methanocaldococcus jannaschi Dim1.,2.2,34370.71,Protein,295
+1WDE,Crystal structure of the conserved hypothetical protein APE0931 from Aeropyrum pernix K1,2,31764.15,Protein,294
+4IWG,Crystal Structure of the Conserved Hypothetical Protein MJ0927 from Methanocaldococcus jannaschii (in C2221 form),2.47,85412.24,Protein,756
+3BJO,Crystal structure of the C-terminal domain of a possible ATP-binding protein from Methanocaldococcus jannaschii DSM 2661,2.05,12218.35,Protein,103
+2PHP,Crystal structure of the C-terminal domain of protein MJ0236 (Y236_METJA),2.03,87757.92,Protein,768
+5B42,Crystal structure of the C-terminal endonuclease domain of Aquifex aeolicus MutL.,1.35,13238.96,Protein,102
+3WCO,Crystal structure of the depentamerized mutant of N-terminal truncated selenocysteine synthase SelA,2.4,89507.54,Protein,784
+2FC3,Crystal structure of the extremely thermostable Aeropyrum pernix L7Ae multifunctional protein,1.56,13627.87,Protein,124
+1F1E,CRYSTAL STRUCTURE OF THE HISTONE FROM METHANOPYRUS KANDLERI,1.37,17250.34,Protein,154
+5AUN,Crystal structure of the HypAB-Ni complex,1.63,44333.74,Protein,387
+5AUO,Crystal structure of the HypAB-Ni complex (AMPPCP),1.8,44139.49,Protein,387
+3VYT,Crystal structure of the HypC-HypD-HypE complex (form I inward),2.25,86522.21,Protein,784
+3VYS,Crystal structure of the HypC-HypD-HypE complex (form I),2.35,86438.15,Protein,784
+3WJP,Crystal structure of the HypE CA form,1.53,37965.91,Protein,338
+3WJQ,Crystal structure of the HypE CN form,1.64,38082.18,Protein,338
+1JEO,Crystal Structure of the Hypothetical Protein MJ1247 from Methanococcus jannaschii at 2.0 A Resolution Infers a Molecular Function of 3-Hexulose-6-Phosphate isomerase.,2,20890.58,Protein,180
+3VSD,Crystal Structure of the K127A Mutant of O-Phosphoserine Sulfhydrylase Complexed with External Schiff Base of Pyridoxal 5'-Phosphate with O-Acetyl-L-Serine,2.09,84842.23,Protein,778
+3VSC,Crystal Structure of the K127A Mutant of O-Phosphoserine Sulfhydrylase Complexed with External Schiff Base of Pyridoxal 5'-Phosphate with O-Phospho-L-Serine,2.07,84918.11,Protein,778
+2IRP,Crystal structure of the l-fuculose-1-phosphate aldolase (aq_1979) from aquifex aeolicus VF5,2.4,47580.7,Protein,416
+4PBS,Crystal structure of the M. jannaschii F9 tRNA synthetase variant bound to 4-(2-bromoisobutyramido)-phenylalanine (BibaF),2.01,36344.93,Protein,314
+4PBR,Crystal structure of the M. jannaschii G2 tRNA synthetase variant bound to 4-(2-bromoisobutyramido)-phenylalanine (BibaF),1.9,36641.31,Protein,314
+4PBT,Crystal structure of the M. jannaschii G2 tRNA synthetase variant bound to 4-trans-cyclooctene-amidopheylalanine (Tco-amF),1.9,36684.62,Protein,314
+3EVK,Crystal structure of the metal-bound superoxide dismutase from Pyrobaculum aerophilum,1.85,102263.97,Protein,888
+4JIX,Crystal structure of the metallopeptidase zymogen of Methanocaldococcus jannaschii jannalysin,2,27999.34,Protein,224
+4RGV,Crystal structure of the Methanocaldococcus jannaschii G1PDH,2.45,82414.38,Protein,736
+4RGQ,Crystal structure of the Methanocaldococcus jannaschii G1PDH with NADPH and DHAP,2.23,169731.16,Protein,1472
+2APO,Crystal Structure of the Methanococcus jannaschii Cbf5 Nop10 Complex,1.95,48566.62,Protein,417
+1RA4,Crystal structure of the Methanococcus jannaschii L7Ae protein,1.86,12986.12,Protein,120
+1KKH,Crystal Structure of the Methanococcus jannaschii Mevalonate Kinase,2.4,35941.8,Protein,317
+2YXB,Crystal structure of the methylmalonyl-CoA mutase alpha-subunit from Aeropyrum pernix,1.8,17982.95,Protein,161
+1HYE,"CRYSTAL STRUCTURE OF THE MJ0490 GENE PRODUCT, THE FAMILY OF LACTATE/MALATE DEHYDROGENASE, DIMERIC STRUCTURE",1.9,35401.62,Protein,313
+3EWG,Crystal structure of the N-terminal domain of NusG (NGN) from Methanocaldococcus jannaschii,2.04,10329.99,Protein,91
+5B36,Crystal Structure of the O-Phosphoserine Sulfhydrylase from Aeropyrum pernix Complexed with Cysteine,2.15,84906.48,Protein,778
+1LNX,Crystal structure of the P.aerophilum SmAP1 heptamer in a new crystal form (C2221),2.05,65311.36,Protein,567
+2YY6,Crystal Structure of the phosphoglycolate phosphatase from Aquifex aeolicus VF5,2.3,48233.04,Protein,426
+3SR0,Crystal Structure of the Phosphoryl Transfer Transition State Mimic in the Adenylate Kinase: ADP/AlF4/AMP in the active site,1.57,48341.52,Protein,412
+2E8B,Crystal structure of the putative protein (Aq1419) from Aquifex aeolicus VF5,1.61,23389.28,Protein,201
+2CVH,Crystal structure of the RadB recombinase,2.2,49156.69,Protein,440
+1LNG,Crystal Structure of the SRP19-7S.S SRP RNA Complex of M. jannaschii,2.3,41853.77,"Protein, RNA",184
+2V3C,Crystal structure of the SRP54-SRP19-7S.S SRP RNA complex of M. jannaschii,2.5,179462.75,"Protein, RNA",1230
+5HEE,Crystal structure of the TK2203 protein,1.41,59374.63,Protein,524
+1UDN,Crystal structure of the tRNA processing enzyme RNase PH from Aquifex aeolicus,2.3,28695.55,Protein,255
+1UDS,Crystal structure of the tRNA processing enzyme RNase PH R126A mutant from Aquifex aeolicus,2.3,28609.44,Protein,255
+1UDO,Crystal structure of the tRNA processing enzyme RNase PH R86A mutant from Aquifex aeolicus,2.3,28609.44,Protein,255
+1UDQ,Crystal structure of the tRNA processing enzyme RNase PH T125A mutant from Aquifex aeolicus,2.3,28665.53,Protein,255
+1A79,CRYSTAL STRUCTURE OF THE TRNA SPLICING ENDONUCLEASE FROM METHANOCOCCUS JANNASCHII,2.28,79963.12,Protein,684
+3O0A,Crystal structure of the wild type CP1 hydrolitic domain from Aquifex Aeolicus leucyl-trna,1.77,49788.68,Protein,438
+1YE8,Crystal Structure of THEP1 from the hyperthermophile Aquifex aeolicus,1.4,20899.32,Protein,178
+3EMX,Crystal structure of thioredoxin from Aeropyrum pernix,2.25,30537.11,Protein,270
+2ZSJ,Crystal structure of threonine synthase from Aquifex aeolicus VF5,1.8,152386.55,Protein,1408
+2PBR,Crystal structure of thymidylate kinase (aq_969) from Aquifex Aeolicus VF5,1.96,44998.05,Protein,390
+3N98,"Crystal structure of TK1436, a GH57 branching enzyme from hyperthermophilic archaeon Thermococcus kodakaraensis, in complex with glucose and additives",1.87,67461.26,Protein,562
+2DFE,Crystal structure of Tk-RNase HII(1-200)-C,2.4,23477.74,Protein,209
+2DFH,Crystal structure of Tk-RNase HII(1-212)-C,2.27,24865.41,Protein,221
+5HM5,"Crystal structure of Topo-97, an N-terminal 97kDa fragment of topoisomerase V",2.4,97459.05,Protein,854
+2CSB,Crystal structure of Topoisomerase V from Methanopyrus kandleri (61 kDa fragment),2.3,120686.88,Protein,1038
+5O9J,Crystal structure of transcription factor IIB Mja mini-intein,2,43937.8,Protein,368
+2QLZ,Crystal Structure of Transcription Factor PF0095 from Pyrococcus furiosus,2.5,109192.86,Protein,928
+2H6R,Crystal Structure of triosephosphate isomerase (TIM) from Methanocaldococcus jannaschii,2.3,186175.97,Protein,1752
+2YVL,Crystal structure of tRNA (m1A58) methyltransferase TrmI from Aquifex aeolicus,2.2,116383.31,Protein,992
+1WWR,Crystal structure of tRNA adenosine deaminase TadA from Aquifex aeolicus,1.8,78035.78,Protein,684
+3A04,"Crystal structure of tryptophanyl-tRNA synthetase from hyperthermophilic archaeon, Aeropyrum pernix K1",1.97,42794.24,Protein,372
+3A05,"Crystal structure of tryptophanyl-tRNA synthetase from hyperthermophilic archaeon, Aeropyrum pernix K1 complex with tryptophan",2.2,43110.88,Protein,372
+1IO2,"Crystal structure of type 2 ribonuclease h from hyperthermophilic archaeon, thermococcus kodakaraensis kod1",2,23974.45,Protein,213
+3A12,Crystal structure of Type III Rubisco complexed with 2-CABP,2.3,501999,Protein,4440
+3KDN,Crystal structure of Type III Rubisco SP4 mutant complexed with 2-CABP,2.09,502288.97,Protein,4440
+3A13,Crystal structure of Type III Rubisco SP4 mutant complexed with 2-CABP and activated with Ca,2.34,502320.53,Protein,4440
+3KDO,Crystal structure of Type III Rubisco SP6 mutant complexed with 2-CABP,2.36,501768.31,Protein,4440
+4HPW,Crystal structure of Tyrosine-tRNA ligase mutant complexed with unnatural amino acid 3-o-methyl-Tyrosine,2,35505.16,Protein,310
+3N2Y,Crystal structure of tyrosyl-tRNA synthetase complexed with p-(2-tetrazolyl)-phenylalanine,2.49,72492.19,Protein,628
+2CYA,Crystal structure of tyrosyl-tRNA synthetase from Aeropyrum pernix,2.2,41211.39,Protein,364
+2YVW,Crystal structure of UDP-N-acetylglucosamine 1-carboxyvinyltransferase from Aquifex aeolicus VF5,1.81,48094.87,Protein,425
+2Z2Z,Crystal structure of unautoprocessed form of Tk-subtilisin soaked by 10mM CaCl2,1.87,41358.58,Protein,395
+2IEC,Crystal Structure of uncharacterized conserved archael protein from Methanopyrus kandleri,2.33,59907.97,Protein,524
+2YZS,Crystal structure of uncharacterized conserved protein from Aquifex aeolicus,2,73896.54,Protein,630
+2YWJ,Crystal structure of uncharacterized conserved protein from Methanocaldococcus jannaschii,1.9,20627.11,Protein,186
+2EJA,Crystal Structure Of Uroporphyrinogen Decarboxylase From Aquifex aeolicus,1.9,77518.52,Protein,676
+2YV5,Crystal structure of Yjeq from Aquifex aeolicus,1.9,35340.16,Protein,302
+2EPI,Crystal Structure pf hypothetical protein MJ1052 from Methanocaldococcus jannascii (Form 2),1.7,44972.81,Protein,400
+4JLD,Crystal Structures of adenylate kinase with 2 ADP's,1.55,47674.43,Protein,406
+4JLB,Crystal Structures of Adenylate kinase with 2ADP's,1.53,47674.43,Protein,406
+3.00E+12,Cu2+ substituted Aquifex aeolicus KDO8PS in complex with KDO8P,1.7,60561.23,Protein,534
+3E0I,Cu2+ substituted Aquifex aeolicus KDO8PS in complex with PEP,1.7,60201.93,Protein,534
+3C1M,Cyrstal Structure of threonine-sensitive aspartokinase from Methanococcus jannaschii with MgAMP-PNP and L-aspartate,2.3,208759.06,Protein,1892
+3X15,Dimeric Aquifex aeolicus cytochrome c555,1.6,39533.22,Protein,348
+3TIF,Dimeric structure of a post-hydrolysis state of the ATP-binding cassette MJ0796 bound to ADP and Pi,1.8,54708.27,Protein,470
+1L2T,"Dimeric Structure of MJ0796, a Bacterial ABC Transporter Cassette",1.9,54385.92,Protein,470
+5XAI,dTMP bound Crystal structure of thymidylate kinase (aq_969) from Aquifex Aeolicus VF5,2,45640.28,Protein,390
+2QQC,E109Q mutant of Pyruvoyl-dependent Arginine Decarboxylase from Methanococcus jannashii,2,108538.09,Protein,990
+4RRL,E129A mutant of N-terminal editing domain of threonyl-tRNA synthetase from Aeropyrum pernix with L-Ser3AA,1.97,15430.71,Protein,136
+4RRM,E129A mutant of N-terminal editing domain of threonyl-tRNA synthetase from Aeropyrum pernix with L-Thr3AA,1.55,15504.5,Protein,136
+4RRF,Editing domain of threonyl-tRNA synthetase from Methanococcus jannaschii with L-Ser3AA,1.7,97911.88,Protein,846
+4RRG,Editing domain of threonyl-tRNA synthetase from Methanococcus jannaschii with L-Thr3AA,1.93,64907.29,Protein,564
+3WSI,"EDTA-treated, reduced HcgD from Methanocaldococcus jannaschii",2.3,170432.22,Protein,1512
+1S0U,eIF2gamma apo,2.4,44216.46,Protein,408
+1EIF,EUKARYOTIC TRANSLATION INITIATION FACTOR 5A FROM METHANOCOCCUS JANNASCHII,1.9,14522.04,Protein,135
+2EIF,Eukaryotic translation initiation factor 5A from Methanococcus jannaschii,1.8,14653.24,Protein,136
+2Y6P,Evidence for a Two-Metal-Ion-Mechanism in the Kdo- Cytidylyltransferase KdsB,2.1,83434.09,Protein,702
+3MPN,F177R1 mutant of LeuT,2.25,58993.09,Protein,507
+1ORJ,FLAGELLAR EXPORT CHAPERONE,2.25,62151.66,Protein,520
+1ORY,FLAGELLAR EXPORT CHAPERONE IN COMPLEX WITH ITS COGNATE BINDING PARTNER,2.45,21897.89,Protein,185
+1A76,FLAP ENDONUCLEASE-1 FROM METHANOCOCCUS JANNASCHII,2,37695.35,Protein,326
+2J5A,Folding of S6 structures with divergent amino-acid composition: pathway flexibility within partly overlapping foldons,2.3,13482.43,Protein,110
+1FTR,FORMYLMETHANOFURAN:TETRAHYDROMETHANOPTERIN FORMYLTRANSFERASE FROM METHANOPYRUS KANDLERI,1.7,126745.8,Protein,1184
+5X0G,Free serine kinase (E30A mutant) in complex with ADP,1.9,28817.82,Protein,242
+5X0F,Free serine kinase (E30A mutant) in complex with AMP,1.76,28028.2,Protein,242
+5X0E,Free serine kinase (E30A mutant) in complex with phosphoserine and AMP,2,28237.58,Protein,242
+5X0K,Free serine kinase (E30Q mutant) in complex with AMP,1.65,28085.25,Protein,242
+5X0J,Free serine kinase (E30Q mutant) in complex with phosphoserine and AMP,1.43,28294.63,Protein,242
+5X0B,Free serine kinase in complex with AMP,1.75,28086.24,Protein,242
+1W5B,"FtsZ dimer, GTP soak (M. jannaschii)",2.2,78986.61,Protein,728
+1W5A,"FtsZ dimer, MgGTP soak (M. jannaschii)",2.4,79010.91,Protein,728
+2VAP,FtsZ GDP M. jannaschii,1.7,39413.32,Protein,364
+1W58,FtsZ GMPCPP soak I213 (M. jannaschii),2.5,39515.64,Protein,364
+1GPJ,Glutamyl-tRNA Reductase from Methanopyrus kandleri,1.95,46073.08,Protein,404
+5GSM,Glycoside hydrolase B with product,1.27,183252.14,Protein,1572
+2QV6,GTP cyclohydrolase III from M. jannaschii (MJ0145) complexed with GTP and metal ions,2,123771.57,Protein,1072
+3WVC,Guanylylpyridinol (GP)-bound HcgF from Methanocaldococcus jannaschii,2,40185.88,Protein,340
+3WB1,HcgB from Methanocaldococcus jannaschii,2.4,77310.38,Protein,664
+3WB0,HcgB from Methanocaldococcus jannaschii in complex with light-decomposed FeGP cofactor of [Fe]-hydrogenase,1.91,77654.76,Protein,664
+3WB2,HcgB from Methanocaldococcus jannaschii in complex with the guanylyl-pyridinol product in a model reaction of [Fe]-hydrogenase cofactor biosynthesis,2.44,77914.43,Protein,664
+5D5Q,HcgB from Methanocaldococcus jannaschii with the pyridinol derived from FeGP cofactor of [Fe]-hydrogenase,2.5,76273.94,Protein,664
+5D4V,HcgC with SAH and a guanylylpyridinol (GP) derivative,1.6,126499.95,Protein,1072
+3WVB,HcgF from Methanocaldococcus jannaschii,1.7,38508.65,Protein,340
+3ZTQ,Hexagonal crystal form P61 of the Aquifex aeolicus nucleoside diphosphate kinase,2.1,127706.6,Protein,1136
+3ZTS,Hexagonal form P6122 of the Aquifex aeolicus nucleoside diphosphate kinase (FINAL STAGE OF RADIATION DAMAGE),2.3,191559.91,Protein,1704
+3ZTR,Hexagonal form P6122 of the Aquifex aeolicus nucleoside diphosphate kinase (FIRST STAGE OF RADIATION DAMAGE),2.3,191559.91,Protein,1704
+1L7M,HIGH RESOLUTION LIGANDED STRUCTURE OF PHOSPHOSERINE PHOSPHATASE (PI COMPLEX),1.48,47979.19,Protein,422
+1XBI,High resolution structure of Methanocaldococcus jannaschii L7AE,1.45,13224.42,Protein,120
+4X9D,High-resolution structure of Hfq from Methanococcus jannaschii in complex with UMP,1.5,53038.68,Protein,426
+1H5Y,HisF protein from Pyrobaculum aerophilum,2,54769.72,Protein,506
+4YT2,Hmd II from Methanocaldococcus jannaschii,1.65,75166.78,Protein,692
+4YT5,HmdII from Methanocaldococcus jannaschii with bound methylene-tetrahydromethanopterin,1.9,84086.93,Protein,750
+3MPQ,I204R1 mutant of LeuT,2.25,58150.05,Protein,507
+5L7P,In silico-powered specific incorporation of photocaged Dopa at multiple protein sites,1.9,73378.62,Protein,636
+1BKB,INITIATION FACTOR 5A FROM ARCHEBACTERIUM PYROBACULUM AEROPHILUM,1.75,15334.19,Protein,136
+4YT4,Iron guanylylpyridinol (FeGP) cofactor-reconstituted HmdII from Methanocaldococcus jannaschii,2.2,41350.17,Protein,375
+1XGV,Isocitrate Dehydrogenase from the hyperthermophile Aeropyrum pernix,2.2,95965.83,Protein,870
+1TYO,Isocitrate Dehydrogenase from the hyperthermophile Aeropyrum pernix in complex with etheno-NADP,2.15,96629.15,Protein,870
+2V8P,IspE in complex with ADP and CDP,2.1,62316.66,Protein,542
+2V2Z,IspE in complex with ADP and CDPME,2.25,62492.32,Protein,542
+2V34,IspE in complex with cytidine and ligand,2.3,61740.73,Protein,542
+2V2V,IspE in complex with ligand,2.4,62397.36,Protein,542
+4RRH,K116M mutant of N-terminal editing domain of threonyl-tRNA synthetase from Aeropyrum pernix with L-Ser3AA,1.55,15515.07,Protein,136
+4RRI,K116M mutant of N-terminal editing domain of threonyl-tRNA synthetase from Aeropyrum pernix with L-Thr3AA,1.5,15529.09,Protein,136
+4K8Z,KOD Polymerase in binary complex with dsDNA,2.29,98924.62,"Protein, DNA",802
+1LSS,KTN Mja218 CRYSTAL STRUCTURE IN COMPLEX WITH NAD+,2.3,63524.1,Protein,560
+3GWV,Leucine transporter LeuT in complex with R-fluoxetine,2.35,58097.32,Protein,515
+3GWU,Leucine transporter LeuT in complex with sertraline,2.14,58094.22,Protein,515
+3GWW,Leucine transporter LeuT in complex with S-fluoxetine,2.46,58097.32,Protein,515
+5JAE,"LeuT in the outward-oriented, Na+-free return state, P21 form at pH 6.5",2.5,119370.94,Protein,1038
+4U3D,LpxC from A.Aaeolicus in complex with 4-[[4-[2-[4-(morpholinomethyl)phenyl]ethynyl]phenoxy]methyl]tetrahydropyran-4-carbohydroxamic acid (compound 9),1.25,31675.39,Protein,271
+4U3B,LpxC from A.Aaeolicus in complex with the MMP inhibitor 4-[[4-(4-chlorophenoxy)phenyl]sulfanylmethyl]tetrahydropyran-4-carbohydroxamic acid - compound 2,1.34,31654.2,Protein,271
+3GFB,L-Threonine Dehydrogenase (TkTDH) from the hyperthermophilic archaeon Thermococcus kodakaraensis,2.4,156202.34,Protein,1400
+3PAF,M. jannaschii L7Ae mutant,1.7,25771.87,Protein,234
+3BBE,M. jannaschii Nep1,2.2,48987.91,Protein,410
+3BBD,M. jannaschii Nep1 complexed with S-adenosyl-homocysteine,2.15,50321.17,Protein,410
+3BBH,M. jannaschii Nep1 complexed with Sinefungin,2.25,49566.49,Protein,410
+2XCU,"Membrane-embedded monofunctional glycosyltransferase WaaA of Aquifex aeolicus, complex with CMP",2.42,176669.64,Protein,1496
+2XCI,"Membrane-embedded monofunctional glycosyltransferase WaaA of Aquifex aeolicus, substrate-free form",2,175303.45,Protein,1496
+1G8S,METHANOCOCCUS JANNASCHII FIBRILLARIN PRE-RRNA PROCESSING PROTEIN,1.6,26154.47,Protein,230
+2Z8U,Methanococcus jannaschii TBP,1.9,83757.16,Protein,752
+4N0L,Methanopyrus kandleri Csm3 crystal structure,2.37,79374.48,Protein,702
+4WA8,Methanopyrus Kandleri FEN-1 nuclease,2.2,82178.88,Protein,710
+4L4Q,Methionine Adenosyltransferase,2,178691.64,Protein,1620
+4V03,"MinD cell division protein, Aquifex aeolicus",1.9,58127.61,Protein,514
+1T6D,MIRAS phasing of the Aquifex aeolicus Ppx/GppA phosphatase: crystal structure of the type II variant,2.15,72447.23,Protein,630
+2AEU,"MJ0158, apo form",1.7,42903.38,Protein,374
+2AEV,"MJ0158, NaBH4-reduced form",2,43035.44,Protein,374
+1DUS,MJ0882-A hypothetical protein from M. jannaschii,1.8,21945.17,Protein,194
+4XF6,myo-inositol 3-kinase bound with its products (ADP and 1D-myo-inositol 3-phosphate),2.08,64428.77,Protein,546
+4XF7,myo-inositol 3-kinase bound with its substrates (AMPPCP and myo-inositol),1.93,64894.81,Protein,546
+3W4S,Myo-inositol kinase from Thermococcus kodakarensis,1.78,64490.7,Protein,546
+2QQD,N47A mutant of Pyruvoyl-dependent Arginine Decarboxylase from Methanococcus jannashii,2,107452.8,Protein,994
+3N8T,"Native structure of TK1436, a GH57 branching enzyme from hyperthermophilic archaeon Thermococcus kodakaraensis",2.4,66468.3,Protein,562
+4IWB,Novel Fold of FliC/FliS Fusion Protein,1.75,38584.56,Protein,330
+4YTE,N-terminal domain of HmdIII from Methanocaldococcus jannaschii,2.15,21215.39,Protein,194
+3H43,N-terminal domain of the proteasome-activating nucleotidase of Methanocaldococcus jannaschii,2.1,117083.57,Protein,1020
+4RR6,N-terminal editing domain of threonyl-tRNA synthetase from Aeropyrum pernix with L-Ser3AA (snapshot 1),1.88,15488.75,Protein,136
+4RR7,N-terminal editing domain of threonyl-tRNA synthetase from Aeropyrum pernix with L-Ser3AA (snapshot 2),1.86,15513.05,Protein,136
+4RR8,N-terminal editing domain of threonyl-tRNA synthetase from Aeropyrum pernix with L-Ser3AA (snapshot 3),1.86,15513.05,Protein,136
+4RR9,N-terminal editing domain of threonyl-tRNA synthetase from Aeropyrum pernix with L-Ser3AA (snapshot 4),1.67,15513.05,Protein,136
+4RRA,N-terminal editing domain of threonyl-tRNA synthetase from Aeropyrum pernix with L-Thr3AA (snapshot 1),1.7,15527.08,Protein,136
+4RRB,N-terminal editing domain of threonyl-tRNA synthetase from Aeropyrum pernix with L-Thr3AA (snapshot 2),2.1,15502.77,Protein,136
+4RRC,N-terminal editing domain of threonyl-tRNA synthetase from Aeropyrum pernix with L-Thr3AA (snapshot 3),1.86,15502.77,Protein,136
+4RRD,N-terminal editing domain of threonyl-tRNA synthetase from Aeropyrum pernix with L-Thr3AA (snapshot 4),1.86,15527.08,Protein,136
+3JSY,N-terminal fragment of ribosomal protein L10 from Methanococcus jannaschii,1.6,46707.59,Protein,426
+4BGB,Nucleotide-bound closed form of a putative sugar kinase MK0840 from Methanopyrus kandleri,1.34,71912.06,Protein,650
+4GN3,OBody AM1L10 bound to hen egg-white lysozyme,1.95,243600.84,Protein,2178
+4GN4,OBody AM2EP06 bound to hen egg-white lysozyme,1.86,26637.12,Protein,237
+4GN5,OBody AM3L15 bound to hen egg-white lysozyme,1.86,54563.16,Protein,484
+3WYZ,On archaeal homologs of the human RNase P protein Rpp30 in the hyperthermophilic archaeon Thermococcus kodakarensis,2.21,25398.42,Protein,220
+3ZTO,Orthorhombic crystal form C222 of the Aquifex aeolicus nucleoside diphosphate kinase,1.47,16155.45,Protein,142
+3ZTP,Orthorhombic crystal form P21212 of the Aquifex aeolicus nucleoside diphosphate kinase,1.37,32210.87,Protein,284
+2ZCT,Oxidation of archaeal peroxiredoxin involves a hypervalent sulfur intermediate,1.7,286127.66,Protein,2490
+3WSD,Oxidized HcgD from Methanocaldococcus jannaschii,2.5,170410.17,Protein,1512
+3WSF,Oxidized HcgD from Methanocaldococcus jannaschii with citrate,2,171015.12,Protein,1512
+2JB7,PAE2307 with AMP,1.65,56782.73,Protein,492
+3A2V,Peroxiredoxin (C207S) from Aeropyrum pernix K1 complexed with hydrogen peroxide,1.65,286287.66,Protein,2490
+3A2X,Peroxiredoxin (C50S) from Aeropyrum pernix K1 (acetate-bound form),1.9,286558.09,Protein,2490
+3A2W,Peroxiredoxin (C50S) from Aeropytum pernix K1 (peroxide-bound form),2.3,286708.31,Protein,2490
+3A5W,Peroxiredoxin (wild type) from Aeropyrum pernix K1 (reduced form),2.2,286128.28,Protein,2490
+4S2E,Phosphate ion bound Crystal structure of thymidylate kinase (aq_969) from Aquifex Aeolicus VF5,2.35,44995.86,Protein,390
+1J97,Phospho-Aspartyl Intermediate Analogue of Phosphoserine phosphatase,1.5,47637.87,Protein,422
+5LHF,Phosphoribosyl anthranilate isomerase from Thermococcus kodakaraensis,1.75,46552.4,Protein,418
+5DAI,Proliferating cell nuclear antigen homolog 1 bound to FEN-1 peptide,2,31566.6,Protein,266
+3QWU,Putative ATP-dependent DNA ligase from Aquifex aeolicus.,2.35,88012.7,Protein,740
+1T6T,putative protein from Aquifex aeolicus,1.8,27671.42,Protein,236
+2ZYZ,Pyrobaculum aerophilum splicing endonuclease,1.7,68255.23,Protein,598
+1ISQ,Pyrococcus furiosus PCNA complexed with RFCL PIP-box peptide,2.3,29385.87,Protein,261
+1MZH,"QR15, an Aldolase",2,50120.88,Protein,450
+1T96,r106g kdo8ps with pep,1.85,60099.38,Protein,534
+1T8X,r106g kdo8ps with pep and a5p,1.8,60236.54,Protein,534
+1T99,r106g kdo8ps without substrates,1.85,59763.3,Protein,534
+3WSE,Reduced HcgD from Methanocaldococcus jannaschii,2.5,170767.28,Protein,1512
+3WSG,Reduced HcgD from Methanocaldococcus jannaschii with citrate,2,171015.12,Protein,1512
+2VBU,Riboflavin kinase Mj0056 from Methanocaldococcus jannaschii in complex with CDP,1.7,16491.52,Protein,136
+2VBV,Riboflavin kinase Mj0056 from Methanocaldococcus jannaschii in complex with CDP and FMN,2.4,32892.7,Protein,272
+5COL,RIBOSOMAL PROTEIN L11 FROM METHANOCOCCUS JANNASCHII,2.25,35510.52,Protein,322
+5D4U,SAM-bound HcgC from Methanocaldococcus jannaschii,2,125395.21,Protein,1072
+5D5T,SeMet-labelled HcgC from Methanocaldococcus jannaschii in P1 space group,2.4,123389.92,Protein,1072
+3WVA,SeMet-labelled HcgF from Methanocaldococcus jannaschii,1.4,38883.81,Protein,340
+4YT8,SeMet-labelled HmdII from Methanocaldococcus jannaschii,1.9,82509.54,Protein,750
+2RDJ,Snapshots of a Y-family DNA polymerase in replication: Dpo4 in apo and binary/ternary complex forms,2.2,99126.12,"Protein, DNA",763
+3AJV,Splicing endonuclease from Aeropyrum pernix,1.7,83656.45,Protein,752
+2ZP1,Structual basis of iodo-tyrosine recognition by engineered archeal tyrosyl-tRNA synthetase,1.7,36421.99,Protein,314
+3PRB,Structural analysis of protein folding by the Methanococcus jannaschii chaperone FKBP26,2.2,51974.69,Protein,462
+1S3M,Structural and Functional Characterization of a Novel Archaeal Phosphodiesterase,2.5,44072.02,Protein,380
+2NX3,Structural and mechanistic changes along an engineered path from metallo to non-metallo KDO8P synthase,2.1,361678.28,Protein,3204
+2NXI,Structural and mechanistic changes along an engineered path from metallo to non-metallo KDO8P synthase.,2.3,355875.47,Protein,3156
+1PKH,STRUCTURAL BASIS FOR RECOGNITION AND CATALYSIS BY THE BIFUNCTIONAL DCTP DEAMINASE AND DUTPASE FROM METHANOCOCCUS JANNASCHII,1.42,47482.32,Protein,408
+1PKK,Structural basis for recognition and catalysis by the bifunctional dCTP deaminase and dUTPase from Methanococcus jannaschii,1.77,47825.34,Protein,408
+1T6C,Structural characterization of the Ppx/GppA protein family: crystal structure of the Aquifex aeolicus family member,1.53,36813.72,Protein,315
+5GUF,Structural insight into an intramembrane enzyme for archaeal membrane lipids biosynthesis,2.4,19635.59,Protein,182
+5JDH,Structural mechanisms of extracellular ion exchange and induced binding-site occlusion in the sodium-calcium exchanger NCX_Mj soaked with 10 mM Na+ and 10mM Ca2+,2.2,36395.84,Protein,301
+5JDN,Structural mechanisms of extracellular ion exchange and induced binding-site occlusion in the sodium-calcium exchanger NCX_Mj soaked with 10 mM Na+ and 10mM Sr2+,2.3,34667.32,Protein,302
+5HWY,Structural mechanisms of extracellular ion exchange and induced binding-site occlusion in the sodium-calcium exchanger NCX_Mj soaked with 10 mM Na+ and zero Ca2+,2.1,35915.2,Protein,300
+5JDQ,Structural mechanisms of extracellular ion exchange and induced binding-site occlusion in the sodium-calcium exchanger NCX_Mj soaked with 100 mM Na+ and 10mM Sr2+,2.5,34458.31,Protein,302
+5HXE,Structural mechanisms of extracellular ion exchange and induced binding-site occlusion in the sodium-calcium exchanger NCX_Mj soaked with 100 mM Na+ and zero Ca2+,2.29,35145.02,Protein,304
+5JDG,Structural mechanisms of extracellular ion exchange and induced binding-site occlusion in the sodium-calcium exchanger NCX_Mj soaked with 2.5 mM Na+ and 0.1mM Ca2+,2.41,37830.93,Protein,302
+5HXR,Structural mechanisms of extracellular ion exchange and induced binding-site occlusion in the sodium-calcium exchanger NCX_Mj soaked with 2.5 mM Na+ and 10mM Ca2+,2.46,34884.27,Protein,300
+5HWX,Structural mechanisms of extracellular ion exchange and induced binding-site occlusion in the sodium-calcium exchanger NCX_Mj soaked with 2.5 mM Na+ and zero Ca2+,2.4,33648.23,Protein,301
+5HXC,Structural mechanisms of extracellular ion exchange and induced binding-site occlusion in the sodium-calcium exchanger NCX_Mj soaked with 20 mM Na+ and zero Ca2+,2.1,36891.67,Protein,304
+5HYA,Structural mechanisms of extracellular ion exchange and induced binding-site occlusion in the sodium-calcium exchangerNCX_Mj soaked with 150 mM Na+ and nominal Ca2+,1.9,36609.42,Protein,304
+2EP7,Structural study of Project ID aq_1065 from Aquifex aeolicus VF5,2.3,76654.7,Protein,684
+2EKC,Structural study of Project ID aq_1548 from Aquifex aeolicus VF5,2,59092.71,Protein,524
+3O4J,Structure and Catalysis of Acylaminoacyl Peptidase,2.5,252984.62,Protein,2328
+2WJG,Structure and function of the FeoB G-domain from Methanococcus jannaschii,2.2,42942.32,Protein,383
+3DNF,"Structure of (E)-4-Hydroxy-3-methyl-but-2-enyl Diphosphate Reductase, the Terminal Enzyme of the Non-Mevalonate Pathway",1.65,67215.9,Protein,594
+1VCV,Structure of 2-deoxyribose-5-phosphate aldolase from Pyrobaculum aerophilum,2,49277.69,Protein,452
+3AXB,"Structure of a dye-linked L-proline dehydrogenase from the aerobic hyperthermophilic archaeon, Aeropyrum pernix",1.92,50745.29,Protein,448
+3VQR,"Structure of a dye-linked L-proline dehydrogenase mutant from the aerobic hyperthermophilic archaeon, Aeropyrum pernix",2.01,99623.88,Protein,894
+2ARK,Structure of a flavodoxin from Aquifex aeolicus,2.4,127555.03,Protein,1128
+4ZSX,"Structure of a fusion protein with a helix linker, 2ARH-3-3KAW-2.0",2.19,68772.27,Protein,592
+3AW5,Structure of a multicopper oxidase from the hyperthermophilic archaeon Pyrobaculum aerophilum,2,50049.16,Protein,448
+1K26,Structure of a Nudix Protein from Pyrobaculum aerophilum Solved by the Single Wavelength Anomolous Scattering Method,1.85,37282.06,Protein,312
+1F37,STRUCTURE OF A THIOREDOXIN-LIKE [2FE-2S] FERREDOXIN FROM AQUIFEX AEOLICUS,2.3,24948.14,Protein,220
+1GO3,Structure of an archeal homolog of the eukaryotic RNA polymerase II RPB4/RPB7 complex,1.75,67177.68,Protein,588
+2RH5,Structure of Apo Adenylate Kinase from Aquifex Aeolicus,2.48,69807.17,Protein,618
+2.00E+55,Structure of AQ2163 protein from Aquifex aeolicus,2.15,94654.62,Protein,832
+2PNF,Structure of Aquifex Aeolicus FabG 3-oxoacyl-(acyl-carrier protein) reductase,1.8,54940.4,Protein,496
+2ZXI,Structure of Aquifex aeolicus GidA in the form II crystal,2.3,290439.41,Protein,2548
+1YS4,Structure of Aspartate-Semialdehyde Dehydrogenase from Methanococcus jannaschii,2.29,81821.76,Protein,708
+1EZW,STRUCTURE OF COENZYME F420 DEPENDENT TETRAHYDROMETHANOPTERIN REDUCTASE FROM METHANOPYRUS KANDLERI,1.65,37610.41,Protein,349
+1WVQ,Structure of conserved hypothetical protein PAE2307 from Pyrobaculum aerophilum,1.45,56341.16,Protein,501
+5GKE,Structure of EndoMS-dsDNA1 complex,2.4,67031.64,"Protein, DNA",534
+3IQF,Structure of F420 dependent methylene-tetrahydromethanopterin dehydrogenase in complex with methenyl-tetrahydromethanopterin,2.1,386746.38,Protein,3396
+3IQZ,Structure of F420 dependent methylene-tetrahydromethanopterin dehydrogenase in complex with methylene-tetrahydromethanopterin,2.1,193428.61,Protein,1698
+3IQE,Structure of F420 dependent methylene-tetrahydromethanopterin dehydrogenase in complex with methylene-tetrahydromethanopterin and coenzyme F420,1.8,198098.31,Protein,1698
+2J9D,Structure of GlnK1 with bound effectors indicates regulatory mechanism for ammonia uptake,2.1,162140.28,Protein,1428
+2J65,Structure of LpxC from Aquifex aeolicus in complex with UDP,2.2,64001.22,Protein,542
+3T7Z,Structure of Methanocaldococcus jannaschii Nop N-terminal domain,1.7,14331.23,Protein,119
+2GL0,Structure of PAE2307 in complex with adenosine,2.25,113811.92,Protein,1002
+1RKI,Structure of pag5_736 from P. aerophilum with three disulphide bonds,1.6,24555.36,Protein,204
+4HR1,"Structure of PAV1-137, a protein from the virus PAV1 that infects Pyrococcus abyssi.",2.5,28977.79,Protein,252
+1SDS,Structure of protein L7Ae bound to a K-turn derived from an archaeal box H/ACA sRNA,1.8,53146.17,"Protein, RNA",396
+3IXQ,Structure of ribose 5-phosphate isomerase a from methanocaldococcus jannaschii,1.78,100477.24,Protein,904
+3V5U,Structure of Sodium/Calcium Exchanger from Methanocaldococcus jannaschii DSM 2661,1.9,38558.59,Protein,320
+5DRP,Structure of the AaLpxC/LPC-023 Complex,1.89,63653.03,Protein,548
+1W5S,Structure of the Aeropyrum Pernix ORC2 protein (ADP form),2.4,93829.45,Protein,824
+1W5T,Structure of the Aeropyrum Pernix ORC2 protein (ADPNP-ADP complexes),2.4,140398.7,Protein,1236
+5DRO,Structure of the Aquifex aeolicus LpxC/LPC-011 Complex,2.01,63730.64,Protein,548
+5U86,Structure of the Aquifex aeolicus LpxC/LPC-069 complex,1.62,32417.52,Protein,275
+5G5S,Structure of the Argonaute protein from Methanocaldcoccus janaschii,2.29,85101.67,Protein,715
+1OGH,Structure of the bifunctional dCTP deaminase-dUTPase from Methanocaldococcus jannaschii,1.88,46923.71,Protein,408
+4EKN,Structure of the catalytic chain of Methanococcus jannaschii Aspartate Transcarbamoylase in a hexagonal crystal form,2.5,35726.07,Protein,306
+1D3Y,STRUCTURE OF THE DNA TOPOISOMERASE VI A SUBUNIT,2,68316.47,Protein,602
+4U9P,Structure of the methanofuran/methanopterin biosynthetic enzyme MJ1099 from Methanocaldococcus jannaschii,1.7,78368.89,Protein,726
+4RC1,Structure of the methanofuran/methanopterin biosynthetic enzyme MJ1099 from Methanocaldococcus jannaschii with PRPP,2.4,235400.22,Protein,2178
+3M7G,Structure of topoisomerase domain of topoisomerase V protein,2.4,31468.4,Protein,269
+3H0L,Structure of trna-dependent amidotransferase gatcab from aquifex aeolicus,2.3,964763.75,Protein,8400
+1MJH,Structure-based assignment of the biochemical function of hypothetical protein MJ0577: A test case of structural genomics,1.7,37865.44,Protein,324
+2MJP,STRUCTURE-BASED IDENTIFICATION OF THE BIOCHEMICAL FUNCTION OF A HYPOTHETICAL PROTEIN FROM METHANOCOCCUS JANNASCHII:MJ0226,2.2,44971.1,Protein,386
+1L7P,SUBSTRATE BOUND PHOSPHOSERINE PHOSPHATASE COMPLEX STRUCTURE,1.9,48108.81,Protein,422
+2X06,SULFOLACTATE DEHYDROGENASE FROM METHANOCALDOCOCCUS JANNASCHII,2.5,307958.88,Protein,2752
+3AK1,"Superoxide dismutase from Aeropyrum pernix K1, apo-form",1.57,100050.87,Protein,856
+3AK3,"Superoxide dismutase from Aeropyrum pernix K1, Fe-bound form",1.48,99281.16,Protein,856
+3AK2,"Superoxide dismutase from Aeropyrum pernix K1, Mn-bound form",1.35,99774.08,Protein,856
+2GM8,TenA Homolog/Thi-4 Thiaminase complexed with product 4-amino-5-hydroxymethyl-2-methylpyrimidine,2.5,101620.01,Protein,884
+1XKD,Ternary complex of Isocitrate dehydrogenase from the hyperthermophile Aeropyrum pernix,2.3,97917.04,Protein,870
+3HA9,The 1.7A Crystal Structure of a Thioredoxin-like Protein from Aeropyrum pernix,1.7,18172.66,Protein,165
+1L5X,The 2.0-Angstrom resolution crystal structure of a survival protein E (SurE) homolog from Pyrobaculum aerophilum,2,62301.31,Protein,560
+3S4L,The CRISPR-associated Cas3 HD domain protein MJ0384 from Methanocaldococcus jannaschii,2.3,28532.87,Protein,244
+3F47,The Crystal Structure of [Fe]-Hydrogenase (Hmd) Holoenzyme from Methanocaldococcus jannaschii,1.75,39400.32,Protein,358
+3DAG,The crystal structure of [Fe]-hydrogenase holoenzyme (HMD) from METHANOCALDOCOCCUS JANNASCHII,1.75,39363.27,Protein,358
+3DAF,The crystal structure of [Fe]-hydrogenase holoenzyme (HMD) from METHANOCALDOCOCCUS JANNASCHII cocrystallized with cyanide,1.75,39484.26,Protein,358
+3EO4,The crystal structure of a domain from Methanocaldococcus jannaschii DSM 2661,2.19,80752.31,Protein,656
+1I8F,THE CRYSTAL STRUCTURE OF A HEPTAMERIC ARCHAEAL SM PROTEIN: IMPLICATIONS FOR THE EUKARYOTIC SNRNP CORE,1.75,63021.38,Protein,567
+1XRF,"The Crystal Structure of a Novel, Latent Dihydroorotase from Aquifex aeolicus at 1.7 A resolution",1.65,52009.11,Protein,467
+1XRT,"The Crystal Structure of a Novel, Latent Dihydroorotase from Aquifex Aeolicus at 1.7 A Resolution",1.61,103826.1,Protein,934
+2HLS,The crystal structure of a protein disulfide oxidoreductase from Aeropyrum pernix k1,1.93,54799.19,Protein,486
+2AYT,The crystal structure of a protein disulfide oxidoreductase from aquifex aeolicus,2.4,54033.77,Protein,474
+3GGG,The crystal structure of A. aeolicus prephenate dehydrogenase in complex with tyrosine and NAD+,2.21,144071.17,Protein,1256
+3PZ0,The crystal structure of AaLeuRS-CP1,2.4,100442.08,Protein,884
+3PZ5,The crystal structure of AaLeuRS-CP1-D20,2.5,45365.32,Protein,402
+1DOF,THE CRYSTAL STRUCTURE OF ADENYLOSUCCINATE LYASE FROM PYROBACULUM AEROPHILUM: INSIGHTS INTO THERMAL STABILITY AND HUMAN PATHOLOGY,2.1,181693,Protein,1612
+1YFS,The crystal structure of alanyl-tRNA synthetase in complex with L-alanine,2.08,107722.68,Protein,930
+3F46,The Crystal Structure of C176A Mutated [Fe]-Hydrogenase (Hmd) Holoenzyme from Methanocaldococcus jannaschii,1.95,39499.52,Protein,358
+3H65,The Crystal Structure of C176A Mutated [Fe]-Hydrogenase (Hmd) Holoenzyme in Complex with Methylenetetrahydromethanopterin,2.15,40288.21,Protein,358
+1QLM,The crystal structure of methenyltetrahydromethanopterin cyclohydrolase from the hyperthermophilic archaeon Methanopyrus kandleri,2,34378.79,Protein,316
+3H92,The crystal structure of one domain of the protein with unknown function from Methanocaldococcus jannaschii,2.2,11498.26,Protein,92
+2Z0G,The crystal structure of PII protein,2.1,51082.88,Protein,448
+3K32,The crystal structure of predicted subunit of tRNA methyltransferase from Methanocaldococcus jannaschii DSM,2.5,141071.3,Protein,1218
+1MT1,The Crystal Structure of Pyruvoyl-dependent Arginine Decarboxylase from Methanococcus jannaschii,2.2,108692.38,Protein,990
+1N13,The Crystal Structure of Pyruvoyl-dependent Arginine Decarboxylase from Methanococcus jannashii,1.4,108079.73,Protein,990
+2B0J,The crystal structure of the apoenzyme of the iron-sulfur-cluster-free hydrogenase (Hmd),1.75,38739.07,Protein,358
+1YFT,The crystal structure of the catalytic fragment of alanyl-tRNA synthetase in complex wtih glycine,2.23,53847.31,Protein,465
+1RIQ,The crystal structure of the catalytic fragment of the alanyl-tRNA synthetase,2.14,54147.4,Protein,465
+2EYU,The Crystal Structure of the C-terminal Domain of Aquifex aeolicus PilT,1.87,59842.23,Protein,522
+1XM7,The Crystal Structure of the Protein of Unknown Function AQ665 from Aquifex aeolicus,2.4,47374.3,Protein,390
+3WKM,The periplasmic PDZ tandem fragment of the RseP homologue from Aquifex aeolicus in complex with the Fab fragment,2.2,136691.92,Protein,1246
+3BN0,The ribosomal protein S16 from Aquifex aeolicus,2,13159.52,Protein,112
+1N2M,The S53A Proenzyme Structure of Methanococcus jannaschii.,1.9,107196.77,Protein,990
+3HJL,The structure of full-length FliG from Aquifex aeolicus,2.4,37141.33,Protein,329
+1ZS7,The structure of gene product APE0525 from Aeropyrum pernix,1.85,21761.23,Protein,190
+1U6I,The Structure of native coenzyme F420-dependent methylenetetrahydromethanopterin dehydrogenase at 2.2A resolution,2.2,377185.06,Protein,3396
+1U6J,The Structure of native coenzyme F420-dependent methylenetetrahydromethanopterin dehydrogenase at 2.4A resolution,2.4,377185.06,Protein,3396
+2VPL,The structure of the complex between the first domain of L1 protein from Thermus thermophilus and mRNA from Methanococcus jannaschii,2.3,61465.59,"Protein, RNA",370
+4EGW,The structure of the soluble domain of CorA from Methanocaldococcus jannaschii,2.5,68700.81,Protein,560
+5D88,The Structure of the U32 Peptidase Mk0906,1.66,28549.14,Protein,254
+5OT0,The thermostable L-asparaginase from Thermococcus kodakarensis,2.18,215432.44,Protein,1968
+4QJV,The X-ray crystal structure of Rpo3/Rpo11 heterodimer of euryarchaeal RNA polymerase from Thermococcus kodakarensis,1.6,80981.27,Protein,706
+1X0R,Thioredoxin Peroxidase from Aeropyrum pernix K1,2,295788.09,Protein,2490
+1YF2,Three-dimensional structure of DNA sequence specificity (S) subunit of a type I restriction-modification enzyme and its functional implications,2.4,97279.11,Protein,850
+1U6K,TLS refinement of the structure of Se-methionine labelled Coenzyme f420-dependent methylenetetrahydromethanopterin dehydrogenase (MTD) from Methanopyrus kandleri,1.55,96736.52,Protein,849
+1L7N,TRANSITION STATE ANALOGUE OF PHOSPHOSERINE PHOSPHATASE (ALUMINUM FLUORIDE COMPLEX),1.8,48069.27,Protein,422
+4WBY,tRNA-processing enzyme (apo form I),1.5,48802.03,Protein,410
+1N7K,Unique tetrameric structure of deoxyribose phosphate aldolase from Aeropyrum pernix,2,48850.34,Protein,468
+3NEN,Unliganded aspartyl-tRNA synthetase from thermococcus kodakarensis,2.4,101958.83,Protein,876
+2NYV,X-ray crystal structure of a phosphoglycolate phosphatase from Aquifex aeolicus,2.1,25097.59,Protein,222
+3P76,X-ray crystal structure of Aquifex aeolicus LpxC complexed SCH1379777,1.93,31610.9,Protein,271
+2O3Z,X-ray crystal structure of LpxC complexed with 3-heptyloxybenzoate,2.25,63006.26,Protein,542
+4QJF,X-ray crystal structure of Thermocuccus kodakarensis RNA polymerase Rpp4/Rpo7 (RpoF/RpoE) complex,2.31,36413.1,Protein,312
+5L8X,X-RAY STRUCTURE OF APO METHANOCALDOCOCCUS JANNASCHII METHYLTRANSFERASE SUBUNIT A AT 1.85 ANGSTROM,1.85,37126.97,Protein,345
+1ORS,X-ray structure of the KvAP potassium channel voltage sensor in complex with an Fab,1.9,62083.06,Protein,567
+4RRJ,Y115A mutant of N-terminal editing domain of threonyl-tRNA synthetase from Aeropyrum pernix with L-Ser3AA,1.86,15396.65,Protein,136
+4RRK,Y115A mutant of N-terminal editing domain of threonyl-tRNA synthetase from Aeropyrum pernix with L-Thr3AA,1.86,15434.98,Protein,136
+5DY9,Y68T Hfq from Methanococcus jannaschii in complex with AMP,1.6,101582.63,Protein,852
